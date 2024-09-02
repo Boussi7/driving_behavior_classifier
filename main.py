@@ -41,32 +41,20 @@ def process_driving_data(input_csv_file, output_csv_file):
     return compressed_df
 
 # Accept user inupt for file
-def is_valid_filename(filename):
-    # Check if the filename is not empty
-    if not filename:
-        print("Filename cannot be empty.")
+def is_valid_filepath(filepath):
+     if not os.path.isfile(filepath):
+        print("File does not exist. Please enter a valid file path.")
         return False
-
-    # Check for invalid characters in the filename
-    invalid_chars = '<>:"/\\|?*'
-
-    for char in invalid_chars:
-        if char in filename:
-            print(f"Filename contains an invalid character: {char}")
-            return False
-    
-    # Make sure the filename ends in a csv
-    if not filename.endswith(".csv"):
-        print("Filename must end with '.csv'.")
-        return False
-    
-    return True
+     return True
 
 class FileEmptyError(Exception):
     """Exception raised when a file is empty."""
     pass
 
 def open_file_safely(filepath):
+    if (not is_valid_filepath(filepath)):
+        exit(1)
+
     try:
         with open(filepath, 'r') as file:
             content = file.read()
@@ -121,6 +109,7 @@ weights = {
     'Horsepower': 0.2
 }
 
+# Applying weights to their respective z_scores
 weighted_z_scores = z_scores.copy()
 driving_weighted_z_scores = driving_z_scores.copy()
 
@@ -162,7 +151,7 @@ plt.legend()
 plt.show()
 
 ## FROM HERE: Classifying the driving data that isn't 'normal', contains more data and should help the model be more accurate
-## The purpose of having the "normal" data was to find a "line" to classify samples
+## The purpose of having the "normal" data was to find a "line" & std dev to classify samples
 
 driving_pivoted_data['classification'] = np.where(
     driving_pivoted_data['final_score'] > mean_score + std_dev_score, 'Aggressive',
@@ -184,3 +173,5 @@ plt.show()
 # Map the classification back to driving_data & save as a new CSV for model training
 driving_data['classification'] = driving_data['interval'].map(driving_pivoted_data['classification'])
 driving_data.to_csv('classified_driving_data.csv', index=False)
+
+print("Check out classifer.ipynb to see how my neural network and logistic regression models perform against your dataset!")
