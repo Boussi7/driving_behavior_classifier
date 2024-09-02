@@ -1,0 +1,3580 @@
+SECONDS,PID,VALUE,UNITS
+41402.30202,Average speed (GPS),38.7812674,mph
+41402.30202,Speed (GPS),38.7812674,mph
+41402.30302,Altitude (GPS),603.346476,feet
+41403.06702,Altitude (GPS),602.690308,feet
+41403.06702,Average speed (GPS),39.59361354,mph
+41403.06702,Speed (GPS),39.70189096,mph
+41403.09402,Altitude (GPS),602.690308,feet
+41403.09402,Average speed (GPS),39.5969512,mph
+41403.09402,Speed (GPS),39.70189096,mph
+41404.08602,Altitude (GPS),601.377972,feet
+41404.08602,Average speed (GPS),40.13622744,mph
+41404.08602,Speed (GPS),40.62251452,mph
+41404.16602,Altitude (GPS),601.377972,feet
+41404.16602,Average speed (GPS),40.15602342,mph
+41404.16602,Speed (GPS),40.62251452,mph
+41405.09002,Altitude (GPS),600.065636,feet
+41405.09002,Average speed (GPS),40.52582197,mph
+41405.09002,Speed (GPS),41.31298218,mph
+41405.11302,Altitude (GPS),600.065636,feet
+41405.11302,Average speed (GPS),40.53205075,mph
+41405.11302,Speed (GPS),41.31298218,mph
+41406.05502,Altitude (GPS),598.7533,feet
+41406.05502,Average speed (GPS),40.86337739,mph
+41406.05502,Speed (GPS),41.88837191,mph
+41406.06902,Altitude (GPS),598.7533,feet
+41406.06902,Average speed (GPS),40.86708208,mph
+41406.06902,Speed (GPS),41.88837191,mph
+41407.06602,Altitude (GPS),597.11288,feet
+41407.06602,Average speed (GPS),41.21775693,mph
+41407.06602,Speed (GPS),42.57883958,mph
+41407.09102,Altitude (GPS),597.11288,feet
+41407.09102,Average speed (GPS),41.22477181,mph
+41407.09102,Speed (GPS),42.57883958,mph
+41408.10602,Altitude (GPS),595.144376,feet
+41408.10602,Average speed (GPS),41.55631094,mph
+41408.10602,Speed (GPS),43.1542293,mph
+41408.15302,Altitude (GPS),595.144376,feet
+41408.15302,Average speed (GPS),41.56905756,mph
+41408.15302,Speed (GPS),43.1542293,mph
+41409.06802,Altitude (GPS),593.503956,feet
+41409.06802,Average speed (GPS),41.79555186,mph
+41409.06802,Speed (GPS),43.26930725,mph
+41409.09502,Altitude (GPS),593.503956,feet
+41409.09502,Average speed (GPS),41.80120215,mph
+41409.09502,Speed (GPS),43.26930725,mph
+41410.06902,Altitude (GPS),592.19162,feet
+41410.06902,Average speed (GPS),41.98301391,mph
+41410.06902,Speed (GPS),43.26930725,mph
+41410.16102,Altitude (GPS),592.19162,feet
+41411.10702,Altitude (GPS),591.535452,feet
+41411.10702,Average speed (GPS),42.17316647,mph
+41411.10702,Speed (GPS),43.61454108,mph
+41412.14602,Average speed (GPS),42.34771763,mph
+41412.14602,Speed (GPS),43.84469697,mph
+41413.99202,Altitude (GPS),592.19162,feet
+41413.99202,Average speed (GPS),42.32985281,mph
+41413.99202,Speed (GPS),42.23360574,mph
+41414.25002,Altitude (GPS),592.847788,feet
+41414.25002,Average speed (GPS),42.31052763,mph
+41414.25002,Speed (GPS),41.42806013,mph
+41415.40302,Altitude (GPS),594.816292,feet
+41415.40302,Average speed (GPS),42.16313803,mph
+41415.40302,Speed (GPS),40.62251452,mph
+41416.12502,Altitude (GPS),596.784796,feet
+41416.12502,Average speed (GPS),42.06532009,mph
+41416.12502,Speed (GPS),40.27728068,mph
+41417.11502,Altitude (GPS),598.097132,feet
+41417.11502,Average speed (GPS),42.00776257,mph
+41417.11502,Speed (GPS),41.19790424,mph
+41418.13202,Altitude (GPS),600.39372,feet
+41418.13202,Average speed (GPS),41.98544885,mph
+41418.13202,Speed (GPS),41.65821602,mph
+41419.20902,Altitude (GPS),602.690308,feet
+41419.20902,Average speed (GPS),41.95744538,mph
+41419.20902,Speed (GPS),41.54313807,mph
+41420.10402,Altitude (GPS),604.330728,feet
+41420.10402,Average speed (GPS),41.89647258,mph
+41420.10402,Speed (GPS),40.73759246,mph
+41421.13702,Altitude (GPS),605.971148,feet
+41421.13702,Average speed (GPS),41.73903269,mph
+41421.13702,Speed (GPS),39.01142329,mph
+41422.14102,Average speed (GPS),41.48581213,mph
+41422.14102,Speed (GPS),36.70986439,mph
+41422.14202,Altitude (GPS),607.283484,feet
+41423.61102,Altitude (GPS),608.59582,feet
+41423.61102,Average speed (GPS),41.01583027,mph
+41423.61102,Speed (GPS),34.63846139,mph
+41424.34602,Altitude (GPS),608.923904,feet
+41424.34602,Average speed (GPS),40.75472198,mph
+41424.34602,Speed (GPS),33.1424481,mph
+41425.09602,Altitude (GPS),609.580072,feet
+41425.09602,Average speed (GPS),40.47885716,mph
+41425.09602,Speed (GPS),32.33690249,mph
+41426.25502,Average speed (GPS),40.10864026,mph
+41426.25502,Speed (GPS),32.79721427,mph
+41427.07502,Average speed (GPS),39.89420741,mph
+41427.07502,Speed (GPS),33.60275988,mph
+41428.07302,Altitude (GPS),610.23624,feet
+41428.07302,Average speed (GPS),39.66047471,mph
+41428.07302,Speed (GPS),33.83291577,mph
+41429.12802,Altitude (GPS),610.564324,feet
+41429.12802,Average speed (GPS),39.49530554,mph
+41429.12802,Speed (GPS),35.444007,mph
+41430.07802,Average speed (GPS),39.40820111,mph
+41430.07802,Speed (GPS),36.94002028,mph
+41431.25602,Average speed (GPS),39.3827805,mph
+41431.25602,Speed (GPS),38.7812674,mph
+41432.21502,Altitude (GPS),611.220492,feet
+41432.21502,Average speed (GPS),39.38929891,mph
+41432.21502,Speed (GPS),39.58681301,mph
+41433.15502,Altitude (GPS),611.548576,feet
+41433.15502,Average speed (GPS),39.39879011,mph
+41433.15502,Speed (GPS),39.70189096,mph
+41434.23902,Altitude (GPS),611.220492,feet
+41434.23902,Average speed (GPS),39.38957355,mph
+41434.23902,Speed (GPS),39.12650123,mph
+41435.15502,Average speed (GPS),39.36308891,mph
+41435.15502,Speed (GPS),38.43603356,mph
+41436.21202,Altitude (GPS),610.892408,feet
+41436.21202,Average speed (GPS),39.32711955,mph
+41436.21202,Speed (GPS),38.20587767,mph
+41437.16702,Altitude (GPS),609.908156,feet
+41437.16702,Average speed (GPS),39.33421396,mph
+41437.16702,Speed (GPS),39.58681301,mph
+41438.22402,Average speed (GPS),39.39229117,mph
+41438.22402,Speed (GPS),41.31298218,mph
+41438.22502,Altitude (GPS),609.580072,feet
+41439.41002,Altitude (GPS),608.59582,feet
+41439.41002,Average speed (GPS),39.49746239,mph
+41439.41002,Speed (GPS),42.69391752,mph
+41441.02302,Average speed (GPS),39.67331605,mph
+41441.02302,Speed (GPS),43.72961902,mph
+41441.15502,Altitude (GPS),607.939652,feet
+41441.15502,Average speed (GPS),39.68786076,mph
+41441.15502,Speed (GPS),43.95977491,mph
+41442.09902,Altitude (GPS),608.267736,feet
+41442.09902,Average speed (GPS),39.79434935,mph
+41442.09902,Speed (GPS),44.1899308,mph
+41443.18102,Average speed (GPS),39.92559828,mph
+41443.18102,Speed (GPS),44.76532053,mph
+41444.14202,Altitude (GPS),608.923904,feet
+41444.14202,Average speed (GPS),40.03382103,mph
+41444.14202,Speed (GPS),44.65024258,mph
+41445.23702,Altitude (GPS),609.251988,feet
+41445.23702,Average speed (GPS),40.13959361,mph
+41445.23702,Speed (GPS),44.1899308,mph
+41446.18002,Average speed (GPS),40.21654807,mph
+41446.18002,Speed (GPS),43.72961902,mph
+41447.13102,Average speed (GPS),40.28118588,mph
+41447.13102,Speed (GPS),43.26930725,mph
+41448.20402,Altitude (GPS),610.23624,feet
+41448.20402,Average speed (GPS),40.34552912,mph
+41448.20402,Speed (GPS),43.03915136,mph
+41449.14402,Altitude (GPS),611.548576,feet
+41449.14402,Average speed (GPS),40.37410477,mph
+41449.14402,Speed (GPS),41.77329396,mph
+41450.23702,Average speed (GPS),40.39547082,mph
+41450.23702,Speed (GPS),41.31298218,mph
+41451.20202,Altitude (GPS),612.532828,feet
+41451.20202,Average speed (GPS),40.40220765,mph
+41451.20202,Speed (GPS),40.73759246,mph
+41452.27302,Altitude (GPS),613.188996,feet
+41452.27302,Average speed (GPS),40.39461494,mph
+41452.27302,Speed (GPS),40.04712479,mph
+41453.22402,Altitude (GPS),613.51708,feet
+41453.22402,Average speed (GPS),40.36667942,mph
+41453.22402,Speed (GPS),38.89634534,mph
+41454.16702,Altitude (GPS),614.173248,feet
+41454.16702,Average speed (GPS),40.29403456,mph
+41454.16702,Speed (GPS),36.36463056,mph
+41455.13202,Altitude (GPS),614.829416,feet
+41455.13202,Average speed (GPS),40.16786329,mph
+41455.13202,Speed (GPS),33.37260399,mph
+41456.21802,Average speed (GPS),39.95037608,mph
+41456.21802,Speed (GPS),29.34487592,mph
+41457.16502,Average speed (GPS),39.71202872,mph
+41457.16502,Speed (GPS),26.12269347,mph
+41458.24802,Average speed (GPS),39.38273464,mph
+41458.24802,Speed (GPS),22.67035513,mph
+41459.19302,Altitude (GPS),615.1575,feet
+41459.19302,Average speed (GPS),39.03118927,mph
+41459.19302,Speed (GPS),18.18231528,mph
+41460.14302,Altitude (GPS),614.829416,feet
+41460.14302,Average speed (GPS),38.61387282,mph
+41460.14302,Speed (GPS),13.57919749,mph
+41461.23302,Altitude (GPS),614.501332,feet
+41461.23302,Average speed (GPS),38.08603998,mph
+41461.23302,Speed (GPS),10.0117812,mph
+41462.18802,Altitude (GPS),614.173248,feet
+41462.18802,Average speed (GPS),37.62613295,mph
+41462.18802,Speed (GPS),9.206235584,mph
+41463.13402,Altitude (GPS),613.51708,feet
+41463.13402,Average speed (GPS),37.19905497,mph
+41463.13402,Speed (GPS),10.12685914,mph
+41464.21902,Average speed (GPS),36.76371453,mph
+41464.21902,Speed (GPS),12.31334009,mph
+41465.15802,Average speed (GPS),36.44368617,mph
+41465.15802,Speed (GPS),15.30536666,mph
+41466.11902,Altitude (GPS),613.845164,feet
+41466.11902,Average speed (GPS),36.17599437,mph
+41466.11902,Speed (GPS),18.64262706,mph
+41467.21002,Altitude (GPS),613.51708,feet
+41467.21002,Average speed (GPS),35.93200531,mph
+41467.21002,Speed (GPS),21.63465362,mph
+41468.15702,Altitude (GPS),613.188996,feet
+41468.15702,Average speed (GPS),35.76151498,mph
+41468.15702,Speed (GPS),24.05129046,mph
+41469.11902,Average speed (GPS),35.61456693,mph
+41469.11902,Speed (GPS),25.54730375,mph
+41469.12002,Altitude (GPS),613.51708,feet
+41470.19502,Average speed (GPS),35.48268133,mph
+41470.19502,Speed (GPS),27.27347292,mph
+41471.13302,Altitude (GPS),613.845164,feet
+41471.13302,Average speed (GPS),35.39441963,mph
+41471.13302,Speed (GPS),28.99964209,mph
+41472.22902,Altitude (GPS),614.173248,feet
+41472.22902,Average speed (GPS),35.31232065,mph
+41472.22902,Speed (GPS),30.15042154,mph
+41473.17902,Average speed (GPS),35.24630952,mph
+41473.17902,Speed (GPS),30.38057743,mph
+41473.18002,Altitude (GPS),613.845164,feet
+41474.27802,Altitude (GPS),613.188996,feet
+41474.27802,Average speed (GPS),35.1791952,mph
+41474.27802,Speed (GPS),30.84088921,mph
+41476.15802,Altitude (GPS),612.532828,feet
+41476.15802,Average speed (GPS),35.09816295,mph
+41476.15802,Speed (GPS),31.99166866,mph
+41476.29102,Altitude (GPS),611.87666,feet
+41476.29102,Average speed (GPS),35.09505699,mph
+41476.29102,Speed (GPS),33.37260399,mph
+41477.24602,Altitude (GPS),611.220492,feet
+41477.24602,Average speed (GPS),35.08924902,mph
+41477.24602,Speed (GPS),34.63846139,mph
+41478.20402,Altitude (GPS),610.564324,feet
+41478.20402,Average speed (GPS),35.0980771,mph
+41478.20402,Speed (GPS),35.78924083,mph
+41479.15202,Altitude (GPS),610.23624,feet
+41479.15202,Average speed (GPS),35.11509877,mph
+41479.15202,Speed (GPS),36.4797085,mph
+41480.11602,Altitude (GPS),609.908156,feet
+41480.11602,Average speed (GPS),35.14051818,mph
+41480.11602,Speed (GPS),37.17017617,mph
+41481.18202,Average speed (GPS),35.17569262,mph
+41481.18202,Speed (GPS),37.7455659,mph
+41482.26302,Altitude (GPS),609.580072,feet
+41482.26302,Average speed (GPS),35.21970704,mph
+41482.26302,Speed (GPS),38.43603356,mph
+41483.22702,Altitude (GPS),608.923904,feet
+41483.22702,Average speed (GPS),35.26481716,mph
+41483.22702,Speed (GPS),39.01142329,mph
+41484.17302,Altitude (GPS),608.59582,feet
+41484.17302,Average speed (GPS),35.31467286,mph
+41484.17302,Speed (GPS),39.58681301,mph
+41485.14402,Average speed (GPS),35.36606465,mph
+41485.14402,Speed (GPS),39.70189096,mph
+41486.20702,Altitude (GPS),608.267736,feet
+41486.20702,Average speed (GPS),35.41216264,mph
+41486.20702,Speed (GPS),39.01142329,mph
+41487.15202,Average speed (GPS),35.4406892,mph
+41487.15202,Speed (GPS),37.97572178,mph
+41488.12802,Altitude (GPS),607.939652,feet
+41488.12802,Average speed (GPS),35.45640229,mph
+41488.12802,Speed (GPS),36.82494234,mph
+41489.19802,Altitude (GPS),607.611568,feet
+41489.19802,Average speed (GPS),35.461916,mph
+41489.19802,Speed (GPS),35.90431878,mph
+41490.15402,Altitude (GPS),607.283484,feet
+41490.15402,Average speed (GPS),35.46047068,mph
+41490.15402,Speed (GPS),35.32892905,mph
+41491.23602,Altitude (GPS),606.627316,feet
+41491.23602,Average speed (GPS),35.47005551,mph
+41491.23602,Speed (GPS),36.24955261,mph
+41492.17602,Altitude (GPS),605.971148,feet
+41492.17602,Average speed (GPS),35.49263992,mph
+41492.17602,Speed (GPS),37.63048795,mph
+41493.13702,Average speed (GPS),35.52857806,mph
+41493.13702,Speed (GPS),38.89634534,mph
+41494.22302,Altitude (GPS),605.31498,feet
+41494.22302,Average speed (GPS),35.58192055,mph
+41494.22302,Speed (GPS),40.04712479,mph
+41495.15502,Average speed (GPS),35.63592169,mph
+41495.15502,Speed (GPS),40.96774835,mph
+41496.14202,Altitude (GPS),605.643064,feet
+41496.14202,Average speed (GPS),35.69800452,mph
+41496.14202,Speed (GPS),41.54313807,mph
+41497.20302,Average speed (GPS),35.76839649,mph
+41497.20302,Speed (GPS),42.00344985,mph
+41498.15602,Altitude (GPS),605.31498,feet
+41498.15602,Average speed (GPS),35.83830631,mph
+41498.15602,Speed (GPS),42.80899547,mph
+41499.25002,Average speed (GPS),35.92729492,mph
+41499.25002,Speed (GPS),43.72961902,mph
+41500.17702,Average speed (GPS),36.01088483,mph
+41500.17702,Speed (GPS),44.76532053,mph
+41501.14902,Altitude (GPS),605.643064,feet
+41501.14902,Average speed (GPS),36.11494971,mph
+41501.14902,Speed (GPS),46.60656764,mph
+41502.22202,Altitude (GPS),605.31498,feet
+41502.22202,Average speed (GPS),36.24481353,mph
+41502.22202,Speed (GPS),48.21765887,mph
+41503.15702,Average speed (GPS),36.36431142,mph
+41503.15702,Speed (GPS),49.13828243,mph
+41503.15802,Altitude (GPS),603.67456,feet
+41504.14902,Average speed (GPS),36.49527349,mph
+41504.14902,Speed (GPS),49.8287501,mph
+41505.20402,Average speed (GPS),36.64481275,mph
+41505.20402,Speed (GPS),51.09460749,mph
+41506.16602,Altitude (GPS),604.658812,feet
+41506.16602,Average speed (GPS),36.78814057,mph
+41506.16602,Speed (GPS),52.130309,mph
+41507.14202,Altitude (GPS),606.627316,feet
+41507.14202,Average speed (GPS),36.94364211,mph
+41507.14202,Speed (GPS),53.51124433,mph
+41508.24402,Altitude (GPS),607.611568,feet
+41508.24402,Average speed (GPS),37.1301448,mph
+41508.24402,Speed (GPS),54.89217967,mph
+41509.20002,Altitude (GPS),608.923904,feet
+41509.20002,Average speed (GPS),37.3001091,mph
+41509.20002,Speed (GPS),56.15803706,mph
+41510.14402,Altitude (GPS),610.23624,feet
+41510.14402,Average speed (GPS),37.47604545,mph
+41510.14402,Speed (GPS),57.42389446,mph
+41511.12002,Altitude (GPS),611.220492,feet
+41511.12002,Average speed (GPS),37.6642143,mph
+41511.12002,Speed (GPS),58.45959596,mph
+41512.09502,Average speed (GPS),37.85485727,mph
+41512.09502,Speed (GPS),59.15006363,mph
+41512.09602,Altitude (GPS),612.204744,feet
+41513.20202,Altitude (GPS),613.51708,feet
+41513.20202,Average speed (GPS),38.07968621,mph
+41513.20202,Speed (GPS),60.41592102,mph
+41514.18102,Altitude (GPS),613.845164,feet
+41514.18102,Average speed (GPS),38.28606822,mph
+41514.18102,Speed (GPS),61.68177841,mph
+41515.16002,Average speed (GPS),38.50278252,mph
+41515.16002,Speed (GPS),63.29286964,mph
+41516.14202,Average speed (GPS),38.7292738,mph
+41516.14202,Speed (GPS),64.78888292,mph
+41517.14302,Altitude (GPS),613.51708,feet
+41517.14302,Average speed (GPS),38.96630557,mph
+41517.14302,Speed (GPS),65.93966237,mph
+41518.22202,Altitude (GPS),613.845164,feet
+41518.22202,Average speed (GPS),39.21925636,mph
+41518.22202,Speed (GPS),66.16981826,mph
+41519.19502,Average speed (GPS),39.43766131,mph
+41519.19502,Speed (GPS),65.47935059,mph
+41520.17702,Altitude (GPS),613.51708,feet
+41520.17702,Average speed (GPS),39.64787237,mph
+41520.17702,Speed (GPS),64.67380498,mph
+41521.16002,Altitude (GPS),613.845164,feet
+41521.16002,Average speed (GPS),39.84694664,mph
+41521.16002,Speed (GPS),63.75318142,mph
+41522.15202,Average speed (GPS),40.03140396,mph
+41522.15202,Speed (GPS),62.14209019,mph
+41523.12002,Altitude (GPS),614.173248,feet
+41523.12002,Average speed (GPS),40.18808292,mph
+41523.12002,Speed (GPS),59.61037541,mph
+41524.21802,Average speed (GPS),40.35246258,mph
+41524.21802,Speed (GPS),58.45959596,mph
+41525.20002,Altitude (GPS),614.829416,feet
+41525.20002,Average speed (GPS),40.50170797,mph
+41525.20002,Speed (GPS),59.03498568,mph
+41526.18402,Altitude (GPS),615.485584,feet
+41526.18402,Average speed (GPS),40.66434876,mph
+41526.18402,Speed (GPS),60.99131075,mph
+41527.16202,Altitude (GPS),616.141752,feet
+41527.16202,Average speed (GPS),40.84864014,mph
+41527.16202,Speed (GPS),64.2134932,mph
+41528.14602,Average speed (GPS),41.05631543,mph
+41528.14602,Speed (GPS),67.43567565,mph
+41529.10802,Average speed (GPS),41.27723412,mph
+41529.10802,Speed (GPS),70.19754633,mph
+41530.22202,Altitude (GPS),616.469836,feet
+41530.22202,Average speed (GPS),41.53780678,mph
+41530.22202,Speed (GPS),71.23324783,mph
+41531.90702,Average speed (GPS),41.91754502,mph
+41531.90702,Speed (GPS),70.77293605,mph
+41532.18702,Average speed (GPS),41.9787832,mph
+41532.18702,Speed (GPS),70.31262427,mph
+41533.16102,Average speed (GPS),42.19039638,mph
+41533.16102,Speed (GPS),70.42770222,mph
+41534.13102,Altitude (GPS),616.79792,feet
+41534.13102,Average speed (GPS),42.39708987,mph
+41534.13102,Speed (GPS),70.31262427,mph
+41535.11302,Altitude (GPS),616.469836,feet
+41535.11302,Average speed (GPS),42.59747059,mph
+41535.11302,Speed (GPS),69.50707866,mph
+41536.23002,Altitude (GPS),616.79792,feet
+41536.23002,Average speed (GPS),42.81591759,mph
+41536.23002,Speed (GPS),68.81661099,mph
+41537.21102,Average speed (GPS),42.99994832,mph
+41537.21102,Speed (GPS),68.12614332,mph
+41538.18402,Altitude (GPS),616.469836,feet
+41538.18402,Average speed (GPS),43.1755502,mph
+41538.18402,Speed (GPS),67.5507536,mph
+41539.14902,Average speed (GPS),43.34564045,mph
+41539.14902,Speed (GPS),67.32059771,mph
+41541.11702,Altitude (GPS),616.79792,feet
+41541.11702,Average speed (GPS),43.68692347,mph
+41541.11702,Speed (GPS),67.43567565,mph
+41542.10802,Altitude (GPS),616.469836,feet
+41542.10802,Average speed (GPS),43.85677995,mph
+41542.10802,Speed (GPS),67.66583154,mph
+41543.21002,Average speed (GPS),44.04381473,mph
+41543.21002,Speed (GPS),67.78090949,mph
+41544.17402,Altitude (GPS),615.813668,feet
+41544.17402,Average speed (GPS),44.20656947,mph
+41544.17402,Speed (GPS),68.01106538,mph
+41545.16302,Altitude (GPS),615.1575,feet
+41545.16302,Average speed (GPS),44.37195596,mph
+41545.16302,Speed (GPS),68.12614332,mph
+41546.14102,Average speed (GPS),44.53569518,mph
+41546.14102,Speed (GPS),68.47137716,mph
+41547.12602,Altitude (GPS),615.485584,feet
+41548.10202,Altitude (GPS),615.813668,feet
+41549.20002,Average speed (GPS),45.04096406,mph
+41549.20002,Speed (GPS),68.81661099,mph
+41550.18202,Altitude (GPS),616.141752,feet
+41550.18202,Average speed (GPS),45.20253794,mph
+41550.18202,Speed (GPS),69.39200072,mph
+41551.13502,Altitude (GPS),615.813668,feet
+41551.13502,Average speed (GPS),45.36177733,mph
+41551.13502,Speed (GPS),70.08246838,mph
+41552.19102,Average speed (GPS),45.53910772,mph
+41552.19102,Speed (GPS),70.54278016,mph
+41553.12502,Average speed (GPS),45.69587141,mph
+41553.12502,Speed (GPS),70.888014,mph
+41554.21602,Average speed (GPS),45.87761911,mph
+41554.21602,Speed (GPS),71.00309194,mph
+41555.20302,Altitude (GPS),616.469836,feet
+41555.20302,Average speed (GPS),46.04038347,mph
+41555.20302,Speed (GPS),71.11816989,mph
+41556.16102,Altitude (GPS),616.79792,feet
+41557.21102,Altitude (GPS),616.469836,feet
+41557.21102,Average speed (GPS),46.36367365,mph
+41557.21102,Speed (GPS),71.00309194,mph
+41558.15402,Altitude (GPS),616.79792,feet
+41558.15402,Average speed (GPS),46.51208075,mph
+41558.15402,Speed (GPS),70.888014,mph
+41559.17302,Altitude (GPS),617.126004,feet
+41560.17402,Altitude (GPS),616.79792,feet
+41561.18202,Altitude (GPS),617.454088,feet
+41561.18202,Average speed (GPS),46.9806334,mph
+41561.18202,Speed (GPS),71.11816989,mph
+41562.11702,Altitude (GPS),617.126004,feet
+41562.11702,Average speed (GPS),47.12253963,mph
+41562.11702,Speed (GPS),71.23324783,mph
+41563.17802,Average speed (GPS),47.28294889,mph
+41563.17802,Speed (GPS),71.46340372,mph
+41564.20402,Average speed (GPS),47.43673121,mph
+41564.20402,Speed (GPS),71.57848167,mph
+41565.14402,Average speed (GPS),47.5773259,mph
+41565.14402,Speed (GPS),71.80863756,mph
+41566.12102,Altitude (GPS),617.454088,feet
+41566.12102,Average speed (GPS),47.72111296,mph
+41566.12102,Speed (GPS),71.69355961,mph
+41567.18202,Average speed (GPS),47.87449546,mph
+41567.18202,Speed (GPS),71.57848167,mph
+41568.15802,Average speed (GPS),48.01263591,mph
+41568.15802,Speed (GPS),71.34832578,mph
+41569.22502,Average speed (GPS),48.16096252,mph
+41569.22502,Speed (GPS),71.23324783,mph
+41570.16202,Average speed (GPS),48.28894884,mph
+41570.16202,Speed (GPS),71.11816989,mph
+41571.14502,Altitude (GPS),617.126004,feet
+41571.14502,Average speed (GPS),48.42121693,mph
+41571.14502,Speed (GPS),71.00309194,mph
+41572.20102,Altitude (GPS),617.782172,feet
+41572.20102,Average speed (GPS),48.56070413,mph
+41572.20102,Speed (GPS),70.888014,mph
+41573.60202,Altitude (GPS),617.454088,feet
+41573.60202,Average speed (GPS),48.74224661,mph
+41573.60202,Speed (GPS),70.77293605,mph
+41574.15402,Altitude (GPS),617.782172,feet
+41574.15402,Average speed (GPS),48.81259352,mph
+41574.15402,Speed (GPS),70.65785811,mph
+41575.18302,Average speed (GPS),48.94125578,mph
+41575.18302,Speed (GPS),70.42770222,mph
+41576.16702,Average speed (GPS),49.06214384,mph
+41576.16702,Speed (GPS),70.31262427,mph
+41577.22302,Altitude (GPS),617.454088,feet
+41578.19902,Average speed (GPS),49.30614837,mph
+41578.19902,Speed (GPS),70.19754633,mph
+41579.73802,Calculated instant fuel rate,1.406987583,gal./h
+41579.73802,Engine Fuel Rate,1.08,g/sec
+41579.73802,Instant engine power (based on fuel consumption),20.83647321,hp
+41579.73802,Vehicle Fuel Rate,1.08,g/sec
+41579.73802,Vehicle speed,69.59357353,mph
+41579.84602,Average fuel consumption,50.14871027,MPG
+41579.84602,Average fuel consumption (total),19.84760274,MPG
+41579.84602,Average fuel consumption 10 sec,50.14871027,MPG
+41579.84602,Calculated instant fuel consumption,49.46290741,MPG
+41579.84602,Calculated instant fuel rate,1.406987583,gal./h
+41579.84602,Distance travelled,0.002018623,miles
+41579.84602,Distance travelled (total),2.61545312,miles
+41579.84602,Engine Fuel Rate,1.08,g/sec
+41579.84602,Fuel used,4.03E-05,gallon
+41579.84602,Fuel used (total),0.131776984,gallon
+41579.84602,Fuel used price,0.00014008,$
+41579.84602,Fuel used price (total),0.46,$
+41579.84602,Instant engine power (based on fuel consumption),20.83647321,hp
+41579.84602,Vehicle Fuel Rate,1.08,g/sec
+41579.84602,Vehicle speed,69.59357353,mph
+41579.94602,Average fuel consumption,49.61907486,MPG
+41579.94602,Average fuel consumption (total),19.85639021,MPG
+41579.94602,Average fuel consumption 10 sec,49.88248673,MPG
+41579.94602,Average speed,143.1900148,mph
+41579.94602,Calculated instant fuel consumption,49.90454051,MPG
+41579.94602,Calculated instant fuel rate,1.406987583,gal./h
+41579.94602,Distance travelled,0.003963388,miles
+41579.94602,Distance travelled (total),2.617397885,miles
+41579.94602,Engine Fuel Rate,1.08,g/sec
+41579.94602,Fuel used,7.99E-05,gallon
+41579.94602,Fuel used (total),0.131816608,gallon
+41579.94602,Fuel used price,0.00027797,$
+41579.94602,Fuel used price (total),0.46,$
+41579.94602,Instant engine power (based on fuel consumption),20.83647321,hp
+41579.94602,Vehicle Fuel Rate,1.08,g/sec
+41579.94602,Vehicle speed,70.21494472,mph
+41580.03602,Average fuel consumption,50.02284354,MPG
+41580.03602,Average fuel consumption (total),19.86453816,MPG
+41580.03602,Average fuel consumption 10 sec,49.92918474,MPG
+41580.03602,Average speed,108.5066711,mph
+41580.03602,Calculated instant fuel consumption,49.90454051,MPG
+41580.03602,Calculated instant fuel rate,1.406987583,gal./h
+41580.03602,Distance travelled,0.005723618,miles
+41580.03602,Distance travelled (total),2.619158115,miles
+41580.03602,Engine Fuel Rate,1.08,g/sec
+41580.03602,Fuel used,0.00011442,gallon
+41580.03602,Fuel used (total),0.131851152,gallon
+41580.03602,Fuel used price,0.000398183,$
+41580.03602,Fuel used price (total),0.46,$
+41580.03602,Instant engine power (based on fuel consumption),20.83647321,hp
+41580.03602,Vehicle Fuel Rate,1.08,g/sec
+41580.03602,Vehicle speed,70.21494472,mph
+41580.12602,Average fuel consumption,49.79694959,MPG
+41580.12602,Average fuel consumption (total),19.87239518,MPG
+41580.12602,Average fuel consumption 10 sec,49.89606015,MPG
+41580.12602,Average speed,95.98899456,mph
+41580.12602,Calculated instant fuel consumption,49.46290741,MPG
+41580.12602,Calculated instant fuel rate,1.406987583,gal./h
+41580.12602,Distance travelled,0.007464699,miles
+41580.12602,Distance travelled (total),2.620899195,miles
+41580.12602,Engine Fuel Rate,1.08,g/sec
+41580.12602,Fuel used,0.000149903,gallon
+41580.12602,Fuel used (total),0.131886634,gallon
+41580.12602,Fuel used price,0.000521662,$
+41580.12602,Fuel used price (total),0.46,$
+41580.12602,Instant engine power (based on fuel consumption),20.83647321,hp
+41580.12602,Vehicle Fuel Rate,1.08,g/sec
+41580.12602,Vehicle speed,69.59357353,mph
+41580.21002,Altitude (GPS),617.126004,feet
+41580.21002,Average speed (GPS),49.54085223,mph
+41580.21002,Speed (GPS),70.08246838,mph
+41580.21602,Average fuel consumption,49.75470606,MPG
+41580.21602,Average fuel consumption (total),19.88023569,MPG
+41580.21602,Average fuel consumption 10 sec,49.86772512,MPG
+41580.21602,Average speed,89.60557821,mph
+41580.21602,Calculated instant fuel consumption,49.46290741,MPG
+41580.21602,Calculated instant fuel rate,1.406987583,gal./h
+41580.21602,Distance travelled,0.009191093,miles
+41580.21602,Distance travelled (total),2.62262559,miles
+41580.21602,Engine Fuel Rate,1.08,g/sec
+41580.21602,Fuel used,0.000184728,gallon
+41580.21602,Fuel used (total),0.13192146,gallon
+41580.21602,Fuel used price,0.000642855,$
+41580.21602,Fuel used price (total),0.46,$
+41580.21602,Instant engine power (based on fuel consumption),20.83647321,hp
+41580.21602,Vehicle acceleration,0,m/s²
+41580.21602,Vehicle Fuel Rate,1.08,g/sec
+41580.21602,Vehicle speed,69.59357353,mph
+41580.30602,Average fuel consumption,49.82424643,MPG
+41580.30602,Average fuel consumption (total),19.88833298,MPG
+41580.30602,Average fuel consumption 10 sec,49.8604734,MPG
+41580.30602,Average speed,85.78074956,mph
+41580.30602,Calculated instant fuel consumption,49.90454051,MPG
+41580.30602,Calculated instant fuel rate,1.406987583,gal./h
+41580.30602,Distance travelled,0.010960438,miles
+41580.30602,Distance travelled (total),2.624394934,miles
+41580.30602,Engine Fuel Rate,1.08,g/sec
+41580.30602,Fuel used,0.000219982,gallon
+41580.30602,Fuel used (total),0.131956714,gallon
+41580.30602,Fuel used price,0.000765539,$
+41580.30602,Fuel used price (total),0.46,$
+41580.30602,Instant engine power (based on fuel consumption),20.83647321,hp
+41580.30602,Vehicle Fuel Rate,1.08,g/sec
+41580.30602,Vehicle speed,70.21494472,mph
+41580.39502,Average fuel consumption,49.71253027,MPG
+41580.39502,Average fuel consumption (total),19.89612197,MPG
+41580.39502,Average fuel consumption 10 sec,49.83928478,MPG
+41580.39502,Average speed,83.2647172,mph
+41580.39502,Calculated instant fuel consumption,49.90454051,MPG
+41580.39502,Calculated instant fuel rate,1.433042908,gal./h
+41580.39502,Distance travelled,0.012690489,miles
+41580.39502,Distance travelled (total),2.626124986,miles
+41580.39502,Engine Fuel Rate,1.1,g/sec
+41580.39502,Fuel used,0.000255278,gallon
+41580.39502,Fuel used (total),0.131992009,gallon
+41580.39502,Fuel used price,0.000888367,$
+41580.39502,Fuel used price (total),0.46,$
+41580.39502,Instant engine power (based on fuel consumption),21.22233382,hp
+41580.39502,Vehicle Fuel Rate,1.1,g/sec
+41580.39502,Vehicle speed,70.21494472,mph
+41580.48602,Average fuel consumption,49.57045443,MPG
+41580.48602,Average fuel consumption (total),19.90396835,MPG
+41580.48602,Average fuel consumption 10 sec,49.80552163,MPG
+41580.48602,Average speed,81.32404218,mph
+41580.48602,Calculated instant fuel consumption,48.56358182,MPG
+41580.48602,Calculated instant fuel rate,1.433042908,gal./h
+41580.48602,Distance travelled,0.014445328,miles
+41580.48602,Distance travelled (total),2.627879824,miles
+41580.48602,Engine Fuel Rate,1.1,g/sec
+41580.48602,Fuel used,0.00029141,gallon
+41580.48602,Fuel used (total),0.132028142,gallon
+41580.48602,Fuel used price,0.001014108,$
+41580.48602,Fuel used price (total),0.46,$
+41580.48602,Instant engine power (based on fuel consumption),21.22233382,hp
+41580.48602,Vehicle Fuel Rate,1.1,g/sec
+41580.48602,Vehicle speed,69.59357353,mph
+41580.57702,Average fuel consumption,49.45664407,MPG
+41580.57702,Average fuel consumption (total),19.91184586,MPG
+41580.57702,Average fuel consumption 10 sec,49.76651458,MPG
+41580.57702,Average speed,79.85934184,mph
+41580.57702,Calculated instant fuel consumption,48.56358182,MPG
+41580.57702,Calculated instant fuel rate,1.433042908,gal./h
+41580.57702,Distance travelled,0.016208678,miles
+41580.57702,Distance travelled (total),2.629643175,miles
+41580.57702,Engine Fuel Rate,1.1,g/sec
+41580.57702,Fuel used,0.000327736,gallon
+41580.57702,Fuel used (total),0.132064467,gallon
+41580.57702,Fuel used price,0.00114052,$
+41580.57702,Fuel used price (total),0.46,$
+41580.57702,Instant engine power (based on fuel consumption),21.22233382,hp
+41580.57702,Vehicle acceleration,0,m/s²
+41580.57702,Vehicle Fuel Rate,1.1,g/sec
+41580.57702,Vehicle speed,69.59357353,mph
+41580.66502,Average fuel consumption,49.37217117,MPG
+41580.66502,Average fuel consumption (total),19.91946127,MPG
+41580.66502,Average fuel consumption 10 sec,49.726797,MPG
+41580.66502,Average speed,78.75411292,mph
+41580.66502,Calculated instant fuel consumption,48.56358182,MPG
+41580.66502,Calculated instant fuel rate,1.433042908,gal./h
+41580.66502,Distance travelled,0.017913316,miles
+41580.66502,Distance travelled (total),2.631347813,miles
+41580.66502,Engine Fuel Rate,1.1,g/sec
+41580.66502,Fuel used,0.000362823,gallon
+41580.66502,Fuel used (total),0.132099554,gallon
+41580.66502,Fuel used price,0.001262623,$
+41580.66502,Fuel used price (total),0.46,$
+41580.66502,Instant engine power (based on fuel consumption),21.22233382,hp
+41580.66502,Vehicle acceleration,-0.77351466,m/s²
+41580.66502,Vehicle Fuel Rate,1.1,g/sec
+41580.66502,Vehicle speed,69.59357353,mph
+41580.75602,Average fuel consumption,49.29856247,MPG
+41580.75602,Average fuel consumption (total),19.92731082,MPG
+41580.75602,Average fuel consumption 10 sec,49.6875594,MPG
+41580.75602,Average speed,77.83820819,mph
+41580.75602,Calculated instant fuel consumption,48.56358182,MPG
+41580.75602,Calculated instant fuel rate,1.433042908,gal./h
+41580.75602,Distance travelled,0.019671869,miles
+41580.75602,Distance travelled (total),2.633106365,miles
+41580.75602,Engine Fuel Rate,1.1,g/sec
+41580.75602,Fuel used,0.000399036,gallon
+41580.75602,Fuel used (total),0.132135767,gallon
+41580.75602,Fuel used price,0.001388645,$
+41580.75602,Fuel used price (total),0.46,$
+41580.75602,Instant engine power (based on fuel consumption),21.22233382,hp
+41580.75602,Vehicle acceleration,-0.769177755,m/s²
+41580.75602,Vehicle Fuel Rate,1.1,g/sec
+41580.75602,Vehicle speed,69.59357353,mph
+41580.84702,Average fuel consumption,49.23610717,MPG
+41580.84702,Average fuel consumption (total),19.93515539,MPG
+41580.84702,Average fuel consumption 10 sec,49.64962242,MPG
+41580.84702,Average speed,77.08832486,mph
+41580.84702,Calculated instant fuel consumption,48.56358182,MPG
+41580.84702,Calculated instant fuel rate,1.433042908,gal./h
+41580.84702,Distance travelled,0.021430595,miles
+41580.84702,Distance travelled (total),2.634865092,miles
+41580.84702,Engine Fuel Rate,1.1,g/sec
+41580.84702,Fuel used,0.000435262,gallon
+41580.84702,Fuel used (total),0.132171994,gallon
+41580.84702,Fuel used price,0.001514713,$
+41580.84702,Fuel used price (total),0.46,$
+41580.84702,Instant engine power (based on fuel consumption),21.22233382,hp
+41580.84702,Vehicle acceleration,0,m/s²
+41580.84702,Vehicle Fuel Rate,1.1,g/sec
+41580.84702,Vehicle speed,69.59357353,mph
+41580.93602,Average fuel consumption,49.18682638,MPG
+41580.93602,Average fuel consumption (total),19.94279954,MPG
+41580.93602,Average fuel consumption 10 sec,49.61371375,MPG
+41580.93602,Average speed,76.47867549,mph
+41580.93602,Calculated instant fuel consumption,48.56358182,MPG
+41580.93602,Calculated instant fuel rate,1.433042908,gal./h
+41580.93602,Distance travelled,0.023144561,miles
+41580.93602,Distance travelled (total),2.636579058,miles
+41580.93602,Engine Fuel Rate,1.1,g/sec
+41580.93602,Fuel used,0.000470545,gallon
+41580.93602,Fuel used (total),0.132207276,gallon
+41580.93602,Fuel used price,0.001637495,$
+41580.93602,Fuel used price (total),0.46,$
+41580.93602,Instant engine power (based on fuel consumption),21.22233382,hp
+41580.93602,Vehicle acceleration,0,m/s²
+41580.93602,Vehicle Fuel Rate,1.1,g/sec
+41580.93602,Vehicle speed,69.59357353,mph
+41581.02702,Average fuel consumption,49.14180949,MPG
+41581.02702,Average fuel consumption (total),19.9506541,MPG
+41581.02702,Average fuel consumption 10 sec,49.57970594,MPG
+41581.02702,Average speed,75.94692065,mph
+41581.02702,Calculated instant fuel consumption,48.56358182,MPG
+41581.02702,Calculated instant fuel rate,1.433042908,gal./h
+41581.02702,Distance travelled,0.024907179,miles
+41581.02702,Distance travelled (total),2.638341675,miles
+41581.02702,Engine Fuel Rate,1.1,g/sec
+41581.02702,Fuel used,0.000506844,gallon
+41581.02702,Fuel used (total),0.132243575,gallon
+41581.02702,Fuel used price,0.001763816,$
+41581.02702,Fuel used price (total),0.46,$
+41581.02702,Instant engine power (based on fuel consumption),21.22233382,hp
+41581.02702,Vehicle acceleration,0,m/s²
+41581.02702,Vehicle Fuel Rate,1.1,g/sec
+41581.02702,Vehicle speed,69.59357353,mph
+41581.11702,Average fuel consumption,49.10318477,MPG
+41581.11702,Average fuel consumption (total),19.95844402,MPG
+41581.11702,Average fuel consumption 10 sec,49.54765031,MPG
+41581.11702,Average speed,75.49461175,mph
+41581.11702,Calculated instant fuel consumption,48.56358182,MPG
+41581.11702,Calculated instant fuel rate,1.433042908,gal./h
+41581.11702,Distance travelled,0.026656212,miles
+41581.11702,Distance travelled (total),2.640090709,miles
+41581.11702,Engine Fuel Rate,1.1,g/sec
+41581.11702,Fuel used,0.000542862,gallon
+41581.11702,Fuel used (total),0.132279593,gallon
+41581.11702,Fuel used price,0.00188916,$
+41581.11702,Fuel used price (total),0.46,$
+41581.11702,Instant engine power (based on fuel consumption),21.22233382,hp
+41581.11702,Vehicle acceleration,0,m/s²
+41581.11702,Vehicle Fuel Rate,1.1,g/sec
+41581.11702,Vehicle speed,69.59357353,mph
+41581.19102,Altitude (GPS),617.454088,feet
+41581.19102,Average speed (GPS),49.65279271,mph
+41581.19102,Speed (GPS),69.96739044,mph
+41581.19702,Average fuel consumption,49.07429702,MPG
+41581.19702,Average fuel consumption (total),19.96525998,MPG
+41581.19702,Average fuel consumption 10 sec,49.51779836,MPG
+41581.19702,Average speed,75.14867859,mph
+41581.19702,Calculated instant fuel consumption,48.56358182,MPG
+41581.19702,Calculated instant fuel rate,1.433042908,gal./h
+41581.19702,Distance travelled,0.028186973,miles
+41581.19702,Distance travelled (total),2.64162147,miles
+41581.19702,Engine Fuel Rate,1.1,g/sec
+41581.19702,Fuel used,0.000574374,gallon
+41581.19702,Fuel used (total),0.132311106,gallon
+41581.19702,Fuel used price,0.001998823,$
+41581.19702,Fuel used price (total),0.46,$
+41581.19702,Instant engine power (based on fuel consumption),21.22233382,hp
+41581.19702,Vehicle acceleration,0,m/s²
+41581.19702,Vehicle Fuel Rate,1.1,g/sec
+41581.19702,Vehicle speed,69.59357353,mph
+41581.29702,Average fuel consumption,49.04066906,MPG
+41581.29702,Average fuel consumption (total),19.97384602,MPG
+41581.29702,Average fuel consumption 10 sec,49.48947508,MPG
+41581.29702,Average speed,74.76618229,mph
+41581.29702,Calculated instant fuel consumption,48.56358182,MPG
+41581.29702,Calculated instant fuel rate,1.433042908,gal./h
+41581.29702,Distance travelled,0.030116917,miles
+41581.29702,Distance travelled (total),2.643551414,miles
+41581.29702,Engine Fuel Rate,1.1,g/sec
+41581.29702,Fuel used,0.000614122,gallon
+41581.29702,Fuel used (total),0.132350854,gallon
+41581.29702,Fuel used price,0.002137145,$
+41581.29702,Fuel used price (total),0.46,$
+41581.29702,Instant engine power (based on fuel consumption),21.22233382,hp
+41581.29702,Vehicle acceleration,0,m/s²
+41581.29702,Vehicle Fuel Rate,1.1,g/sec
+41581.29702,Vehicle speed,69.59357353,mph
+41581.38602,Average fuel consumption,49.50857393,MPG
+41581.38602,Average fuel consumption (total),19.98253308,MPG
+41581.38602,Average fuel consumption 10 sec,49.49053574,MPG
+41581.38602,Average speed,74.46482473,mph
+41581.38602,Calculated instant fuel consumption,48.56358182,MPG
+41581.38602,Calculated instant fuel rate,1.172489652,gal./h
+41581.38602,Distance travelled,0.031850298,miles
+41581.38602,Distance travelled (total),2.645284794,miles
+41581.38602,Engine Fuel Rate,0.9,g/sec
+41581.38602,Fuel used,0.00064333,gallon
+41581.38602,Fuel used (total),0.132380061,gallon
+41581.38602,Fuel used price,0.002238788,$
+41581.38602,Fuel used price (total),0.46,$
+41581.38602,Instant engine power (based on fuel consumption),17.36372767,hp
+41581.38602,Vehicle acceleration,0,m/s²
+41581.38602,Vehicle Fuel Rate,0.9,g/sec
+41581.38602,Vehicle speed,69.59357353,mph
+41581.47602,Average fuel consumption,49.93896871,MPG
+41581.47602,Average fuel consumption (total),19.9912637,MPG
+41581.47602,Average fuel consumption 10 sec,49.5139366,MPG
+41581.47602,Average speed,74.1956065,mph
+41581.47602,Calculated instant fuel consumption,59.35548889,MPG
+41581.47602,Calculated instant fuel rate,1.172489652,gal./h
+41581.47602,Distance travelled,0.033592739,miles
+41581.47602,Distance travelled (total),2.647027236,miles
+41581.47602,Engine Fuel Rate,0.9,g/sec
+41581.47602,Fuel used,0.000672677,gallon
+41581.47602,Fuel used (total),0.132409408,gallon
+41581.47602,Fuel used price,0.002340916,$
+41581.47602,Fuel used price (total),0.46,$
+41581.47602,Instant engine power (based on fuel consumption),17.36372767,hp
+41581.47602,Vehicle acceleration,0,m/s²
+41581.47602,Vehicle Fuel Rate,0.9,g/sec
+41581.47602,Vehicle speed,69.59357353,mph
+41581.56702,Average fuel consumption,50.33484444,MPG
+41581.56702,Average fuel consumption (total),20.0000453,MPG
+41581.56702,Average fuel consumption 10 sec,49.55434554,MPG
+41581.56702,Average speed,73.9529135,mph
+41581.56702,Calculated instant fuel consumption,59.35548889,MPG
+41581.56702,Calculated instant fuel rate,1.172489652,gal./h
+41581.56702,Distance travelled,0.035346553,miles
+41581.56702,Distance travelled (total),2.64878105,miles
+41581.56702,Engine Fuel Rate,0.9,g/sec
+41581.56702,Fuel used,0.000702229,gallon
+41581.56702,Fuel used (total),0.132438961,gallon
+41581.56702,Fuel used price,0.002443758,$
+41581.56702,Fuel used price (total),0.46,$
+41581.56702,Instant engine power (based on fuel consumption),17.36372767,hp
+41581.56702,Vehicle acceleration,0,m/s²
+41581.56702,Vehicle Fuel Rate,0.9,g/sec
+41581.56702,Vehicle speed,69.59357353,mph
+41581.65602,Average fuel consumption,50.69033665,MPG
+41581.65602,Average fuel consumption (total),20.00862102,MPG
+41581.65602,Average fuel consumption 10 sec,49.60728456,MPG
+41581.65602,Average speed,73.73921548,mph
+41581.65602,Calculated instant fuel consumption,59.35548889,MPG
+41581.65602,Calculated instant fuel rate,1.172489652,gal./h
+41581.65602,Distance travelled,0.037060183,miles
+41581.65602,Distance travelled (total),2.650494679,miles
+41581.65602,Engine Fuel Rate,0.9,g/sec
+41581.65602,Fuel used,0.000731111,gallon
+41581.65602,Fuel used (total),0.132467842,gallon
+41581.65602,Fuel used price,0.002544265,$
+41581.65602,Fuel used price (total),0.46,$
+41581.65602,Instant engine power (based on fuel consumption),17.36372767,hp
+41581.65602,Vehicle acceleration,0,m/s²
+41581.65602,Vehicle Fuel Rate,0.9,g/sec
+41581.65602,Vehicle speed,69.59357353,mph
+41581.73702,Average fuel consumption,50.99283156,MPG
+41581.73702,Average fuel consumption (total),20.01645059,MPG
+41581.73702,Average fuel consumption 10 sec,49.66862849,MPG
+41581.73702,Average speed,73.56187356,mph
+41581.73702,Calculated instant fuel consumption,59.35548889,MPG
+41581.73702,Calculated instant fuel rate,1.172489652,gal./h
+41581.73702,Distance travelled,0.038624638,miles
+41581.73702,Distance travelled (total),2.652059135,miles
+41581.73702,Engine Fuel Rate,0.9,g/sec
+41581.73702,Fuel used,0.000757454,gallon
+41581.73702,Fuel used (total),0.132494185,gallon
+41581.73702,Fuel used price,0.002635938,$
+41581.73702,Fuel used price (total),0.46,$
+41581.73702,Instant engine power (based on fuel consumption),17.36372767,hp
+41581.73702,Vehicle acceleration,0,m/s²
+41581.73702,Vehicle Fuel Rate,0.9,g/sec
+41581.73702,Vehicle speed,69.59357353,mph
+41581.82902,Average fuel consumption,51.31228832,MPG
+41581.82902,Average fuel consumption (total),20.02538813,MPG
+41581.82902,Average fuel consumption 10 sec,49.73789929,MPG
+41581.82902,Average speed,73.37678178,mph
+41581.82902,Calculated instant fuel consumption,59.35548889,MPG
+41581.82902,Calculated instant fuel rate,1.172489652,gal./h
+41581.82902,Distance travelled,0.040411867,miles
+41581.82902,Distance travelled (total),2.653846364,miles
+41581.82902,Engine Fuel Rate,0.9,g/sec
+41581.82902,Fuel used,0.000787568,gallon
+41581.82902,Fuel used (total),0.1325243,gallon
+41581.82902,Fuel used price,0.002740738,$
+41581.82902,Fuel used price (total),0.46,$
+41581.82902,Instant engine power (based on fuel consumption),17.36372767,hp
+41581.82902,Vehicle acceleration,0,m/s²
+41581.82902,Vehicle Fuel Rate,0.9,g/sec
+41581.82902,Vehicle speed,69.59357353,mph
+41581.92602,Average fuel consumption,51.60143987,MPG
+41581.92602,Average fuel consumption (total),20.03461478,MPG
+41581.92602,Average fuel consumption 10 sec,49.81285543,MPG
+41581.92602,Average speed,73.1716793,mph
+41581.92602,Calculated instant fuel consumption,58.82552917,MPG
+41581.92602,Calculated instant fuel rate,1.172489652,gal./h
+41581.92602,Distance travelled,0.042266139,miles
+41581.92602,Distance travelled (total),2.655700635,miles
+41581.92602,Engine Fuel Rate,0.9,g/sec
+41581.92602,Fuel used,0.00081909,gallon
+41581.92602,Fuel used (total),0.132555821,gallon
+41581.92602,Fuel used price,0.002850432,$
+41581.92602,Fuel used price (total),0.46,$
+41581.92602,Instant engine power (based on fuel consumption),17.36372767,hp
+41581.92602,Vehicle acceleration,-0.774189009,m/s²
+41581.92602,Vehicle Fuel Rate,0.9,g/sec
+41581.92602,Vehicle speed,68.97220234,mph
+41582.01602,Average fuel consumption,51.85023282,MPG
+41582.01602,Average fuel consumption (total),20.04315391,MPG
+41582.01602,Average fuel consumption 10 sec,49.89127155,MPG
+41582.01602,Average speed,72.99831606,mph
+41582.01602,Calculated instant fuel consumption,58.82552917,MPG
+41582.01602,Calculated instant fuel rate,1.172489652,gal./h
+41582.01602,Distance travelled,0.043982905,miles
+41582.01602,Distance travelled (total),2.657417401,miles
+41582.01602,Engine Fuel Rate,0.9,g/sec
+41582.01602,Fuel used,0.00084827,gallon
+41582.01602,Fuel used (total),0.132585001,gallon
+41582.01602,Fuel used price,0.002951978,$
+41582.01602,Fuel used price (total),0.46,$
+41582.01602,Instant engine power (based on fuel consumption),17.36372767,hp
+41582.01602,Vehicle acceleration,-0.771978061,m/s²
+41582.01602,Vehicle Fuel Rate,0.9,g/sec
+41582.01602,Vehicle speed,68.97220234,mph
+41582.10602,Average fuel consumption,52.10323227,MPG
+41582.10602,Average fuel consumption (total),20.05191954,MPG
+41582.10602,Average fuel consumption 10 sec,49.97286845,MPG
+41582.10602,Average speed,72.861583,mph
+41582.10602,Calculated instant fuel consumption,59.35548889,MPG
+41582.10602,Calculated instant fuel rate,1.172489652,gal./h
+41582.10602,Distance travelled,0.045737916,miles
+41582.10602,Distance travelled (total),2.659172412,miles
+41582.10602,Engine Fuel Rate,0.9,g/sec
+41582.10602,Fuel used,0.000877834,gallon
+41582.10602,Fuel used (total),0.132614565,gallon
+41582.10602,Fuel used price,0.003054862,$
+41582.10602,Fuel used price (total),0.46,$
+41582.10602,Instant engine power (based on fuel consumption),17.36372767,hp
+41582.10602,Vehicle Fuel Rate,0.9,g/sec
+41582.10602,Vehicle speed,69.59357353,mph
+41582.13702,Altitude (GPS),617.782172,feet
+41582.13702,Average speed (GPS),49.75835797,mph
+41582.13702,Speed (GPS),69.73723455,mph
+41582.19602,Average fuel consumption,52.33598066,MPG
+41582.19602,Average fuel consumption (total),20.0605616,MPG
+41582.19602,Average fuel consumption 10 sec,50.05657923,MPG
+41582.19602,Average speed,72.7368652,mph
+41582.19602,Calculated instant fuel consumption,59.35548889,MPG
+41582.19602,Calculated instant fuel rate,1.172489652,gal./h
+41582.19602,Distance travelled,0.047469315,miles
+41582.19602,Distance travelled (total),2.660903811,miles
+41582.19602,Engine Fuel Rate,0.9,g/sec
+41582.19602,Fuel used,0.000907013,gallon
+41582.19602,Fuel used (total),0.132643744,gallon
+41582.19602,Fuel used price,0.003156404,$
+41582.19602,Fuel used price (total),0.46,$
+41582.19602,Instant engine power (based on fuel consumption),17.36372767,hp
+41582.19602,Vehicle Fuel Rate,0.9,g/sec
+41582.19602,Vehicle speed,69.59357353,mph
+41582.28602,Average fuel consumption,52.53912134,MPG
+41582.28602,Average fuel consumption (total),20.06911193,MPG
+41582.28602,Average fuel consumption 10 sec,50.14119483,MPG
+41582.28602,Average speed,72.5983063,mph
+41582.28602,Calculated instant fuel consumption,58.82552917,MPG
+41582.28602,Calculated instant fuel rate,1.172489652,gal./h
+41582.28602,Distance travelled,0.049190574,miles
+41582.28602,Distance travelled (total),2.66262507,miles
+41582.28602,Engine Fuel Rate,0.9,g/sec
+41582.28602,Fuel used,0.000936267,gallon
+41582.28602,Fuel used (total),0.132672999,gallon
+41582.28602,Fuel used price,0.00325821,$
+41582.28602,Fuel used price (total),0.46,$
+41582.28602,Instant engine power (based on fuel consumption),17.36372767,hp
+41582.28602,Vehicle Fuel Rate,0.9,g/sec
+41582.28602,Vehicle speed,68.97220234,mph
+41582.36702,Average fuel consumption,52.87245721,MPG
+41582.36702,Average fuel consumption (total),20.07726578,MPG
+41582.36702,Average fuel consumption 10 sec,50.23067049,MPG
+41582.36702,Average speed,72.48164524,mph
+41582.36702,Calculated instant fuel consumption,58.82552917,MPG
+41582.36702,Calculated instant fuel rate,1.042213024,gal./h
+41582.36702,Distance travelled,0.05074358,miles
+41582.36702,Distance travelled (total),2.664178077,miles
+41582.36702,Engine Fuel Rate,0.8,g/sec
+41582.36702,Fuel used,0.000959737,gallon
+41582.36702,Fuel used (total),0.132696469,gallon
+41582.36702,Fuel used price,0.003339885,$
+41582.36702,Fuel used price (total),0.46,$
+41582.36702,Instant engine power (based on fuel consumption),15.4344246,hp
+41582.36702,Vehicle acceleration,0,m/s²
+41582.36702,Vehicle Fuel Rate,0.8,g/sec
+41582.36702,Vehicle speed,68.97220234,mph
+41582.46702,Average fuel consumption,53.26296724,MPG
+41582.46702,Average fuel consumption (total),20.08734967,MPG
+41582.46702,Average fuel consumption 10 sec,50.32617393,MPG
+41582.46702,Average speed,72.34731262,mph
+41582.46702,Calculated instant fuel consumption,66.17872031,MPG
+41582.46702,Calculated instant fuel rate,1.042213024,gal./h
+41582.46702,Distance travelled,0.052664943,miles
+41582.46702,Distance travelled (total),2.666099439,miles
+41582.46702,Engine Fuel Rate,0.8,g/sec
+41582.46702,Fuel used,0.000988774,gallon
+41582.46702,Fuel used (total),0.132725505,gallon
+41582.46702,Fuel used price,0.003440933,$
+41582.46702,Fuel used price (total),0.46,$
+41582.46702,Instant engine power (based on fuel consumption),15.4344246,hp
+41582.46702,Vehicle acceleration,-0.770204236,m/s²
+41582.46702,Vehicle Fuel Rate,0.8,g/sec
+41582.46702,Vehicle speed,68.97220234,mph
+41582.55502,Average fuel consumption,53.58893544,MPG
+41582.55502,Average fuel consumption (total),20.09622982,MPG
+41582.55502,Average fuel consumption 10 sec,50.42521064,MPG
+41582.55502,Average speed,72.23729617,mph
+41582.55502,Calculated instant fuel consumption,66.17872031,MPG
+41582.55502,Calculated instant fuel rate,1.042213024,gal./h
+41582.55502,Distance travelled,0.054357367,miles
+41582.55502,Distance travelled (total),2.667791864,miles
+41582.55502,Engine Fuel Rate,0.8,g/sec
+41582.55502,Fuel used,0.001014341,gallon
+41582.55502,Fuel used (total),0.132751072,gallon
+41582.55502,Fuel used price,0.003529907,$
+41582.55502,Fuel used price (total),0.46,$
+41582.55502,Instant engine power (based on fuel consumption),15.4344246,hp
+41582.55502,Vehicle acceleration,-0.772493735,m/s²
+41582.55502,Vehicle Fuel Rate,0.8,g/sec
+41582.55502,Vehicle speed,68.97220234,mph
+41582.64702,Average fuel consumption,53.90775329,MPG
+41582.64702,Average fuel consumption (total),20.10538798,MPG
+41582.64702,Average fuel consumption 10 sec,50.52721544,MPG
+41582.64702,Average speed,72.13100066,mph
+41582.64702,Calculated instant fuel consumption,66.17872031,MPG
+41582.64702,Calculated instant fuel rate,1.042213024,gal./h
+41582.64702,Distance travelled,0.056103893,miles
+41582.64702,Distance travelled (total),2.66953839,miles
+41582.64702,Engine Fuel Rate,0.8,g/sec
+41582.64702,Fuel used,0.00104074,gallon
+41582.64702,Fuel used (total),0.132777472,gallon
+41582.64702,Fuel used price,0.003621777,$
+41582.64702,Fuel used price (total),0.46,$
+41582.64702,Instant engine power (based on fuel consumption),15.4344246,hp
+41582.64702,Vehicle acceleration,0,m/s²
+41582.64702,Vehicle Fuel Rate,0.8,g/sec
+41582.64702,Vehicle speed,68.97220234,mph
+41582.72702,Average fuel consumption,54.14648787,MPG
+41582.72702,Average fuel consumption (total),20.11337925,MPG
+41582.72702,Average fuel consumption 10 sec,50.62976717,MPG
+41582.72702,Average speed,72.04271165,mph
+41582.72702,Calculated instant fuel consumption,66.17872031,MPG
+41582.72702,Calculated instant fuel rate,1.042213024,gal./h
+41582.72702,Distance travelled,0.057645192,miles
+41582.72702,Distance travelled (total),2.671079688,miles
+41582.72702,Engine Fuel Rate,0.8,g/sec
+41582.72702,Fuel used,0.001064617,gallon
+41582.72702,Fuel used (total),0.132801349,gallon
+41582.72702,Fuel used price,0.003704868,$
+41582.72702,Fuel used price (total),0.46,$
+41582.72702,Instant engine power (based on fuel consumption),15.4344246,hp
+41582.72702,Vehicle acceleration,0,m/s²
+41582.72702,Vehicle Fuel Rate,0.8,g/sec
+41582.72702,Vehicle speed,68.97220234,mph
+41582.82502,Average fuel consumption,54.48948092,MPG
+41582.82502,Average fuel consumption (total),20.12334164,MPG
+41582.82502,Average fuel consumption 10 sec,50.73546721,MPG
+41582.82502,Average speed,71.9414247,mph
+41582.82502,Calculated instant fuel consumption,66.17872031,MPG
+41582.82502,Calculated instant fuel rate,1.042213024,gal./h
+41582.82502,Distance travelled,0.059529091,miles
+41582.82502,Distance travelled (total),2.672963588,miles
+41582.82502,Engine Fuel Rate,0.8,g/sec
+41582.82502,Fuel used,0.001092489,gallon
+41582.82502,Fuel used (total),0.132829221,gallon
+41582.82502,Fuel used price,0.003801863,$
+41582.82502,Fuel used price (total),0.46,$
+41582.82502,Instant engine power (based on fuel consumption),15.4344246,hp
+41582.82502,Vehicle acceleration,0,m/s²
+41582.82502,Vehicle Fuel Rate,0.8,g/sec
+41582.82502,Vehicle speed,68.97220234,mph
+41582.91702,Average fuel consumption,54.76533899,MPG
+41582.91702,Average fuel consumption (total),20.13249903,MPG
+41582.91702,Average fuel consumption 10 sec,50.84235869,MPG
+41582.91702,Average speed,71.8531475,mph
+41582.91702,Calculated instant fuel consumption,66.17872031,MPG
+41582.91702,Calculated instant fuel rate,1.042213024,gal./h
+41582.91702,Distance travelled,0.061277356,miles
+41582.91702,Distance travelled (total),2.674711853,miles
+41582.91702,Engine Fuel Rate,0.8,g/sec
+41582.91702,Fuel used,0.001118909,gallon
+41582.91702,Fuel used (total),0.132855641,gallon
+41582.91702,Fuel used price,0.003893805,$
+41582.91702,Fuel used price (total),0.46,$
+41582.91702,Instant engine power (based on fuel consumption),15.4344246,hp
+41582.91702,Vehicle acceleration,0,m/s²
+41582.91702,Vehicle Fuel Rate,0.8,g/sec
+41582.91702,Vehicle speed,68.97220234,mph
+41583.00602,Average fuel consumption,55.02242127,MPG
+41583.00602,Average fuel consumption (total),20.14143641,MPG
+41583.00602,Average fuel consumption 10 sec,50.94987733,MPG
+41583.00602,Average speed,71.77187336,mph
+41583.00602,Calculated instant fuel consumption,66.17872031,MPG
+41583.00602,Calculated instant fuel rate,1.042213024,gal./h
+41583.00602,Distance travelled,0.062984269,miles
+41583.00602,Distance travelled (total),2.676418765,miles
+41583.00602,Engine Fuel Rate,0.8,g/sec
+41583.00602,Fuel used,0.001144704,gallon
+41583.00602,Fuel used (total),0.132881435,gallon
+41583.00602,Fuel used price,0.003983569,$
+41583.00602,Fuel used price (total),0.46,$
+41583.00602,Instant engine power (based on fuel consumption),15.4344246,hp
+41583.00602,Vehicle acceleration,0,m/s²
+41583.00602,Vehicle Fuel Rate,0.8,g/sec
+41583.00602,Vehicle speed,68.97220234,mph
+41583.09502,Average fuel consumption,55.2703366,MPG
+41583.09502,Average fuel consumption (total),20.15044056,MPG
+41583.09502,Average fuel consumption 10 sec,51.05774659,MPG
+41583.09502,Average speed,71.6945358,mph
+41583.09502,Calculated instant fuel consumption,66.17872031,MPG
+41583.09502,Calculated instant fuel rate,1.042213024,gal./h
+41583.09502,Distance travelled,0.06470442,miles
+41583.09502,Distance travelled (total),2.678138917,miles
+41583.09502,Engine Fuel Rate,0.8,g/sec
+41583.09502,Fuel used,0.001170692,gallon
+41583.09502,Fuel used (total),0.132907423,gallon
+41583.09502,Fuel used price,0.004074007,$
+41583.09502,Fuel used price (total),0.46,$
+41583.09502,Instant engine power (based on fuel consumption),15.4344246,hp
+41583.09502,Vehicle acceleration,0,m/s²
+41583.09502,Vehicle Fuel Rate,0.8,g/sec
+41583.09502,Vehicle speed,68.97220234,mph
+41583.18702,Average fuel consumption,55.51094829,MPG
+41583.18702,Average fuel consumption (total),20.15959096,MPG
+41583.18702,Average fuel consumption 10 sec,51.16576296,MPG
+41583.18702,Average speed,71.62002625,mph
+41583.18702,Calculated instant fuel consumption,66.17872031,MPG
+41583.18702,Calculated instant fuel rate,1.042213024,gal./h
+41583.18702,Distance travelled,0.066453469,miles
+41583.18702,Distance travelled (total),2.679887966,miles
+41583.18702,Engine Fuel Rate,0.8,g/sec
+41583.18702,Fuel used,0.001197126,gallon
+41583.18702,Fuel used (total),0.132933857,gallon
+41583.18702,Fuel used price,0.004165997,$
+41583.18702,Fuel used price (total),0.46,$
+41583.18702,Instant engine power (based on fuel consumption),15.4344246,hp
+41583.18702,Vehicle acceleration,0,m/s²
+41583.18702,Vehicle Fuel Rate,0.8,g/sec
+41583.18702,Vehicle speed,68.97220234,mph
+41583.21902,Altitude (GPS),618.110256,feet
+41583.21902,Average speed (GPS),49.8757164,mph
+41583.21902,Speed (GPS),69.39200072,mph
+41583.27702,Average fuel consumption,55.73788363,MPG
+41583.27702,Average fuel consumption (total),20.16858993,MPG
+41583.27702,Average fuel consumption 10 sec,51.27360708,MPG
+41583.27702,Average speed,71.55081032,mph
+41583.27702,Calculated instant fuel consumption,66.17872031,MPG
+41583.27702,Calculated instant fuel rate,1.042213024,gal./h
+41583.27702,Distance travelled,0.068174002,miles
+41583.27702,Distance travelled (total),2.681608498,miles
+41583.27702,Engine Fuel Rate,0.8,g/sec
+41583.27702,Fuel used,0.00122312,gallon
+41583.27702,Fuel used (total),0.132959851,gallon
+41583.27702,Fuel used price,0.004256457,$
+41583.27702,Fuel used price (total),0.46,$
+41583.27702,Instant engine power (based on fuel consumption),15.4344246,hp
+41583.27702,Vehicle acceleration,0,m/s²
+41583.27702,Vehicle Fuel Rate,0.8,g/sec
+41583.27702,Vehicle speed,68.97220234,mph
+41583.35602,Average fuel consumption,55.95722757,MPG
+41583.35602,Average fuel consumption (total),20.17666267,MPG
+41583.35602,Average fuel consumption 10 sec,51.38112209,MPG
+41583.35602,Average speed,71.49225855,mph
+41583.35602,Calculated instant fuel consumption,66.17872031,MPG
+41583.35602,Calculated instant fuel rate,1.016157698,gal./h
+41583.35602,Distance travelled,0.069701328,miles
+41583.35602,Distance travelled (total),2.683135824,miles
+41583.35602,Engine Fuel Rate,0.78,g/sec
+41583.35602,Fuel used,0.00124562,gallon
+41583.35602,Fuel used (total),0.132982351,gallon
+41583.35602,Fuel used price,0.004334757,$
+41583.35602,Fuel used price (total),0.46,$
+41583.35602,Instant engine power (based on fuel consumption),15.04856398,hp
+41583.35602,Vehicle acceleration,0,m/s²
+41583.35602,Vehicle Fuel Rate,0.78,g/sec
+41583.35602,Vehicle speed,68.97220234,mph
+41583.45702,Average fuel consumption,56.22384901,MPG
+41583.45702,Average fuel consumption (total),20.18690466,MPG
+41583.45702,Average fuel consumption 10 sec,51.489291,MPG
+41583.45702,Average speed,71.42153695,mph
+41583.45702,Calculated instant fuel consumption,67.87561058,MPG
+41583.45702,Calculated instant fuel rate,1.016157698,gal./h
+41583.45702,Distance travelled,0.071640248,miles
+41583.45702,Distance travelled (total),2.685074744,miles
+41583.45702,Engine Fuel Rate,0.78,g/sec
+41583.45702,Fuel used,0.001274199,gallon
+41583.45702,Fuel used (total),0.13301093,gallon
+41583.45702,Fuel used price,0.004434212,$
+41583.45702,Fuel used price (total),0.46,$
+41583.45702,Instant engine power (based on fuel consumption),15.04856398,hp
+41583.45702,Vehicle acceleration,0,m/s²
+41583.45702,Vehicle Fuel Rate,0.78,g/sec
+41583.45702,Vehicle speed,68.97220234,mph
+41583.54502,Average fuel consumption,56.44635702,MPG
+41583.54502,Average fuel consumption (total),20.19577916,MPG
+41583.54502,Average fuel consumption 10 sec,51.59717709,MPG
+41583.54502,Average speed,71.36353622,mph
+41583.54502,Calculated instant fuel consumption,67.87561058,MPG
+41583.54502,Calculated instant fuel rate,1.016157698,gal./h
+41583.54502,Distance travelled,0.073320318,miles
+41583.54502,Distance travelled (total),2.686754815,miles
+41583.54502,Engine Fuel Rate,0.78,g/sec
+41583.54502,Fuel used,0.00129894,gallon
+41583.54502,Fuel used (total),0.133035672,gallon
+41583.54502,Fuel used price,0.004520311,$
+41583.54502,Fuel used price (total),0.46,$
+41583.54502,Instant engine power (based on fuel consumption),15.04856398,hp
+41583.54502,Vehicle acceleration,0,m/s²
+41583.54502,Vehicle Fuel Rate,0.78,g/sec
+41583.54502,Vehicle speed,68.97220234,mph
+41583.62702,Average fuel consumption,56.64671527,MPG
+41583.62702,Average fuel consumption (total),20.20407814,MPG
+41583.62702,Average fuel consumption 10 sec,51.7043625,MPG
+41583.62702,Average speed,71.31167922,mph
+41583.62702,Calculated instant fuel consumption,67.87561058,MPG
+41583.62702,Calculated instant fuel rate,1.016157698,gal./h
+41583.62702,Distance travelled,0.074892191,miles
+41583.62702,Distance travelled (total),2.688326688,miles
+41583.62702,Engine Fuel Rate,0.78,g/sec
+41583.62702,Fuel used,0.001322094,gallon
+41583.62702,Fuel used (total),0.133058826,gallon
+41583.62702,Fuel used price,0.004600889,$
+41583.62702,Fuel used price (total),0.46,$
+41583.62702,Instant engine power (based on fuel consumption),15.04856398,hp
+41583.62702,Vehicle acceleration,0,m/s²
+41583.62702,Vehicle Fuel Rate,0.78,g/sec
+41583.62702,Vehicle speed,68.97220234,mph
+41583.72602,Average fuel consumption,56.87857239,MPG
+41583.72602,Average fuel consumption (total),20.21408192,MPG
+41583.72602,Average fuel consumption 10 sec,51.81148204,MPG
+41583.72602,Average speed,71.25189466,mph
+41583.72602,Calculated instant fuel consumption,67.87561058,MPG
+41583.72602,Calculated instant fuel rate,1.016157698,gal./h
+41583.72602,Distance travelled,0.076788141,miles
+41583.72602,Distance travelled (total),2.690222638,miles
+41583.72602,Engine Fuel Rate,0.78,g/sec
+41583.72602,Fuel used,0.001350038,gallon
+41583.72602,Fuel used (total),0.13308677,gallon
+41583.72602,Fuel used price,0.004698134,$
+41583.72602,Fuel used price (total),0.46,$
+41583.72602,Instant engine power (based on fuel consumption),15.04856398,hp
+41583.72602,Vehicle acceleration,0,m/s²
+41583.72602,Vehicle Fuel Rate,0.78,g/sec
+41583.72602,Vehicle speed,68.97220234,mph
+41583.81502,Average fuel consumption,57.08015782,MPG
+41583.81502,Average fuel consumption (total),20.22309329,MPG
+41583.81502,Average fuel consumption 10 sec,51.91797515,MPG
+41583.81502,Average speed,71.20077034,mph
+41583.81502,Calculated instant fuel consumption,67.87561058,MPG
+41583.81502,Calculated instant fuel rate,1.016157698,gal./h
+41583.81502,Distance travelled,0.07849615,miles
+41583.81502,Distance travelled (total),2.691930646,miles
+41583.81502,Engine Fuel Rate,0.78,g/sec
+41583.81502,Fuel used,0.001375194,gallon
+41583.81502,Fuel used (total),0.133111925,gallon
+41583.81502,Fuel used price,0.004785674,$
+41583.81502,Fuel used price (total),0.46,$
+41583.81502,Instant engine power (based on fuel consumption),15.04856398,hp
+41583.81502,Vehicle acceleration,0,m/s²
+41583.81502,Vehicle Fuel Rate,0.78,g/sec
+41583.81502,Vehicle speed,68.97220234,mph
+41583.89702,Average fuel consumption,57.25786668,MPG
+41583.89702,Average fuel consumption (total),20.23133645,MPG
+41583.89702,Average fuel consumption 10 sec,52.02344749,MPG
+41583.89702,Average speed,71.15585382,mph
+41583.89702,Calculated instant fuel consumption,67.87561058,MPG
+41583.89702,Calculated instant fuel rate,1.016157698,gal./h
+41583.89702,Distance travelled,0.080059424,miles
+41583.89702,Distance travelled (total),2.69349392,miles
+41583.89702,Engine Fuel Rate,0.78,g/sec
+41583.89702,Fuel used,0.001398228,gallon
+41583.89702,Fuel used (total),0.133134959,gallon
+41583.89702,Fuel used price,0.004865833,$
+41583.89702,Fuel used price (total),0.46,$
+41583.89702,Instant engine power (based on fuel consumption),15.04856398,hp
+41583.89702,Vehicle acceleration,0,m/s²
+41583.89702,Vehicle Fuel Rate,0.78,g/sec
+41583.89702,Vehicle speed,68.97220234,mph
+41583.99602,Average fuel consumption,57.46621757,MPG
+41583.99602,Average fuel consumption (total),20.24136103,MPG
+41583.99602,Average fuel consumption 10 sec,52.12849474,MPG
+41583.99602,Average speed,71.1035955,mph
+41583.99602,Calculated instant fuel consumption,67.87561058,MPG
+41583.99602,Calculated instant fuel rate,1.016157698,gal./h
+41583.99602,Distance travelled,0.081961346,miles
+41583.99602,Distance travelled (total),2.695395842,miles
+41583.99602,Engine Fuel Rate,0.78,g/sec
+41583.99602,Fuel used,0.001426255,gallon
+41583.99602,Fuel used (total),0.133162986,gallon
+41583.99602,Fuel used price,0.004963367,$
+41583.99602,Fuel used price (total),0.46,$
+41583.99602,Instant engine power (based on fuel consumption),15.04856398,hp
+41583.99602,Vehicle acceleration,0,m/s²
+41583.99602,Vehicle Fuel Rate,0.78,g/sec
+41583.99602,Vehicle speed,68.97220234,mph
+41584.08502,Average fuel consumption,57.64675268,MPG
+41584.08502,Average fuel consumption (total),20.25034921,MPG
+41584.08502,Average fuel consumption 10 sec,52.23266124,MPG
+41584.08502,Average speed,71.05885856,mph
+41584.08502,Calculated instant fuel consumption,67.87561058,MPG
+41584.08502,Calculated instant fuel rate,1.016157698,gal./h
+41584.08502,Distance travelled,0.083666929,miles
+41584.08502,Distance travelled (total),2.697101425,miles
+41584.08502,Engine Fuel Rate,0.78,g/sec
+41584.08502,Fuel used,0.001451375,gallon
+41584.08502,Fuel used (total),0.133188107,gallon
+41584.08502,Fuel used price,0.005050785,$
+41584.08502,Fuel used price (total),0.46,$
+41584.08502,Instant engine power (based on fuel consumption),15.04856398,hp
+41584.08502,Vehicle acceleration,0,m/s²
+41584.08502,Vehicle Fuel Rate,0.78,g/sec
+41584.08502,Vehicle speed,68.97220234,mph
+41584.16702,Average fuel consumption,57.8072592,MPG
+41584.16702,Average fuel consumption (total),20.25861477,MPG
+41584.16702,Average fuel consumption 10 sec,52.33566019,MPG
+41584.16702,Average speed,71.01933897,mph
+41584.16702,Calculated instant fuel consumption,67.87561058,MPG
+41584.16702,Calculated instant fuel rate,1.016157698,gal./h
+41584.16702,Distance travelled,0.085236069,miles
+41584.16702,Distance travelled (total),2.698670566,miles
+41584.16702,Engine Fuel Rate,0.78,g/sec
+41584.16702,Fuel used,0.00147449,gallon
+41584.16702,Fuel used (total),0.133211221,gallon
+41584.16702,Fuel used price,0.005131224,$
+41584.16702,Fuel used price (total),0.46,$
+41584.16702,Instant engine power (based on fuel consumption),15.04856398,hp
+41584.16702,Vehicle acceleration,0,m/s²
+41584.16702,Vehicle Fuel Rate,0.78,g/sec
+41584.16702,Vehicle speed,68.97220234,mph
+41584.18602,Altitude (GPS),617.454088,feet
+41584.18602,Average speed (GPS),49.97820663,mph
+41584.18602,Speed (GPS),69.16184483,mph
+41584.26702,Average fuel consumption,57.99601015,MPG
+41584.26702,Average fuel consumption (total),20.26870367,MPG
+41584.26702,Average fuel consumption 10 sec,52.43801811,MPG
+41584.26702,Average speed,70.9729481,mph
+41584.26702,Calculated instant fuel consumption,67.87561058,MPG
+41584.26702,Calculated instant fuel rate,1.016157698,gal./h
+41584.26702,Distance travelled,0.087152529,miles
+41584.26702,Distance travelled (total),2.700587025,miles
+41584.26702,Engine Fuel Rate,0.78,g/sec
+41584.26702,Fuel used,0.001502736,gallon
+41584.26702,Fuel used (total),0.133239467,gallon
+41584.26702,Fuel used price,0.00522952,$
+41584.26702,Fuel used price (total),0.46,$
+41584.26702,Instant engine power (based on fuel consumption),15.04856398,hp
+41584.26702,Vehicle acceleration,0,m/s²
+41584.26702,Vehicle Fuel Rate,0.78,g/sec
+41584.26702,Vehicle speed,68.97220234,mph
+41584.35602,Average fuel consumption,57.41135904,MPG
+41584.35602,Average fuel consumption (total),20.27461372,MPG
+41584.35602,Average fuel consumption 10 sec,52.52723864,MPG
+41584.35602,Average speed,70.93367267,mph
+41584.35602,Calculated instant fuel consumption,67.87561058,MPG
+41584.35602,Calculated instant fuel rate,1.823872792,gal./h
+41584.35602,Distance travelled,0.088849538,miles
+41584.35602,Distance travelled (total),2.702284035,miles
+41584.35602,Engine Fuel Rate,1.4,g/sec
+41584.35602,Fuel used,0.001547598,gallon
+41584.35602,Fuel used (total),0.133284329,gallon
+41584.35602,Fuel used price,0.005385639,$
+41584.35602,Fuel used price (total),0.46,$
+41584.35602,Instant engine power (based on fuel consumption),27.01024305,hp
+41584.35602,Vehicle acceleration,0,m/s²
+41584.35602,Vehicle Fuel Rate,1.4,g/sec
+41584.35602,Vehicle speed,68.97220234,mph
+41584.44602,Average fuel consumption,56.84644332,MPG
+41584.44602,Average fuel consumption (total),20.28065871,MPG
+41584.44602,Average fuel consumption 10 sec,52.60410154,MPG
+41584.44602,Average speed,70.89501044,mph
+41584.44602,Calculated instant fuel consumption,37.81641161,MPG
+41584.44602,Calculated instant fuel rate,1.823872792,gal./h
+41584.44602,Distance travelled,0.090587003,miles
+41584.44602,Distance travelled (total),2.7040215,miles
+41584.44602,Engine Fuel Rate,1.4,g/sec
+41584.44602,Fuel used,0.001593541,gallon
+41584.44602,Fuel used (total),0.133330273,gallon
+41584.44602,Fuel used price,0.005545523,$
+41584.44602,Fuel used price (total),0.46,$
+41584.44602,Instant engine power (based on fuel consumption),27.01024305,hp
+41584.44602,Vehicle acceleration,0,m/s²
+41584.44602,Vehicle Fuel Rate,1.4,g/sec
+41584.44602,Vehicle speed,68.97220234,mph
+41584.53602,Average fuel consumption,56.31618459,MPG
+41584.53602,Average fuel consumption (total),20.28665188,MPG
+41584.53602,Average fuel consumption 10 sec,52.66960566,MPG
+41584.53602,Average speed,70.85806431,mph
+41584.53602,Calculated instant fuel consumption,37.81641161,MPG
+41584.53602,Calculated instant fuel rate,1.823872792,gal./h
+41584.53602,Distance travelled,0.09231177,miles
+41584.53602,Distance travelled (total),2.705746267,miles
+41584.53602,Engine Fuel Rate,1.4,g/sec
+41584.53602,Fuel used,0.001639172,gallon
+41584.53602,Fuel used (total),0.133375904,gallon
+41584.53602,Fuel used price,0.005704319,$
+41584.53602,Fuel used price (total),0.46,$
+41584.53602,Instant engine power (based on fuel consumption),27.01024305,hp
+41584.53602,Vehicle acceleration,0,m/s²
+41584.53602,Vehicle Fuel Rate,1.4,g/sec
+41584.53602,Vehicle speed,68.97220234,mph
+41584.62502,Average fuel consumption,55.82256124,MPG
+41584.62502,Average fuel consumption (total),20.29256757,MPG
+41584.62502,Average fuel consumption 10 sec,52.72475355,MPG
+41584.62502,Average speed,70.82304131,mph
+41584.62502,Calculated instant fuel consumption,37.81641161,MPG
+41584.62502,Calculated instant fuel rate,1.823872792,gal./h
+41584.62502,Distance travelled,0.094013541,miles
+41584.62502,Distance travelled (total),2.707448037,miles
+41584.62502,Engine Fuel Rate,1.4,g/sec
+41584.62502,Fuel used,0.001684152,gallon
+41584.62502,Fuel used (total),0.133420884,gallon
+41584.62502,Fuel used price,0.00586085,$
+41584.62502,Fuel used price (total),0.46,$
+41584.62502,Instant engine power (based on fuel consumption),27.01024305,hp
+41584.62502,Vehicle acceleration,0,m/s²
+41584.62502,Vehicle Fuel Rate,1.4,g/sec
+41584.62502,Vehicle speed,68.97220234,mph
+41584.71602,Average fuel consumption,55.34334463,MPG
+41584.71602,Average fuel consumption (total),20.29861453,MPG
+41584.71602,Average fuel consumption 10 sec,52.77015063,MPG
+41584.71602,Average speed,70.7884995,mph
+41584.71602,Calculated instant fuel consumption,37.81641161,MPG
+41584.71602,Calculated instant fuel rate,1.823872792,gal./h
+41584.71602,Distance travelled,0.095755112,miles
+41584.71602,Distance travelled (total),2.709189608,miles
+41584.71602,Engine Fuel Rate,1.4,g/sec
+41584.71602,Fuel used,0.001730204,gallon
+41584.71602,Fuel used (total),0.133466935,gallon
+41584.71602,Fuel used price,0.006021109,$
+41584.71602,Fuel used price (total),0.46,$
+41584.71602,Instant engine power (based on fuel consumption),27.01024305,hp
+41584.71602,Vehicle acceleration,0,m/s²
+41584.71602,Vehicle Fuel Rate,1.4,g/sec
+41584.71602,Vehicle speed,68.97220234,mph
+41584.80702,Average fuel consumption,54.88977936,MPG
+41584.80702,Average fuel consumption (total),20.30463846,MPG
+41584.80702,Average fuel consumption 10 sec,52.80656462,MPG
+41584.80702,Average speed,70.7552758,mph
+41584.80702,Calculated instant fuel consumption,37.81641161,MPG
+41584.80702,Calculated instant fuel rate,1.823872792,gal./h
+41584.80702,Distance travelled,0.097491849,miles
+41584.80702,Distance travelled (total),2.710926346,miles
+41584.80702,Engine Fuel Rate,1.4,g/sec
+41584.80702,Fuel used,0.001776141,gallon
+41584.80702,Fuel used (total),0.133512873,gallon
+41584.80702,Fuel used price,0.006180972,$
+41584.80702,Fuel used price (total),0.46,$
+41584.80702,Instant engine power (based on fuel consumption),27.01024305,hp
+41584.80702,Vehicle acceleration,0,m/s²
+41584.80702,Vehicle Fuel Rate,1.4,g/sec
+41584.80702,Vehicle speed,68.97220234,mph
+41584.89502,Average fuel consumption,54.46993503,MPG
+41584.89502,Average fuel consumption (total),20.31051643,MPG
+41584.89502,Average fuel consumption 10 sec,52.83487058,MPG
+41584.89502,Average speed,70.72406158,mph
+41584.89502,Calculated instant fuel consumption,37.81641161,MPG
+41584.89502,Calculated instant fuel rate,1.823872792,gal./h
+41584.89502,Distance travelled,0.09918663,miles
+41584.89502,Distance travelled (total),2.712621127,miles
+41584.89502,Engine Fuel Rate,1.4,g/sec
+41584.89502,Fuel used,0.001820946,gallon
+41584.89502,Fuel used (total),0.133557677,gallon
+41584.89502,Fuel used price,0.006336891,$
+41584.89502,Fuel used price (total),0.46,$
+41584.89502,Instant engine power (based on fuel consumption),27.01024305,hp
+41584.89502,Vehicle acceleration,0,m/s²
+41584.89502,Vehicle Fuel Rate,1.4,g/sec
+41584.89502,Vehicle speed,68.97220234,mph
+41584.98602,Average fuel consumption,54.06203904,MPG
+41584.98602,Average fuel consumption (total),20.31650638,MPG
+41584.98602,Average fuel consumption 10 sec,52.85555648,MPG
+41584.98602,Average speed,70.69329269,mph
+41584.98602,Calculated instant fuel consumption,37.81641161,MPG
+41584.98602,Calculated instant fuel rate,1.823872792,gal./h
+41584.98602,Distance travelled,0.100915449,miles
+41584.98602,Distance travelled (total),2.714349946,miles
+41584.98602,Engine Fuel Rate,1.4,g/sec
+41584.98602,Fuel used,0.001866663,gallon
+41584.98602,Fuel used (total),0.133603394,gallon
+41584.98602,Fuel used price,0.006495987,$
+41584.98602,Fuel used price (total),0.46,$
+41584.98602,Instant engine power (based on fuel consumption),27.01024305,hp
+41584.98602,Vehicle acceleration,0,m/s²
+41584.98602,Vehicle Fuel Rate,1.4,g/sec
+41584.98602,Vehicle speed,68.97220234,mph
+41585.07702,Average fuel consumption,53.66954807,MPG
+41585.07702,Average fuel consumption (total),20.32256045,MPG
+41585.07702,Average fuel consumption 10 sec,52.86914719,MPG
+41585.07702,Average speed,70.66329253,mph
+41585.07702,Calculated instant fuel consumption,37.81641161,MPG
+41585.07702,Calculated instant fuel rate,1.823872792,gal./h
+41585.07702,Distance travelled,0.102663718,miles
+41585.07702,Distance travelled (total),2.716098215,miles
+41585.07702,Engine Fuel Rate,1.4,g/sec
+41585.07702,Fuel used,0.001912889,gallon
+41585.07702,Fuel used (total),0.13364962,gallon
+41585.07702,Fuel used price,0.006656853,$
+41585.07702,Fuel used price (total),0.46,$
+41585.07702,Instant engine power (based on fuel consumption),27.01024305,hp
+41585.07702,Vehicle acceleration,0,m/s²
+41585.07702,Vehicle Fuel Rate,1.4,g/sec
+41585.07702,Vehicle speed,68.97220234,mph
+41585.16602,Average fuel consumption,53.3022517,MPG
+41585.16602,Average fuel consumption (total),20.32848841,MPG
+41585.16602,Average fuel consumption 10 sec,52.87630792,MPG
+41585.16602,Average speed,70.63481065,mph
+41585.16602,Calculated instant fuel consumption,37.81641161,MPG
+41585.16602,Calculated instant fuel rate,1.823872792,gal./h
+41585.16602,Distance travelled,0.104377578,miles
+41585.16602,Distance travelled (total),2.717812074,miles
+41585.16602,Engine Fuel Rate,1.4,g/sec
+41585.16602,Fuel used,0.001958224,gallon
+41585.16602,Fuel used (total),0.133694955,gallon
+41585.16602,Fuel used price,0.006814619,$
+41585.16602,Fuel used price (total),0.46,$
+41585.16602,Instant engine power (based on fuel consumption),27.01024305,hp
+41585.16602,Vehicle acceleration,0,m/s²
+41585.16602,Vehicle Fuel Rate,1.4,g/sec
+41585.16602,Vehicle speed,68.97220234,mph
+41585.23202,Altitude (GPS),616.79792,feet
+41585.25502,Average fuel consumption,52.9537458,MPG
+41585.25502,Average fuel consumption (total),20.33438968,MPG
+41585.25502,Average fuel consumption 10 sec,52.87757556,MPG
+41585.25502,Average speed,70.6074526,mph
+41585.25502,Calculated instant fuel consumption,37.81641161,MPG
+41585.25502,Calculated instant fuel rate,1.823872792,gal./h
+41585.25502,Distance travelled,0.106083806,miles
+41585.25502,Distance travelled (total),2.719518303,miles
+41585.25502,Engine Fuel Rate,1.4,g/sec
+41585.25502,Fuel used,0.002003333,gallon
+41585.25502,Fuel used (total),0.133740064,gallon
+41585.25502,Fuel used price,0.006971598,$
+41585.25502,Fuel used price (total),0.46,$
+41585.25502,Instant engine power (based on fuel consumption),27.01024305,hp
+41585.25502,Vehicle acceleration,0,m/s²
+41585.25502,Vehicle Fuel Rate,1.4,g/sec
+41585.25502,Vehicle speed,68.97220234,mph
+41585.34702,Average fuel consumption,52.21032158,MPG
+41585.34702,Average fuel consumption (total),20.33816862,MPG
+41585.34702,Average fuel consumption 10 sec,52.86667811,MPG
+41585.34702,Average speed,70.59049151,mph
+41585.34702,Calculated instant fuel consumption,38.1571,MPG
+41585.34702,Calculated instant fuel rate,2.449200607,gal./h
+41585.34702,Distance travelled,0.107862065,miles
+41585.34702,Distance travelled (total),2.721296562,miles
+41585.34702,Engine Fuel Rate,1.88,g/sec
+41585.34702,Fuel used,0.002065918,gallon
+41585.34702,Fuel used (total),0.133802649,gallon
+41585.34702,Fuel used price,0.007189394,$
+41585.34702,Fuel used price (total),0.46,$
+41585.34702,Instant engine power (based on fuel consumption),36.27089781,hp
+41585.34702,Vehicle acceleration,0.76785758,m/s²
+41585.34702,Vehicle Fuel Rate,1.88,g/sec
+41585.34702,Vehicle speed,69.59357353,mph
+41585.43602,Average fuel consumption,51.53458308,MPG
+41585.43602,Average fuel consumption (total),20.34180766,MPG
+41585.43602,Average fuel consumption 10 sec,52.84499609,MPG
+41585.43602,Average speed,70.57461972,mph
+41585.43602,Calculated instant fuel consumption,28.4148617,MPG
+41585.43602,Calculated instant fuel rate,2.449200607,gal./h
+41585.43602,Distance travelled,0.109576897,miles
+41585.43602,Distance travelled (total),2.723011394,miles
+41585.43602,Engine Fuel Rate,1.88,g/sec
+41585.43602,Fuel used,0.002126282,gallon
+41585.43602,Fuel used (total),0.133863014,gallon
+41585.43602,Fuel used price,0.007399462,$
+41585.43602,Fuel used price (total),0.46,$
+41585.43602,Instant engine power (based on fuel consumption),36.27089781,hp
+41585.43602,Vehicle acceleration,0.773508414,m/s²
+41585.43602,Vehicle Fuel Rate,1.88,g/sec
+41585.43602,Vehicle speed,69.59357353,mph
+41585.52602,Average fuel consumption,50.87831451,MPG
+41585.52602,Average fuel consumption (total),20.3453991,MPG
+41585.52602,Average fuel consumption 10 sec,52.81309812,MPG
+41585.52602,Average speed,70.54918069,mph
+41585.52602,Calculated instant fuel consumption,28.16115758,MPG
+41585.52602,Calculated instant fuel rate,2.449200607,gal./h
+41585.52602,Distance travelled,0.111307831,miles
+41585.52602,Distance travelled (total),2.724742328,miles
+41585.52602,Engine Fuel Rate,1.88,g/sec
+41585.52602,Fuel used,0.00218773,gallon
+41585.52602,Fuel used (total),0.133924461,gallon
+41585.52602,Fuel used price,0.0076133,$
+41585.52602,Fuel used price (total),0.46,$
+41585.52602,Instant engine power (based on fuel consumption),36.27089781,hp
+41585.52602,Vehicle Fuel Rate,1.88,g/sec
+41585.52602,Vehicle speed,68.97220234,mph
+41585.61802,Average fuel consumption,50.24967212,MPG
+41585.61802,Average fuel consumption (total),20.349023,MPG
+41585.61802,Average fuel consumption 10 sec,52.77168145,MPG
+41585.61802,Average speed,70.52417009,mph
+41585.61802,Calculated instant fuel consumption,28.16115758,MPG
+41585.61802,Calculated instant fuel rate,2.449200607,gal./h
+41585.61802,Distance travelled,0.113059417,miles
+41585.61802,Distance travelled (total),2.726493913,miles
+41585.61802,Engine Fuel Rate,1.88,g/sec
+41585.61802,Fuel used,0.002249957,gallon
+41585.61802,Fuel used (total),0.133986688,gallon
+41585.61802,Fuel used price,0.00782985,$
+41585.61802,Fuel used price (total),0.46,$
+41585.61802,Instant engine power (based on fuel consumption),36.27089781,hp
+41585.61802,Vehicle acceleration,0,m/s²
+41585.61802,Vehicle Fuel Rate,1.88,g/sec
+41585.61802,Vehicle speed,68.97220234,mph
+41585.70602,Average fuel consumption,49.68024616,MPG
+41585.70602,Average fuel consumption (total),20.35265625,MPG
+41585.70602,Average fuel consumption 10 sec,52.7219737,MPG
+41585.70602,Average speed,70.51011947,mph
+41585.70602,Calculated instant fuel consumption,28.4148617,MPG
+41585.70602,Calculated instant fuel rate,2.449200607,gal./h
+41585.70602,Distance travelled,0.114773164,miles
+41585.70602,Distance travelled (total),2.728207661,miles
+41585.70602,Engine Fuel Rate,1.88,g/sec
+41585.70602,Fuel used,0.002310241,gallon
+41585.70602,Fuel used (total),0.134046973,gallon
+41585.70602,Fuel used price,0.008039639,$
+41585.70602,Fuel used price (total),0.46,$
+41585.70602,Instant engine power (based on fuel consumption),36.27089781,hp
+41585.70602,Vehicle Fuel Rate,1.88,g/sec
+41585.70602,Vehicle speed,69.59357353,mph
+41585.78702,Average fuel consumption,49.18716363,MPG
+41585.78702,Average fuel consumption (total),20.35595483,MPG
+41585.78702,Average fuel consumption 10 sec,52.66548448,MPG
+41585.78702,Average speed,70.49769183,mph
+41585.78702,Calculated instant fuel consumption,28.4148617,MPG
+41585.78702,Calculated instant fuel rate,2.449200607,gal./h
+41585.78702,Distance travelled,0.11633179,miles
+41585.78702,Distance travelled (total),2.729766286,miles
+41585.78702,Engine Fuel Rate,1.88,g/sec
+41585.78702,Fuel used,0.002365088,gallon
+41585.78702,Fuel used (total),0.13410182,gallon
+41585.78702,Fuel used price,0.008230506,$
+41585.78702,Fuel used price (total),0.46,$
+41585.78702,Instant engine power (based on fuel consumption),36.27089781,hp
+41585.78702,Vehicle Fuel Rate,1.88,g/sec
+41585.78702,Vehicle speed,69.59357353,mph
+41585.88702,Average fuel consumption,48.6002581,MPG
+41585.88702,Average fuel consumption (total),20.35989966,MPG
+41585.88702,Average fuel consumption 10 sec,52.60078073,MPG
+41585.88702,Average speed,70.4724667,mph
+41585.88702,Calculated instant fuel consumption,28.16115758,MPG
+41585.88702,Calculated instant fuel rate,2.449200607,gal./h
+41585.88702,Distance travelled,0.118242923,miles
+41585.88702,Distance travelled (total),2.73167742,miles
+41585.88702,Engine Fuel Rate,1.88,g/sec
+41585.88702,Fuel used,0.002432973,gallon
+41585.88702,Fuel used (total),0.134169704,gallon
+41585.88702,Fuel used price,0.008466746,$
+41585.88702,Fuel used price (total),0.46,$
+41585.88702,Instant engine power (based on fuel consumption),36.27089781,hp
+41585.88702,Vehicle Fuel Rate,1.88,g/sec
+41585.88702,Vehicle speed,68.97220234,mph
+41585.97602,Average fuel consumption,48.10290171,MPG
+41585.97602,Average fuel consumption (total),20.36342987,MPG
+41585.97602,Average fuel consumption 10 sec,52.52959524,MPG
+41585.97602,Average speed,70.45064859,mph
+41585.97602,Calculated instant fuel consumption,28.16115758,MPG
+41585.97602,Calculated instant fuel rate,2.449200607,gal./h
+41585.97602,Distance travelled,0.119952566,miles
+41585.97602,Distance travelled (total),2.733387063,miles
+41585.97602,Engine Fuel Rate,1.88,g/sec
+41585.97602,Fuel used,0.00249367,gallon
+41585.97602,Fuel used (total),0.134230401,gallon
+41585.97602,Fuel used price,0.008677971,$
+41585.97602,Fuel used price (total),0.46,$
+41585.97602,Instant engine power (based on fuel consumption),36.27089781,hp
+41585.97602,Vehicle acceleration,0,m/s²
+41585.97602,Vehicle Fuel Rate,1.88,g/sec
+41585.97602,Vehicle speed,68.97220234,mph
+41586.05702,Average fuel consumption,47.67127845,MPG
+41586.05702,Average fuel consumption (total),20.36663325,MPG
+41586.05702,Average fuel consumption 10 sec,52.45322869,MPG
+41586.05702,Average speed,70.43133872,mph
+41586.05702,Calculated instant fuel consumption,28.16115758,MPG
+41586.05702,Calculated instant fuel rate,2.449200607,gal./h
+41586.05702,Distance travelled,0.121506123,miles
+41586.05702,Distance travelled (total),2.734940619,miles
+41586.05702,Engine Fuel Rate,1.88,g/sec
+41586.05702,Fuel used,0.002548837,gallon
+41586.05702,Fuel used (total),0.134285568,gallon
+41586.05702,Fuel used price,0.008869952,$
+41586.05702,Fuel used price (total),0.46,$
+41586.05702,Instant engine power (based on fuel consumption),36.27089781,hp
+41586.05702,Vehicle acceleration,-0.792072758,m/s²
+41586.05702,Vehicle Fuel Rate,1.88,g/sec
+41586.05702,Vehicle speed,68.97220234,mph
+41586.15602,Average fuel consumption,47.17558001,MPG
+41586.15602,Average fuel consumption (total),20.37066434,MPG
+41586.15602,Average fuel consumption 10 sec,52.3707098,MPG
+41586.15602,Average speed,70.41817915,mph
+41586.15602,Calculated instant fuel consumption,28.4148617,MPG
+41586.15602,Calculated instant fuel rate,2.449200607,gal./h
+41586.15602,Distance travelled,0.123418991,miles
+41586.15602,Distance travelled (total),2.736853488,miles
+41586.15602,Engine Fuel Rate,1.88,g/sec
+41586.15602,Fuel used,0.002616167,gallon
+41586.15602,Fuel used (total),0.134352898,gallon
+41586.15602,Fuel used price,0.00910426,$
+41586.15602,Fuel used price (total),0.46,$
+41586.15602,Instant engine power (based on fuel consumption),36.27089781,hp
+41586.15602,Vehicle Fuel Rate,1.88,g/sec
+41586.15602,Vehicle speed,69.59357353,mph
+41586.21502,Altitude (GPS),616.141752,feet
+41586.21502,Average speed (GPS),50.19357219,mph
+41586.21502,Speed (GPS),69.50707866,mph
+41586.24602,Average fuel consumption,46.74656783,MPG
+41586.24602,Average fuel consumption (total),20.37433262,MPG
+41586.24602,Average fuel consumption 10 sec,52.28334482,MPG
+41586.24602,Average speed,70.40659979,mph
+41586.24602,Calculated instant fuel consumption,28.4148617,MPG
+41586.24602,Calculated instant fuel rate,2.449200607,gal./h
+41586.24602,Distance travelled,0.125159692,miles
+41586.24602,Distance travelled (total),2.738594189,miles
+41586.24602,Engine Fuel Rate,1.88,g/sec
+41586.24602,Fuel used,0.002677413,gallon
+41586.24602,Fuel used (total),0.134414145,gallon
+41586.24602,Fuel used price,0.009317399,$
+41586.24602,Fuel used price (total),0.46,$
+41586.24602,Instant engine power (based on fuel consumption),36.27089781,hp
+41586.24602,Vehicle acceleration,0.772869224,m/s²
+41586.24602,Vehicle Fuel Rate,1.88,g/sec
+41586.24602,Vehicle speed,69.59357353,mph
+41586.33602,Average fuel consumption,46.46876064,MPG
+41586.33602,Average fuel consumption (total),20.37918939,MPG
+41586.33602,Average fuel consumption 10 sec,52.19387958,MPG
+41586.33602,Average speed,70.39530274,mph
+41586.33602,Calculated instant fuel consumption,28.4148617,MPG
+41586.33602,Calculated instant fuel rate,2.136536699,gal./h
+41586.33602,Distance travelled,0.126903444,miles
+41586.33602,Distance travelled (total),2.740337941,miles
+41586.33602,Engine Fuel Rate,1.64,g/sec
+41586.33602,Fuel used,0.002730945,gallon
+41586.33602,Fuel used (total),0.134467677,gallon
+41586.33602,Fuel used price,0.00950369,$
+41586.33602,Fuel used price (total),0.46,$
+41586.33602,Instant engine power (based on fuel consumption),31.64057043,hp
+41586.33602,Vehicle acceleration,0.771022388,m/s²
+41586.33602,Vehicle Fuel Rate,1.64,g/sec
+41586.33602,Vehicle speed,69.59357353,mph
+41586.42602,Average fuel consumption,46.20270363,MPG
+41586.42602,Average fuel consumption (total),20.38401315,MPG
+41586.42602,Average fuel consumption 10 sec,52.10257929,MPG
+41586.42602,Average speed,70.38432442,mph
+41586.42602,Calculated instant fuel consumption,32.57313415,MPG
+41586.42602,Calculated instant fuel rate,2.136536699,gal./h
+41586.42602,Distance travelled,0.128637832,miles
+41586.42602,Distance travelled (total),2.742072329,miles
+41586.42602,Engine Fuel Rate,1.64,g/sec
+41586.42602,Fuel used,0.00278421,gallon
+41586.42602,Fuel used (total),0.134520942,gallon
+41586.42602,Fuel used price,0.009689051,$
+41586.42602,Fuel used price (total),0.46,$
+41586.42602,Instant engine power (based on fuel consumption),31.64057043,hp
+41586.42602,Vehicle acceleration,0.753077149,m/s²
+41586.42602,Vehicle Fuel Rate,1.64,g/sec
+41586.42602,Vehicle speed,69.59357353,mph
+41586.51502,Average fuel consumption,45.9483451,MPG
+41586.51502,Average fuel consumption (total),20.38881706,MPG
+41586.51502,Average fuel consumption 10 sec,52.00969822,MPG
+41586.51502,Average speed,70.37377491,mph
+41586.51502,Calculated instant fuel consumption,32.57313415,MPG
+41586.51502,Calculated instant fuel rate,2.136536699,gal./h
+41586.51502,Distance travelled,0.13036447,miles
+41586.51502,Distance travelled (total),2.743798967,miles
+41586.51502,Engine Fuel Rate,1.64,g/sec
+41586.51502,Fuel used,0.002837201,gallon
+41586.51502,Fuel used (total),0.134573932,gallon
+41586.51502,Fuel used price,0.009873458,$
+41586.51502,Fuel used price (total),0.46,$
+41586.51502,Instant engine power (based on fuel consumption),31.64057043,hp
+41586.51502,Vehicle acceleration,0,m/s²
+41586.51502,Vehicle Fuel Rate,1.64,g/sec
+41586.51502,Vehicle speed,69.59357353,mph
+41586.59802,Average fuel consumption,45.72180083,MPG
+41586.59802,Average fuel consumption (total),20.39323679,MPG
+41586.59802,Average fuel consumption 10 sec,51.91575451,MPG
+41586.59802,Average speed,70.36425232,mph
+41586.59802,Calculated instant fuel consumption,32.57313415,MPG
+41586.59802,Calculated instant fuel rate,2.136536699,gal./h
+41586.59802,Distance travelled,0.131955644,miles
+41586.59802,Distance travelled (total),2.745390141,miles
+41586.59802,Engine Fuel Rate,1.64,g/sec
+41586.59802,Fuel used,0.00288606,gallon
+41586.59802,Fuel used (total),0.134622791,gallon
+41586.59802,Fuel used price,0.010043488,$
+41586.59802,Fuel used price (total),0.46,$
+41586.59802,Instant engine power (based on fuel consumption),31.64057043,hp
+41586.59802,Vehicle acceleration,0,m/s²
+41586.59802,Vehicle Fuel Rate,1.64,g/sec
+41586.59802,Vehicle speed,69.59357353,mph
+41586.69602,Average fuel consumption,45.46058964,MPG
+41586.69602,Average fuel consumption (total),20.39852365,MPG
+41586.69602,Average fuel consumption 10 sec,51.82019353,MPG
+41586.69602,Average speed,70.35315275,mph
+41586.69602,Calculated instant fuel consumption,32.57313415,MPG
+41586.69602,Calculated instant fuel rate,2.136536699,gal./h
+41586.69602,Distance travelled,0.133860258,miles
+41586.69602,Distance travelled (total),2.747294754,miles
+41586.69602,Engine Fuel Rate,1.64,g/sec
+41586.69602,Fuel used,0.002944539,gallon
+41586.69602,Fuel used (total),0.13468127,gallon
+41586.69602,Fuel used price,0.010246995,$
+41586.69602,Fuel used price (total),0.46,$
+41586.69602,Instant engine power (based on fuel consumption),31.64057043,hp
+41586.69602,Vehicle acceleration,0,m/s²
+41586.69602,Vehicle Fuel Rate,1.64,g/sec
+41586.69602,Vehicle speed,69.59357353,mph
+41586.78502,Average fuel consumption,45.23293892,MPG
+41586.78502,Average fuel consumption (total),20.40331566,MPG
+41586.78502,Average fuel consumption 10 sec,51.72362314,MPG
+41586.78502,Average speed,70.34339126,mph
+41586.78502,Calculated instant fuel consumption,32.57313415,MPG
+41586.78502,Calculated instant fuel rate,2.136536699,gal./h
+41586.78502,Distance travelled,0.13558682,miles
+41586.78502,Distance travelled (total),2.749021317,miles
+41586.78502,Engine Fuel Rate,1.64,g/sec
+41586.78502,Fuel used,0.002997529,gallon
+41586.78502,Fuel used (total),0.13473426,gallon
+41586.78502,Fuel used price,0.0104314,$
+41586.78502,Fuel used price (total),0.46,$
+41586.78502,Instant engine power (based on fuel consumption),31.64057043,hp
+41586.78502,Vehicle acceleration,0,m/s²
+41586.78502,Vehicle Fuel Rate,1.64,g/sec
+41586.78502,Vehicle speed,69.59357353,mph
+41586.86702,Average fuel consumption,45.03182276,MPG
+41586.86702,Average fuel consumption (total),20.40768436,MPG
+41586.86702,Average fuel consumption 10 sec,51.62651198,MPG
+41586.86702,Average speed,70.33468481,mph
+41586.86702,Calculated instant fuel consumption,32.57313415,MPG
+41586.86702,Calculated instant fuel rate,2.136536699,gal./h
+41586.86702,Distance travelled,0.137162877,miles
+41586.86702,Distance travelled (total),2.750597374,miles
+41586.86702,Engine Fuel Rate,1.64,g/sec
+41586.86702,Fuel used,0.003045915,gallon
+41586.86702,Fuel used (total),0.134782646,gallon
+41586.86702,Fuel used price,0.010599783,$
+41586.86702,Fuel used price (total),0.46,$
+41586.86702,Instant engine power (based on fuel consumption),31.64057043,hp
+41586.86702,Vehicle acceleration,0,m/s²
+41586.86702,Vehicle Fuel Rate,1.64,g/sec
+41586.86702,Vehicle speed,69.59357353,mph
+41586.96602,Average fuel consumption,44.79503664,MPG
+41586.96602,Average fuel consumption (total),20.41299793,MPG
+41586.96602,Average fuel consumption 10 sec,51.52828285,MPG
+41586.96602,Average speed,70.32427364,mph
+41586.96602,Calculated instant fuel consumption,32.57313415,MPG
+41586.96602,Calculated instant fuel rate,2.136536699,gal./h
+41586.96602,Distance travelled,0.139082471,miles
+41586.96602,Distance travelled (total),2.752516967,miles
+41586.96602,Engine Fuel Rate,1.64,g/sec
+41586.96602,Fuel used,0.003104868,gallon
+41586.96602,Fuel used (total),0.1348416,gallon
+41586.96602,Fuel used price,0.010804942,$
+41586.96602,Fuel used price (total),0.46,$
+41586.96602,Instant engine power (based on fuel consumption),31.64057043,hp
+41586.96602,Vehicle acceleration,0,m/s²
+41586.96602,Vehicle Fuel Rate,1.64,g/sec
+41586.96602,Vehicle speed,69.59357353,mph
+41587.05602,Average fuel consumption,44.59018563,MPG
+41587.05602,Average fuel consumption (total),20.41777896,MPG
+41587.05602,Average fuel consumption 10 sec,51.42948937,MPG
+41587.05602,Average speed,70.31528888,mph
+41587.05602,Calculated instant fuel consumption,32.57313415,MPG
+41587.05602,Calculated instant fuel rate,2.136536699,gal./h
+41587.05602,Distance travelled,0.140808936,miles
+41587.05602,Distance travelled (total),2.754243433,miles
+41587.05602,Engine Fuel Rate,1.64,g/sec
+41587.05602,Fuel used,0.003157851,gallon
+41587.05602,Fuel used (total),0.134894582,gallon
+41587.05602,Fuel used price,0.010989321,$
+41587.05602,Fuel used price (total),0.46,$
+41587.05602,Instant engine power (based on fuel consumption),31.64057043,hp
+41587.05602,Vehicle acceleration,0,m/s²
+41587.05602,Vehicle Fuel Rate,1.64,g/sec
+41587.05602,Vehicle speed,69.59357353,mph
+41587.13802,Average fuel consumption,44.40773718,MPG
+41587.13802,Average fuel consumption (total),20.42216697,MPG
+41587.13802,Average fuel consumption 10 sec,51.33050912,MPG
+41587.13802,Average speed,70.30717245,mph
+41587.13802,Calculated instant fuel consumption,32.57313415,MPG
+41587.13802,Calculated instant fuel rate,2.136536699,gal./h
+41587.13802,Distance travelled,0.142395384,miles
+41587.13802,Distance travelled (total),2.75582988,miles
+41587.13802,Engine Fuel Rate,1.64,g/sec
+41587.13802,Fuel used,0.00320655,gallon
+41587.13802,Fuel used (total),0.134943281,gallon
+41587.13802,Fuel used price,0.011158792,$
+41587.13802,Fuel used price (total),0.46,$
+41587.13802,Instant engine power (based on fuel consumption),31.64057043,hp
+41587.13802,Vehicle acceleration,0,m/s²
+41587.13802,Vehicle Fuel Rate,1.64,g/sec
+41587.13802,Vehicle speed,69.59357353,mph
+41587.15502,Altitude (GPS),615.485584,feet
+41587.15502,Average speed (GPS),50.29283403,mph
+41587.15502,Speed (GPS),69.73723455,mph
+41587.23702,Average fuel consumption,44.19469679,MPG
+41587.23702,Average fuel consumption (total),20.42745026,MPG
+41587.23702,Average fuel consumption 10 sec,51.23084778,MPG
+41587.23702,Average speed,70.29758933,mph
+41587.23702,Calculated instant fuel consumption,32.57313415,MPG
+41587.23702,Calculated instant fuel rate,2.136536699,gal./h
+41587.23702,Distance travelled,0.144308217,miles
+41587.23702,Distance travelled (total),2.757742714,miles
+41587.23702,Engine Fuel Rate,1.64,g/sec
+41587.23702,Fuel used,0.003265289,gallon
+41587.23702,Fuel used (total),0.13500202,gallon
+41587.23702,Fuel used price,0.011363205,$
+41587.23702,Fuel used price (total),0.46,$
+41587.23702,Instant engine power (based on fuel consumption),31.64057043,hp
+41587.23702,Vehicle acceleration,0,m/s²
+41587.23702,Vehicle Fuel Rate,1.64,g/sec
+41587.23702,Vehicle speed,69.59357353,mph
+41587.32502,Average fuel consumption,44.06134875,MPG
+41587.32502,Average fuel consumption (total),20.43277686,MPG
+41587.32502,Average fuel consumption 10 sec,51.13180044,MPG
+41587.32502,Average speed,70.28924701,mph
+41587.32502,Calculated instant fuel consumption,32.57313415,MPG
+41587.32502,Calculated instant fuel rate,1.980204746,gal./h
+41587.32502,Distance travelled,0.146025688,miles
+41587.32502,Distance travelled (total),2.759460185,miles
+41587.32502,Engine Fuel Rate,1.52,g/sec
+41587.32502,Fuel used,0.00331415,gallon
+41587.32502,Fuel used (total),0.135050881,gallon
+41587.32502,Fuel used price,0.011533242,$
+41587.32502,Fuel used price (total),0.46,$
+41587.32502,Instant engine power (based on fuel consumption),29.32540674,hp
+41587.32502,Vehicle acceleration,0,m/s²
+41587.32502,Vehicle Fuel Rate,1.52,g/sec
+41587.32502,Vehicle speed,69.59357353,mph
+41587.40802,Average fuel consumption,43.94147133,MPG
+41587.40802,Average fuel consumption (total),20.43769483,MPG
+41587.40802,Average fuel consumption 10 sec,51.0335553,MPG
+41587.40802,Average speed,70.28169484,mph
+41587.40802,Calculated instant fuel consumption,35.14469737,MPG
+41587.40802,Calculated instant fuel rate,1.980204746,gal./h
+41587.40802,Distance travelled,0.14761286,miles
+41587.40802,Distance travelled (total),2.761047357,miles
+41587.40802,Engine Fuel Rate,1.52,g/sec
+41587.40802,Fuel used,0.003359312,gallon
+41587.40802,Fuel used (total),0.135096043,gallon
+41587.40802,Fuel used price,0.011690404,$
+41587.40802,Fuel used price (total),0.46,$
+41587.40802,Instant engine power (based on fuel consumption),29.32540674,hp
+41587.40802,Vehicle acceleration,0,m/s²
+41587.40802,Vehicle Fuel Rate,1.52,g/sec
+41587.40802,Vehicle speed,69.59357353,mph
+41587.50702,Average fuel consumption,43.80066173,MPG
+41587.50702,Average fuel consumption (total),20.44363119,MPG
+41587.50702,Average fuel consumption 10 sec,50.93575151,MPG
+41587.50702,Average speed,70.27274589,mph
+41587.50702,Calculated instant fuel consumption,35.14469737,MPG
+41587.50702,Calculated instant fuel rate,1.980204746,gal./h
+41587.50702,Distance travelled,0.149530801,miles
+41587.50702,Distance travelled (total),2.762965298,miles
+41587.50702,Engine Fuel Rate,1.52,g/sec
+41587.50702,Fuel used,0.003413899,gallon
+41587.50702,Fuel used (total),0.135150631,gallon
+41587.50702,Fuel used price,0.011880369,$
+41587.50702,Fuel used price (total),0.46,$
+41587.50702,Instant engine power (based on fuel consumption),29.32540674,hp
+41587.50702,Vehicle acceleration,0,m/s²
+41587.50702,Vehicle Fuel Rate,1.52,g/sec
+41587.50702,Vehicle speed,69.59357353,mph
+41587.59602,Average fuel consumption,43.67865976,MPG
+41587.59602,Average fuel consumption (total),20.44894925,MPG
+41587.59602,Average fuel consumption 10 sec,50.83866292,MPG
+41587.59602,Average speed,70.2649792,mph
+41587.59602,Calculated instant fuel consumption,35.14469737,MPG
+41587.59602,Calculated instant fuel rate,1.980204746,gal./h
+41587.59602,Distance travelled,0.151248885,miles
+41587.59602,Distance travelled (total),2.764683382,miles
+41587.59602,Engine Fuel Rate,1.52,g/sec
+41587.59602,Fuel used,0.003462769,gallon
+41587.59602,Fuel used (total),0.135199501,gallon
+41587.59602,Fuel used price,0.012050437,$
+41587.59602,Fuel used price (total),0.46,$
+41587.59602,Instant engine power (based on fuel consumption),29.32540674,hp
+41587.59602,Vehicle acceleration,0,m/s²
+41587.59602,Vehicle Fuel Rate,1.52,g/sec
+41587.59602,Vehicle speed,69.59357353,mph
+41587.67702,Average fuel consumption,43.5703864,MPG
+41587.67702,Average fuel consumption (total),20.45378703,MPG
+41587.67702,Average fuel consumption 10 sec,50.74247313,MPG
+41587.67702,Average speed,70.25804771,mph
+41587.67702,Calculated instant fuel consumption,35.14469737,MPG
+41587.67702,Calculated instant fuel rate,1.980204746,gal./h
+41587.67702,Distance travelled,0.152813408,miles
+41587.67702,Distance travelled (total),2.766247905,miles
+41587.67702,Engine Fuel Rate,1.52,g/sec
+41587.67702,Fuel used,0.003507282,gallon
+41587.67702,Fuel used (total),0.135244014,gallon
+41587.67702,Fuel used price,0.012205343,$
+41587.67702,Fuel used price (total),0.46,$
+41587.67702,Instant engine power (based on fuel consumption),29.32540674,hp
+41587.67702,Vehicle acceleration,0,m/s²
+41587.67702,Vehicle Fuel Rate,1.52,g/sec
+41587.67702,Vehicle speed,69.59357353,mph
+41587.76702,Average fuel consumption,43.45220148,MPG
+41587.76702,Average fuel consumption (total),20.45919036,MPG
+41587.76702,Average fuel consumption 10 sec,50.64699682,MPG
+41587.76702,Average speed,70.2503929,mph
+41587.76702,Calculated instant fuel consumption,35.14469737,MPG
+41587.76702,Calculated instant fuel rate,1.980204746,gal./h
+41587.76702,Distance travelled,0.15456324,miles
+41587.76702,Distance travelled (total),2.767997737,miles
+41587.76702,Engine Fuel Rate,1.52,g/sec
+41587.76702,Fuel used,0.003557092,gallon
+41587.76702,Fuel used (total),0.135293824,gallon
+41587.76702,Fuel used price,0.012378681,$
+41587.76702,Fuel used price (total),0.46,$
+41587.76702,Instant engine power (based on fuel consumption),29.32540674,hp
+41587.76702,Vehicle acceleration,0,m/s²
+41587.76702,Vehicle Fuel Rate,1.52,g/sec
+41587.76702,Vehicle speed,69.59357353,mph
+41587.89602,Average fuel consumption,43.28950731,MPG
+41587.89602,Average fuel consumption (total),20.46689841,MPG
+41587.89602,Average fuel consumption 10 sec,50.551533,MPG
+41587.89602,Average speed,70.23988308,mph
+41587.89602,Calculated instant fuel consumption,35.14469737,MPG
+41587.89602,Calculated instant fuel rate,1.980204746,gal./h
+41587.89602,Distance travelled,0.157060281,miles
+41587.89602,Distance travelled (total),2.770494777,miles
+41587.89602,Engine Fuel Rate,1.52,g/sec
+41587.89602,Fuel used,0.003628143,gallon
+41587.89602,Fuel used (total),0.135364875,gallon
+41587.89602,Fuel used price,0.012625938,$
+41587.89602,Fuel used price (total),0.46,$
+41587.89602,Instant engine power (based on fuel consumption),29.32540674,hp
+41587.89602,Vehicle acceleration,0,m/s²
+41587.89602,Vehicle Fuel Rate,1.52,g/sec
+41587.89602,Vehicle speed,69.59357353,mph
+41587.98502,Average fuel consumption,43.18114377,MPG
+41587.98502,Average fuel consumption (total),20.47221556,MPG
+41587.98502,Average fuel consumption 10 sec,50.45689286,MPG
+41587.98502,Average speed,70.23283192,mph
+41587.98502,Calculated instant fuel consumption,35.14469737,MPG
+41587.98502,Calculated instant fuel rate,1.980204746,gal./h
+41587.98502,Distance travelled,0.158783333,miles
+41587.98502,Distance travelled (total),2.772217829,miles
+41587.98502,Engine Fuel Rate,1.52,g/sec
+41587.98502,Fuel used,0.003677151,gallon
+41587.98502,Fuel used (total),0.135413882,gallon
+41587.98502,Fuel used price,0.012796485,$
+41587.98502,Fuel used price (total),0.46,$
+41587.98502,Instant engine power (based on fuel consumption),29.32540674,hp
+41587.98502,Vehicle acceleration,0,m/s²
+41587.98502,Vehicle Fuel Rate,1.52,g/sec
+41587.98502,Vehicle speed,69.59357353,mph
+41588.06802,Average fuel consumption,43.08239585,MPG
+41588.06802,Average fuel consumption (total),20.47716616,MPG
+41588.06802,Average fuel consumption 10 sec,50.36318889,MPG
+41588.06802,Average speed,70.22635935,mph
+41588.06802,Calculated instant fuel consumption,35.14469737,MPG
+41588.06802,Calculated instant fuel rate,1.980204746,gal./h
+41588.06802,Distance travelled,0.160389906,miles
+41588.06802,Distance travelled (total),2.773824403,miles
+41588.06802,Engine Fuel Rate,1.52,g/sec
+41588.06802,Fuel used,0.00372287,gallon
+41588.06802,Fuel used (total),0.135459601,gallon
+41588.06802,Fuel used price,0.012955588,$
+41588.06802,Fuel used price (total),0.46,$
+41588.06802,Instant engine power (based on fuel consumption),29.32540674,hp
+41588.06802,Vehicle acceleration,0,m/s²
+41588.06802,Vehicle Fuel Rate,1.52,g/sec
+41588.06802,Vehicle speed,69.59357353,mph
+41588.16602,Average fuel consumption,42.96990748,MPG
+41588.16602,Average fuel consumption (total),20.48295307,MPG
+41588.16602,Average fuel consumption 10 sec,50.27018517,MPG
+41588.16602,Average speed,70.21895536,mph
+41588.16602,Calculated instant fuel consumption,35.14469737,MPG
+41588.16602,Calculated instant fuel rate,1.980204746,gal./h
+41588.16602,Distance travelled,0.162269288,miles
+41588.16602,Distance travelled (total),2.775703785,miles
+41588.16602,Engine Fuel Rate,1.52,g/sec
+41588.16602,Fuel used,0.003776353,gallon
+41588.16602,Fuel used (total),0.135513085,gallon
+41588.16602,Fuel used price,0.013141709,$
+41588.16602,Fuel used price (total),0.46,$
+41588.16602,Instant engine power (based on fuel consumption),29.32540674,hp
+41588.16602,Vehicle acceleration,0,m/s²
+41588.16602,Vehicle Fuel Rate,1.52,g/sec
+41588.16602,Vehicle speed,69.59357353,mph
+41588.24402,Altitude (GPS),614.829416,feet
+41588.25602,Average fuel consumption,42.86866272,MPG
+41588.25602,Average fuel consumption (total),20.48831549,MPG
+41588.25602,Average fuel consumption 10 sec,50.17802,MPG
+41588.25602,Average speed,70.21227178,mph
+41588.25602,Calculated instant fuel consumption,35.14469737,MPG
+41588.25602,Calculated instant fuel rate,1.980204746,gal./h
+41588.25602,Distance travelled,0.164011221,miles
+41588.25602,Distance travelled (total),2.777445718,miles
+41588.25602,Engine Fuel Rate,1.52,g/sec
+41588.25602,Fuel used,0.003825906,gallon
+41588.25602,Fuel used (total),0.135562638,gallon
+41588.25602,Fuel used price,0.013314153,$
+41588.25602,Fuel used price (total),0.46,$
+41588.25602,Instant engine power (based on fuel consumption),29.32540674,hp
+41588.25602,Vehicle acceleration,0,m/s²
+41588.25602,Vehicle Fuel Rate,1.52,g/sec
+41588.25602,Vehicle speed,69.59357353,mph
+41588.34802,Average fuel consumption,43.09793844,MPG
+41588.34802,Average fuel consumption (total),20.49824509,MPG
+41588.34802,Average fuel consumption 10 sec,50.09139938,MPG
+41588.34802,Average speed,70.19877039,mph
+41588.34802,Calculated instant fuel consumption,34.83090543,MPG
+41588.34802,Calculated instant fuel rate,0.807715094,gal./h
+41588.34802,Distance travelled,0.165782598,miles
+41588.34802,Distance travelled (total),2.779217094,miles
+41588.34802,Engine Fuel Rate,0.62,g/sec
+41588.34802,Fuel used,0.003846654,gallon
+41588.34802,Fuel used (total),0.135583386,gallon
+41588.34802,Fuel used price,0.013386356,$
+41588.34802,Fuel used price (total),0.46,$
+41588.34802,Instant engine power (based on fuel consumption),11.96167906,hp
+41588.34802,Vehicle acceleration,-0.765770617,m/s²
+41588.34802,Vehicle Fuel Rate,0.62,g/sec
+41588.34802,Vehicle speed,68.97220234,mph
+41588.43602,Average fuel consumption,43.31213044,MPG
+41588.43602,Average fuel consumption (total),20.50761422,MPG
+41588.43602,Average fuel consumption 10 sec,50.00986181,MPG
+41588.43602,Average speed,70.18631971,mph
+41588.43602,Calculated instant fuel consumption,85.39189718,MPG
+41588.43602,Calculated instant fuel rate,0.807715094,gal./h
+41588.43602,Distance travelled,0.16745431,miles
+41588.43602,Distance travelled (total),2.780888806,miles
+41588.43602,Engine Fuel Rate,0.62,g/sec
+41588.43602,Fuel used,0.003866228,gallon
+41588.43602,Fuel used (total),0.13560296,gallon
+41588.43602,Fuel used price,0.013454474,$
+41588.43602,Fuel used price (total),0.46,$
+41588.43602,Instant engine power (based on fuel consumption),11.96167906,hp
+41588.43602,Vehicle acceleration,-0.75675839,m/s²
+41588.43602,Vehicle Fuel Rate,0.62,g/sec
+41588.43602,Vehicle speed,68.97220234,mph
+41588.52702,Average fuel consumption,43.53331704,MPG
+41588.52702,Average fuel consumption (total),20.51739024,MPG
+41588.52702,Average fuel consumption 10 sec,49.93327748,MPG
+41588.52702,Average speed,70.17356254,mph
+41588.52702,Calculated instant fuel consumption,85.39189718,MPG
+41588.52702,Calculated instant fuel rate,0.807715094,gal./h
+41588.52702,Distance travelled,0.169199387,miles
+41588.52702,Distance travelled (total),2.782633884,miles
+41588.52702,Engine Fuel Rate,0.62,g/sec
+41588.52702,Fuel used,0.00388667,gallon
+41588.52702,Fuel used (total),0.135623402,gallon
+41588.52702,Fuel used price,0.013525613,$
+41588.52702,Fuel used price (total),0.46,$
+41588.52702,Instant engine power (based on fuel consumption),11.96167906,hp
+41588.52702,Vehicle acceleration,-0.769638725,m/s²
+41588.52702,Vehicle Fuel Rate,0.62,g/sec
+41588.52702,Vehicle speed,68.97220234,mph
+41588.60802,Average fuel consumption,43.73107781,MPG
+41588.60802,Average fuel consumption (total),20.52621816,MPG
+41588.60802,Average fuel consumption 10 sec,49.86111831,MPG
+41588.60802,Average speed,70.16228543,mph
+41588.60802,Calculated instant fuel consumption,85.39189718,MPG
+41588.60802,Calculated instant fuel rate,0.807715094,gal./h
+41588.60802,Distance travelled,0.170775819,miles
+41588.60802,Distance travelled (total),2.784210316,miles
+41588.60802,Engine Fuel Rate,0.62,g/sec
+41588.60802,Fuel used,0.003905142,gallon
+41588.60802,Fuel used (total),0.135641874,gallon
+41588.60802,Fuel used price,0.013589896,$
+41588.60802,Fuel used price (total),0.46,$
+41588.60802,Instant engine power (based on fuel consumption),11.96167906,hp
+41588.60802,Vehicle acceleration,-0.78793243,m/s²
+41588.60802,Vehicle Fuel Rate,0.62,g/sec
+41588.60802,Vehicle speed,68.97220234,mph
+41588.70502,Average fuel consumption,43.96097741,MPG
+41588.70502,Average fuel consumption (total),20.53657289,MPG
+41588.70502,Average fuel consumption 10 sec,49.79361369,MPG
+41588.70502,Average speed,70.14933326,mph
+41588.70502,Calculated instant fuel consumption,85.39189718,MPG
+41588.70502,Calculated instant fuel rate,0.807715094,gal./h
+41588.70502,Distance travelled,0.172624621,miles
+41588.70502,Distance travelled (total),2.786059118,miles
+41588.70502,Engine Fuel Rate,0.62,g/sec
+41588.70502,Fuel used,0.003926776,gallon
+41588.70502,Fuel used (total),0.135663507,gallon
+41588.70502,Fuel used price,0.013665179,$
+41588.70502,Fuel used price (total),0.46,$
+41588.70502,Instant engine power (based on fuel consumption),11.96167906,hp
+41588.70502,Vehicle acceleration,0,m/s²
+41588.70502,Vehicle Fuel Rate,0.62,g/sec
+41588.70502,Vehicle speed,68.97220234,mph
+41588.79702,Average fuel consumption,44.17570466,MPG
+41588.79702,Average fuel consumption (total),20.5463509,MPG
+41588.79702,Average fuel consumption 10 sec,49.73037063,MPG
+41588.79702,Average speed,70.13734591,mph
+41588.79702,Calculated instant fuel consumption,85.39189718,MPG
+41588.79702,Calculated instant fuel rate,0.807715094,gal./h
+41588.79702,Distance travelled,0.174371409,miles
+41588.79702,Distance travelled (total),2.787805906,miles
+41588.79702,Engine Fuel Rate,0.62,g/sec
+41588.79702,Fuel used,0.00394723,gallon
+41588.79702,Fuel used (total),0.135683962,gallon
+41588.79702,Fuel used price,0.013736362,$
+41588.79702,Fuel used price (total),0.46,$
+41588.79702,Instant engine power (based on fuel consumption),11.96167906,hp
+41588.79702,Vehicle acceleration,0,m/s²
+41588.79702,Vehicle Fuel Rate,0.62,g/sec
+41588.79702,Vehicle speed,68.97220234,mph
+41588.88702,Average fuel consumption,44.38555167,MPG
+41588.88702,Average fuel consumption (total),20.55600751,MPG
+41588.88702,Average fuel consumption 10 sec,49.67114983,MPG
+41588.88702,Average speed,70.12566835,mph
+41588.88702,Calculated instant fuel consumption,85.39189718,MPG
+41588.88702,Calculated instant fuel rate,0.807715094,gal./h
+41588.88702,Distance travelled,0.176097383,miles
+41588.88702,Distance travelled (total),2.78953188,miles
+41588.88702,Engine Fuel Rate,0.62,g/sec
+41588.88702,Fuel used,0.003967455,gallon
+41588.88702,Fuel used (total),0.135704186,gallon
+41588.88702,Fuel used price,0.013806742,$
+41588.88702,Fuel used price (total),0.46,$
+41588.88702,Instant engine power (based on fuel consumption),11.96167906,hp
+41588.88702,Vehicle acceleration,0,m/s²
+41588.88702,Vehicle Fuel Rate,0.62,g/sec
+41588.88702,Vehicle speed,68.97220234,mph
+41588.97602,Average fuel consumption,44.59152603,MPG
+41588.97602,Average fuel consumption (total),20.56557138,MPG
+41588.97602,Average fuel consumption 10 sec,49.61573851,MPG
+41588.97602,Average speed,70.11443387,mph
+41588.97602,Calculated instant fuel consumption,85.39189718,MPG
+41588.97602,Calculated instant fuel rate,0.807715094,gal./h
+41588.97602,Distance travelled,0.177806671,miles
+41588.97602,Distance travelled (total),2.791241168,miles
+41588.97602,Engine Fuel Rate,0.62,g/sec
+41588.97602,Fuel used,0.003987461,gallon
+41588.97602,Fuel used (total),0.135724192,gallon
+41588.97602,Fuel used price,0.013876363,$
+41588.97602,Fuel used price (total),0.46,$
+41588.97602,Instant engine power (based on fuel consumption),11.96167906,hp
+41588.97602,Vehicle acceleration,0,m/s²
+41588.97602,Vehicle Fuel Rate,0.62,g/sec
+41588.97602,Vehicle speed,68.97220234,mph
+41589.06202,Average fuel consumption,44.79301988,MPG
+41589.06202,Average fuel consumption (total),20.5750239,MPG
+41589.06202,Average fuel consumption 10 sec,49.56392893,MPG
+41589.06202,Average speed,70.10349135,mph
+41589.06202,Calculated instant fuel consumption,85.39189718,MPG
+41589.06202,Calculated instant fuel rate,0.807715094,gal./h
+41589.06202,Distance travelled,0.179496965,miles
+41589.06202,Distance travelled (total),2.792931462,miles
+41589.06202,Engine Fuel Rate,0.62,g/sec
+41589.06202,Fuel used,0.004007259,gallon
+41589.06202,Fuel used (total),0.135743991,gallon
+41589.06202,Fuel used price,0.013945263,$
+41589.06202,Fuel used price (total),0.46,$
+41589.06202,Instant engine power (based on fuel consumption),11.96167906,hp
+41589.06202,Vehicle acceleration,0,m/s²
+41589.06202,Vehicle Fuel Rate,0.62,g/sec
+41589.06202,Vehicle speed,68.97220234,mph
+41589.15602,Average fuel consumption,44.99634132,MPG
+41589.15602,Average fuel consumption (total),20.58472293,MPG
+41589.15602,Average fuel consumption 10 sec,49.51559875,MPG
+41589.15602,Average speed,70.086252,mph
+41589.15602,Calculated instant fuel consumption,84.62260081,MPG
+41589.15602,Calculated instant fuel rate,0.807715094,gal./h
+41589.15602,Distance travelled,0.181236703,miles
+41589.15602,Distance travelled (total),2.7946712,miles
+41589.15602,Engine Fuel Rate,0.62,g/sec
+41589.15602,Fuel used,0.004027816,gallon
+41589.15602,Fuel used (total),0.135764548,gallon
+41589.15602,Fuel used price,0.0140168,$
+41589.15602,Fuel used price (total),0.46,$
+41589.15602,Instant engine power (based on fuel consumption),11.96167906,hp
+41589.15602,Vehicle acceleration,-0.773433679,m/s²
+41589.15602,Vehicle Fuel Rate,0.62,g/sec
+41589.15602,Vehicle speed,68.35083115,mph
+41589.19702,Average speed (GPS),50.50139257,mph
+41589.19702,Speed (GPS),69.39200072,mph
+41589.24502,Average fuel consumption,45.19324608,MPG
+41589.24502,Average fuel consumption (total),20.59420874,MPG
+41589.24502,Average fuel consumption 10 sec,49.47053743,MPG
+41589.24502,Average speed,70.06969396,mph
+41589.24502,Calculated instant fuel consumption,84.62260081,MPG
+41589.24502,Calculated instant fuel rate,0.807715094,gal./h
+41589.24502,Distance travelled,0.182938732,miles
+41589.24502,Distance travelled (total),2.796373228,miles
+41589.24502,Engine Fuel Rate,0.62,g/sec
+41589.24502,Fuel used,0.004047928,gallon
+41589.24502,Fuel used (total),0.13578466,gallon
+41589.24502,Fuel used price,0.01408679,$
+41589.24502,Fuel used price (total),0.46,$
+41589.24502,Instant engine power (based on fuel consumption),11.96167906,hp
+41589.24502,Vehicle acceleration,-0.774180378,m/s²
+41589.24502,Vehicle Fuel Rate,0.62,g/sec
+41589.24502,Vehicle speed,68.35083115,mph
+41589.33602,Average fuel consumption,45.61924487,MPG
+41589.33602,Average fuel consumption (total),20.60690836,MPG
+41589.33602,Average fuel consumption 10 sec,49.43116851,MPG
+41589.33602,Average speed,70.05324615,mph
+41589.33602,Calculated instant fuel consumption,84.62260081,MPG
+41589.33602,Calculated instant fuel rate,0,gal./h
+41589.33602,Distance travelled,0.184663141,miles
+41589.33602,Distance travelled (total),2.798097638,miles
+41589.33602,Engine Fuel Rate,0,g/sec
+41589.33602,Fuel used,0.004047928,gallon
+41589.33602,Fuel used (total),0.13578466,gallon
+41589.33602,Fuel used price,0.01408679,$
+41589.33602,Fuel used price (total),0.46,$
+41589.33602,Instant engine power (based on fuel consumption),0,hp
+41589.33602,Vehicle acceleration,-0.770917751,m/s²
+41589.33602,Vehicle Fuel Rate,0,g/sec
+41589.33602,Vehicle speed,68.35083115,mph
+41589.42702,Average fuel consumption,46.04540923,MPG
+41589.42702,Average fuel consumption (total),20.61961291,MPG
+41589.42702,Average fuel consumption 10 sec,49.39722252,MPG
+41589.42702,Average speed,70.03697532,mph
+41589.42702,Calculated instant fuel rate,0,gal./h
+41589.42702,Distance travelled,0.186388222,miles
+41589.42702,Distance travelled (total),2.799822718,miles
+41589.42702,Engine Fuel Rate,0,g/sec
+41589.42702,Fuel used,0.004047928,gallon
+41589.42702,Fuel used (total),0.13578466,gallon
+41589.42702,Fuel used price,0.01408679,$
+41589.42702,Fuel used price (total),0.46,$
+41589.42702,Instant engine power (based on fuel consumption),0,hp
+41589.42702,Vehicle acceleration,-0.760519105,m/s²
+41589.42702,Vehicle Fuel Rate,0,g/sec
+41589.42702,Vehicle speed,68.35083115,mph
+41589.51602,Average fuel consumption,46.46484428,MPG
+41589.51602,Average fuel consumption (total),20.63211684,MPG
+41589.51602,Average fuel consumption 10 sec,49.3683742,MPG
+41589.51602,Average speed,70.02150063,mph
+41589.51602,Calculated instant fuel rate,0,gal./h
+41589.51602,Distance travelled,0.188086062,miles
+41589.51602,Distance travelled (total),2.801520558,miles
+41589.51602,Engine Fuel Rate,0,g/sec
+41589.51602,Fuel used,0.004047928,gallon
+41589.51602,Fuel used (total),0.13578466,gallon
+41589.51602,Fuel used price,0.01408679,$
+41589.51602,Fuel used price (total),0.46,$
+41589.51602,Instant engine power (based on fuel consumption),0,hp
+41589.51602,Vehicle acceleration,0,m/s²
+41589.51602,Vehicle Fuel Rate,0,g/sec
+41589.51602,Vehicle speed,68.35083115,mph
+41589.60602,Average fuel consumption,46.88311002,MPG
+41589.60602,Average fuel consumption (total),20.64458592,MPG
+41589.60602,Average fuel consumption 10 sec,49.34437663,MPG
+41589.60602,Average speed,70.00623843,mph
+41589.60602,Calculated instant fuel rate,0,gal./h
+41589.60602,Distance travelled,0.189779169,miles
+41589.60602,Distance travelled (total),2.803213666,miles
+41589.60602,Engine Fuel Rate,0,g/sec
+41589.60602,Fuel used,0.004047928,gallon
+41589.60602,Fuel used (total),0.13578466,gallon
+41589.60602,Fuel used price,0.01408679,$
+41589.60602,Fuel used price (total),0.46,$
+41589.60602,Instant engine power (based on fuel consumption),0,hp
+41589.60602,Vehicle acceleration,0,m/s²
+41589.60602,Vehicle Fuel Rate,0,g/sec
+41589.60602,Vehicle speed,68.35083115,mph
+41589.69702,Average fuel consumption,47.31022418,MPG
+41589.69702,Average fuel consumption (total),20.65731879,MPG
+41589.69702,Average fuel consumption 10 sec,49.32509677,MPG
+41589.69702,Average speed,69.9909221,mph
+41589.69702,Calculated instant fuel rate,0,gal./h
+41589.69702,Distance travelled,0.191508094,miles
+41589.69702,Distance travelled (total),2.80494259,miles
+41589.69702,Engine Fuel Rate,0,g/sec
+41589.69702,Fuel used,0.004047928,gallon
+41589.69702,Fuel used (total),0.13578466,gallon
+41589.69702,Fuel used price,0.01408679,$
+41589.69702,Fuel used price (total),0.46,$
+41589.69702,Instant engine power (based on fuel consumption),0,hp
+41589.69702,Vehicle acceleration,0,m/s²
+41589.69702,Vehicle Fuel Rate,0,g/sec
+41589.69702,Vehicle speed,68.35083115,mph
+41589.78602,Average fuel consumption,47.72677136,MPG
+41589.78602,Average fuel consumption (total),20.66973663,MPG
+41589.78602,Average fuel consumption 10 sec,49.31021971,MPG
+41589.78602,Average speed,69.97627655,mph
+41589.78602,Calculated instant fuel rate,0,gal./h
+41589.78602,Distance travelled,0.193194244,miles
+41589.78602,Distance travelled (total),2.806628741,miles
+41589.78602,Engine Fuel Rate,0,g/sec
+41589.78602,Fuel used,0.004047928,gallon
+41589.78602,Fuel used (total),0.13578466,gallon
+41589.78602,Fuel used price,0.01408679,$
+41589.78602,Fuel used price (total),0.46,$
+41589.78602,Instant engine power (based on fuel consumption),0,hp
+41589.78602,Vehicle acceleration,0,m/s²
+41589.78602,Vehicle Fuel Rate,0,g/sec
+41589.78602,Vehicle speed,68.35083115,mph
+41589.87602,Average fuel consumption,48.14746824,MPG
+41589.87602,Average fuel consumption (total),20.68227819,MPG
+41589.87602,Average fuel consumption 10 sec,49.29207051,MPG
+41589.87602,Average speed,69.9560027,mph
+41589.87602,Calculated instant fuel rate,0,gal./h
+41589.87602,Distance travelled,0.194897192,miles
+41589.87602,Distance travelled (total),2.808331689,miles
+41589.87602,Engine Fuel Rate,0,g/sec
+41589.87602,Fuel used,0.004047928,gallon
+41589.87602,Fuel used (total),0.13578466,gallon
+41589.87602,Fuel used price,0.01408679,$
+41589.87602,Fuel used price (total),0.46,$
+41589.87602,Instant engine power (based on fuel consumption),0,hp
+41589.87602,Vehicle acceleration,-0.772532191,m/s²
+41589.87602,Vehicle Fuel Rate,0,g/sec
+41589.87602,Vehicle speed,67.72945995,mph
+41589.96702,Average fuel consumption,48.56812423,MPG
+41589.96702,Average fuel consumption (total),20.69481852,MPG
+41589.96702,Average fuel consumption 10 sec,49.28252654,MPG
+41589.96702,Average speed,69.93609482,mph
+41589.96702,Calculated instant fuel rate,0,gal./h
+41589.96702,Distance travelled,0.196599975,miles
+41589.96702,Distance travelled (total),2.810034472,miles
+41589.96702,Engine Fuel Rate,0,g/sec
+41589.96702,Fuel used,0.004047928,gallon
+41589.96702,Fuel used (total),0.13578466,gallon
+41589.96702,Fuel used price,0.01408679,$
+41589.96702,Fuel used price (total),0.46,$
+41589.96702,Instant engine power (based on fuel consumption),0,hp
+41589.96702,Vehicle acceleration,-0.769640218,m/s²
+41589.96702,Vehicle Fuel Rate,0,g/sec
+41589.96702,Vehicle speed,67.72945995,mph
+41590.05602,Average fuel consumption,48.98271211,MPG
+41590.05602,Average fuel consumption (total),20.70717796,MPG
+41590.05602,Average fuel consumption 10 sec,49.27323991,MPG
+41590.05602,Average speed,69.91680861,mph
+41590.05602,Calculated instant fuel rate,0,gal./h
+41590.05602,Distance travelled,0.198278194,miles
+41590.05602,Distance travelled (total),2.811712691,miles
+41590.05602,Engine Fuel Rate,0,g/sec
+41590.05602,Fuel used,0.004047928,gallon
+41590.05602,Fuel used (total),0.13578466,gallon
+41590.05602,Fuel used price,0.01408679,$
+41590.05602,Fuel used price (total),0.46,$
+41590.05602,Instant engine power (based on fuel consumption),0,hp
+41590.05602,Vehicle acceleration,-0.773624959,m/s²
+41590.05602,Vehicle Fuel Rate,0,g/sec
+41590.05602,Vehicle speed,67.72945995,mph
+41590.12202,Altitude (GPS),615.485584,feet
+41590.12202,Average speed (GPS),50.590392,mph
+41590.12202,Speed (GPS),68.5864551,mph
+41590.14502,Average fuel consumption,49.39942401,MPG
+41590.14502,Average fuel consumption (total),20.71960072,MPG
+41590.14502,Average fuel consumption 10 sec,49.26970557,MPG
+41590.14502,Average speed,69.89776706,mph
+41590.14502,Calculated instant fuel rate,0,gal./h
+41590.14502,Distance travelled,0.199965012,miles
+41590.14502,Distance travelled (total),2.813399508,miles
+41590.14502,Engine Fuel Rate,0,g/sec
+41590.14502,Fuel used,0.004047928,gallon
+41590.14502,Fuel used (total),0.13578466,gallon
+41590.14502,Fuel used price,0.01408679,$
+41590.14502,Fuel used price (total),0.46,$
+41590.14502,Instant engine power (based on fuel consumption),0,hp
+41590.14502,Vehicle acceleration,-0.771838419,m/s²
+41590.14502,Vehicle Fuel Rate,0,g/sec
+41590.14502,Vehicle speed,67.72945995,mph
+41590.22702,Average fuel consumption,49.77801784,MPG
+41590.22702,Average fuel consumption (total),20.73088712,MPG
+41590.22702,Average fuel consumption 10 sec,49.26991141,MPG
+41590.22702,Average speed,69.88001406,mph
+41590.22702,Calculated instant fuel rate,0,gal./h
+41590.22702,Distance travelled,0.20149753,miles
+41590.22702,Distance travelled (total),2.814932026,miles
+41590.22702,Engine Fuel Rate,0,g/sec
+41590.22702,Fuel used,0.004047928,gallon
+41590.22702,Fuel used (total),0.13578466,gallon
+41590.22702,Fuel used price,0.01408679,$
+41590.22702,Fuel used price (total),0.46,$
+41590.22702,Instant engine power (based on fuel consumption),0,hp
+41590.22702,Vehicle acceleration,0,m/s²
+41590.22702,Vehicle Fuel Rate,0,g/sec
+41590.22702,Vehicle speed,67.72945995,mph
+41590.32602,Average fuel consumption,50.23877045,MPG
+41590.32602,Average fuel consumption (total),20.7446228,MPG
+41590.32602,Average fuel consumption 10 sec,49.27353336,MPG
+41590.32602,Average speed,69.86037574,mph
+41590.32602,Calculated instant fuel rate,0,gal./h
+41590.32602,Distance travelled,0.20336262,miles
+41590.32602,Distance travelled (total),2.816797117,miles
+41590.32602,Engine Fuel Rate,0,g/sec
+41590.32602,Fuel used,0.004047928,gallon
+41590.32602,Fuel used (total),0.13578466,gallon
+41590.32602,Fuel used price,0.01408679,$
+41590.32602,Fuel used price (total),0.46,$
+41590.32602,Instant engine power (based on fuel consumption),0,hp
+41590.32602,Vehicle acceleration,0,m/s²
+41590.32602,Vehicle Fuel Rate,0,g/sec
+41590.32602,Vehicle speed,67.72945995,mph
+41590.41602,Average fuel consumption,50.65656435,MPG
+41590.41602,Average fuel consumption (total),20.75707781,MPG
+41590.41602,Average fuel consumption 10 sec,49.28173429,MPG
+41590.41602,Average speed,69.84227573,mph
+41590.41602,Calculated instant fuel rate,0,gal./h
+41590.41602,Distance travelled,0.205053817,miles
+41590.41602,Distance travelled (total),2.818488314,miles
+41590.41602,Engine Fuel Rate,0,g/sec
+41590.41602,Fuel used,0.004047928,gallon
+41590.41602,Fuel used (total),0.13578466,gallon
+41590.41602,Fuel used price,0.01408679,$
+41590.41602,Fuel used price (total),0.46,$
+41590.41602,Instant engine power (based on fuel consumption),0,hp
+41590.41602,Vehicle acceleration,0,m/s²
+41590.41602,Vehicle Fuel Rate,0,g/sec
+41590.41602,Vehicle speed,67.72945995,mph
+41590.50702,Average fuel consumption,51.0803506,MPG
+41590.50702,Average fuel consumption (total),20.76971146,MPG
+41590.50702,Average fuel consumption 10 sec,49.294785,MPG
+41590.50702,Average speed,69.82419553,mph
+41590.50702,Calculated instant fuel rate,0,gal./h
+41590.50702,Distance travelled,0.206769271,miles
+41590.50702,Distance travelled (total),2.820203768,miles
+41590.50702,Engine Fuel Rate,0,g/sec
+41590.50702,Fuel used,0.004047928,gallon
+41590.50702,Fuel used (total),0.13578466,gallon
+41590.50702,Fuel used price,0.01408679,$
+41590.50702,Fuel used price (total),0.46,$
+41590.50702,Instant engine power (based on fuel consumption),0,hp
+41590.50702,Vehicle acceleration,0,m/s²
+41590.50702,Vehicle Fuel Rate,0,g/sec
+41590.50702,Vehicle speed,67.72945995,mph
+41590.59602,Average fuel consumption,51.49195695,MPG
+41590.59602,Average fuel consumption (total),20.78198202,MPG
+41590.59602,Average fuel consumption 10 sec,49.31228751,MPG
+41590.59602,Average speed,69.80694263,mph
+41590.59602,Calculated instant fuel rate,0,gal./h
+41590.59602,Distance travelled,0.208435421,miles
+41590.59602,Distance travelled (total),2.821869918,miles
+41590.59602,Engine Fuel Rate,0,g/sec
+41590.59602,Fuel used,0.004047928,gallon
+41590.59602,Fuel used (total),0.13578466,gallon
+41590.59602,Fuel used price,0.01408679,$
+41590.59602,Fuel used price (total),0.46,$
+41590.59602,Instant engine power (based on fuel consumption),0,hp
+41590.59602,Vehicle acceleration,0,m/s²
+41590.59602,Vehicle Fuel Rate,0,g/sec
+41590.59602,Vehicle speed,67.72945995,mph
+41590.68602,Average fuel consumption,51.90818636,MPG
+41590.68602,Average fuel consumption (total),20.79439039,MPG
+41590.68602,Average fuel consumption 10 sec,49.33397514,MPG
+41590.68602,Average speed,69.78443926,mph
+41590.68602,Calculated instant fuel rate,0,gal./h
+41590.68602,Distance travelled,0.210120286,miles
+41590.68602,Distance travelled (total),2.823554782,miles
+41590.68602,Engine Fuel Rate,0,g/sec
+41590.68602,Fuel used,0.004047928,gallon
+41590.68602,Fuel used (total),0.13578466,gallon
+41590.68602,Fuel used price,0.01408679,$
+41590.68602,Fuel used price (total),0.46,$
+41590.68602,Instant engine power (based on fuel consumption),0,hp
+41590.68602,Vehicle acceleration,-0.771443792,m/s²
+41590.68602,Vehicle Fuel Rate,0,g/sec
+41590.68602,Vehicle speed,67.10808876,mph
+41590.77702,Average fuel consumption,52.32757395,MPG
+41590.77702,Average fuel consumption (total),20.80689291,MPG
+41590.77702,Average fuel consumption 10 sec,49.35973432,MPG
+41590.77702,Average speed,69.7621243,mph
+41590.77702,Calculated instant fuel rate,0,gal./h
+41590.77702,Distance travelled,0.211817934,miles
+41590.77702,Distance travelled (total),2.82525243,miles
+41590.77702,Engine Fuel Rate,0,g/sec
+41590.77702,Fuel used,0.004047928,gallon
+41590.77702,Fuel used (total),0.13578466,gallon
+41590.77702,Fuel used price,0.01408679,$
+41590.77702,Fuel used price (total),0.46,$
+41590.77702,Instant engine power (based on fuel consumption),0,hp
+41590.77702,Vehicle acceleration,-0.769161355,m/s²
+41590.77702,Vehicle Fuel Rate,0,g/sec
+41590.77702,Vehicle speed,67.10808876,mph
+41590.86602,Average fuel consumption,52.73495187,MPG
+41590.86602,Average fuel consumption (total),20.81903741,MPG
+41590.86602,Average fuel consumption 10 sec,49.38932979,MPG
+41590.86602,Average speed,69.74083208,mph
+41590.86602,Calculated instant fuel rate,0,gal./h
+41590.86602,Distance travelled,0.213466968,miles
+41590.86602,Distance travelled (total),2.826901464,miles
+41590.86602,Engine Fuel Rate,0,g/sec
+41590.86602,Fuel used,0.004047928,gallon
+41590.86602,Fuel used (total),0.13578466,gallon
+41590.86602,Fuel used price,0.01408679,$
+41590.86602,Fuel used price (total),0.46,$
+41590.86602,Instant engine power (based on fuel consumption),0,hp
+41590.86602,Vehicle acceleration,-0.774873397,m/s²
+41590.86602,Vehicle Fuel Rate,0,g/sec
+41590.86602,Vehicle speed,67.10808876,mph
+41590.95602,Average fuel consumption,53.1527111,MPG
+41590.95602,Average fuel consumption (total),20.83149139,MPG
+41590.95602,Average fuel consumption 10 sec,49.42268798,MPG
+41590.95602,Average speed,69.71933711,mph
+41590.95602,Calculated instant fuel rate,0,gal./h
+41590.95602,Distance travelled,0.215158025,miles
+41590.95602,Distance travelled (total),2.828592521,miles
+41590.95602,Engine Fuel Rate,0,g/sec
+41590.95602,Fuel used,0.004047928,gallon
+41590.95602,Fuel used (total),0.13578466,gallon
+41590.95602,Fuel used price,0.01408679,$
+41590.95602,Fuel used price (total),0.46,$
+41590.95602,Instant engine power (based on fuel consumption),0,hp
+41590.95602,Vehicle acceleration,-0.770179464,m/s²
+41590.95602,Vehicle Fuel Rate,0,g/sec
+41590.95602,Vehicle speed,67.10808876,mph
+41591.04702,Average fuel consumption,53.5715493,MPG
+41591.04702,Average fuel consumption (total),20.84397754,MPG
+41591.04702,Average fuel consumption 10 sec,49.45974309,MPG
+41591.04702,Average speed,69.69811562,mph
+41591.04702,Calculated instant fuel rate,0,gal./h
+41591.04702,Distance travelled,0.216853449,miles
+41591.04702,Distance travelled (total),2.830287946,miles
+41591.04702,Engine Fuel Rate,0,g/sec
+41591.04702,Fuel used,0.004047928,gallon
+41591.04702,Fuel used (total),0.13578466,gallon
+41591.04702,Fuel used price,0.01408679,$
+41591.04702,Fuel used price (total),0.46,$
+41591.04702,Instant engine power (based on fuel consumption),0,hp
+41591.04702,Vehicle acceleration,0,m/s²
+41591.04702,Vehicle Fuel Rate,0,g/sec
+41591.04702,Vehicle speed,67.10808876,mph
+41591.13502,Average fuel consumption,53.97792929,MPG
+41591.13502,Average fuel consumption (total),20.85609229,MPG
+41591.13502,Average fuel consumption 10 sec,49.50030914,MPG
+41591.13502,Average speed,69.67788438,mph
+41591.13502,Calculated instant fuel rate,0,gal./h
+41591.13502,Distance travelled,0.218498443,miles
+41591.13502,Distance travelled (total),2.83193294,miles
+41591.13502,Engine Fuel Rate,0,g/sec
+41591.13502,Fuel used,0.004047928,gallon
+41591.13502,Fuel used (total),0.13578466,gallon
+41591.13502,Fuel used price,0.01408679,$
+41591.13502,Fuel used price (total),0.46,$
+41591.13502,Instant engine power (based on fuel consumption),0,hp
+41591.13502,Vehicle acceleration,0,m/s²
+41591.13502,Vehicle Fuel Rate,0,g/sec
+41591.13502,Vehicle speed,67.10808876,mph
+41591.22602,Average fuel consumption,54.39546701,MPG
+41591.22602,Average fuel consumption (total),20.86853966,MPG
+41591.22602,Average fuel consumption 10 sec,49.54435138,MPG
+41591.22602,Average speed,69.65740386,mph
+41591.22602,Calculated instant fuel rate,0,gal./h
+41591.22602,Distance travelled,0.220188603,miles
+41591.22602,Distance travelled (total),2.8336231,miles
+41591.22602,Engine Fuel Rate,0,g/sec
+41591.22602,Fuel used,0.004047928,gallon
+41591.22602,Fuel used (total),0.13578466,gallon
+41591.22602,Fuel used price,0.01408679,$
+41591.22602,Fuel used price (total),0.46,$
+41591.22602,Instant engine power (based on fuel consumption),0,hp
+41591.22602,Vehicle acceleration,0,m/s²
+41591.22602,Vehicle Fuel Rate,0,g/sec
+41591.22602,Vehicle speed,67.10808876,mph
+41591.23602,Altitude (GPS),615.813668,feet
+41591.23602,Average speed (GPS),50.69177446,mph
+41591.23602,Speed (GPS),67.78090949,mph
+41591.31702,Average fuel consumption,54.58234576,MPG
+41591.31702,Average fuel consumption (total),20.87833309,MPG
+41591.31702,Average fuel consumption 10 sec,49.59017606,MPG
+41591.31702,Average speed,69.63731121,mph
+41591.31702,Calculated instant fuel rate,0.677438466,gal./h
+41591.31702,Distance travelled,0.221873552,miles
+41591.31702,Distance travelled (total),2.835308048,miles
+41591.31702,Engine Fuel Rate,0.52,g/sec
+41591.31702,Fuel used,0.004064939,gallon
+41591.31702,Fuel used (total),0.13580167,gallon
+41591.31702,Fuel used price,0.014145987,$
+41591.31702,Fuel used price (total),0.46,$
+41591.31702,Instant engine power (based on fuel consumption),10.03237599,hp
+41591.31702,Vehicle acceleration,0,m/s²
+41591.31702,Vehicle Fuel Rate,0.52,g/sec
+41591.31702,Vehicle speed,67.10808876,mph
+41591.40602,Average fuel consumption,54.76484025,MPG
+41591.40602,Average fuel consumption (total),20.8879714,MPG
+41591.40602,Average fuel consumption 10 sec,49.63316332,MPG
+41591.40602,Average speed,69.61784811,mph
+41591.40602,Calculated instant fuel consumption,99.06170192,MPG
+41591.40602,Calculated instant fuel rate,0.677438466,gal./h
+41591.40602,Distance travelled,0.223532094,miles
+41591.40602,Distance travelled (total),2.836966591,miles
+41591.40602,Engine Fuel Rate,0.52,g/sec
+41591.40602,Fuel used,0.004081678,gallon
+41591.40602,Fuel used (total),0.13581841,gallon
+41591.40602,Fuel used price,0.01420424,$
+41591.40602,Fuel used price (total),0.46,$
+41591.40602,Instant engine power (based on fuel consumption),10.03237599,hp
+41591.40602,Vehicle acceleration,0,m/s²
+41591.40602,Vehicle Fuel Rate,0.52,g/sec
+41591.40602,Vehicle speed,67.10808876,mph
+41591.49602,Average fuel consumption,54.94878307,MPG
+41591.49602,Average fuel consumption (total),20.89776517,MPG
+41591.49602,Average fuel consumption 10 sec,49.67371413,MPG
+41591.49602,Average speed,69.59837692,mph
+41591.49602,Calculated instant fuel consumption,99.06170192,MPG
+41591.49602,Calculated instant fuel rate,0.677438466,gal./h
+41591.49602,Distance travelled,0.22521784,miles
+41591.49602,Distance travelled (total),2.838652337,miles
+41591.49602,Engine Fuel Rate,0.52,g/sec
+41591.49602,Fuel used,0.004098693,gallon
+41591.49602,Fuel used (total),0.135835425,gallon
+41591.49602,Fuel used price,0.014263452,$
+41591.49602,Fuel used price (total),0.46,$
+41591.49602,Instant engine power (based on fuel consumption),10.03237599,hp
+41591.49602,Vehicle acceleration,0,m/s²
+41591.49602,Vehicle Fuel Rate,0.52,g/sec
+41591.49602,Vehicle speed,67.10808876,mph
+41591.58602,Average fuel consumption,55.13087165,MPG
+41591.58602,Average fuel consumption (total),20.90754457,MPG
+41591.58602,Average fuel consumption 10 sec,49.71216307,MPG
+41591.58602,Average speed,69.5791812,mph
+41591.58602,Calculated instant fuel consumption,99.06170192,MPG
+41591.58602,Calculated instant fuel rate,0.677438466,gal./h
+41591.58602,Distance travelled,0.226901819,miles
+41591.58602,Distance travelled (total),2.840336316,miles
+41591.58602,Engine Fuel Rate,0.52,g/sec
+41591.58602,Fuel used,0.004115701,gallon
+41591.58602,Fuel used (total),0.135852432,gallon
+41591.58602,Fuel used price,0.014322639,$
+41591.58602,Fuel used price (total),0.46,$
+41591.58602,Instant engine power (based on fuel consumption),10.03237599,hp
+41591.58602,Vehicle acceleration,0,m/s²
+41591.58602,Vehicle Fuel Rate,0.52,g/sec
+41591.58602,Vehicle speed,67.10808876,mph
+41591.67602,Average fuel consumption,55.30994094,MPG
+41591.67602,Average fuel consumption (total),20.91723029,MPG
+41591.67602,Average fuel consumption 10 sec,49.74887434,MPG
+41591.67602,Average speed,69.56051548,mph
+41591.67602,Calculated instant fuel consumption,99.06170192,MPG
+41591.67602,Calculated instant fuel rate,0.677438466,gal./h
+41591.67602,Distance travelled,0.228569684,miles
+41591.67602,Distance travelled (total),2.842004181,miles
+41591.67602,Engine Fuel Rate,0.52,g/sec
+41591.67602,Fuel used,0.004132531,gallon
+41591.67602,Fuel used (total),0.135869262,gallon
+41591.67602,Fuel used price,0.014381208,$
+41591.67602,Fuel used price (total),0.46,$
+41591.67602,Instant engine power (based on fuel consumption),10.03237599,hp
+41591.67602,Vehicle acceleration,0,m/s²
+41591.67602,Vehicle Fuel Rate,0.52,g/sec
+41591.67602,Vehicle speed,67.10808876,mph
+41591.76602,Average fuel consumption,55.48977066,MPG
+41591.76602,Average fuel consumption (total),20.92703855,MPG
+41591.76602,Average fuel consumption 10 sec,49.78433509,MPG
+41591.76602,Average speed,69.54186489,mph
+41591.76602,Calculated instant fuel consumption,99.06170192,MPG
+41591.76602,Calculated instant fuel rate,0.677438466,gal./h
+41591.76602,Distance travelled,0.230259246,miles
+41591.76602,Distance travelled (total),2.843693743,miles
+41591.76602,Engine Fuel Rate,0.52,g/sec
+41591.76602,Fuel used,0.004149587,gallon
+41591.76602,Fuel used (total),0.135886318,gallon
+41591.76602,Fuel used price,0.014440561,$
+41591.76602,Fuel used price (total),0.46,$
+41591.76602,Instant engine power (based on fuel consumption),10.03237599,hp
+41591.76602,Vehicle acceleration,0,m/s²
+41591.76602,Vehicle Fuel Rate,0.52,g/sec
+41591.76602,Vehicle speed,67.10808876,mph
+41591.85602,Average fuel consumption,55.66686954,MPG
+41591.85602,Average fuel consumption (total),20.93678035,MPG
+41591.85602,Average fuel consumption 10 sec,49.81839847,MPG
+41591.85602,Average speed,69.52360109,mph
+41591.85602,Calculated instant fuel consumption,99.06170192,MPG
+41591.85602,Calculated instant fuel rate,0.677438466,gal./h
+41591.85602,Distance travelled,0.231938029,miles
+41591.85602,Distance travelled (total),2.845372526,miles
+41591.85602,Engine Fuel Rate,0.52,g/sec
+41591.85602,Fuel used,0.004166543,gallon
+41591.85602,Fuel used (total),0.135903274,gallon
+41591.85602,Fuel used price,0.014499569,$
+41591.85602,Fuel used price (total),0.46,$
+41591.85602,Instant engine power (based on fuel consumption),10.03237599,hp
+41591.85602,Vehicle acceleration,0,m/s²
+41591.85602,Vehicle Fuel Rate,0.52,g/sec
+41591.85602,Vehicle speed,67.10808876,mph
+41591.94502,Average fuel consumption,55.84075143,MPG
+41591.94502,Average fuel consumption (total),20.9464102,MPG
+41591.94502,Average fuel consumption 10 sec,49.85131588,MPG
+41591.94502,Average speed,69.50583495,mph
+41591.94502,Calculated instant fuel consumption,99.06170192,MPG
+41591.94502,Calculated instant fuel rate,0.677438466,gal./h
+41591.94502,Distance travelled,0.233597463,miles
+41591.94502,Distance travelled (total),2.84703196,miles
+41591.94502,Engine Fuel Rate,0.52,g/sec
+41591.94502,Fuel used,0.004183286,gallon
+41591.94502,Fuel used (total),0.135920017,gallon
+41591.94502,Fuel used price,0.014557835,$
+41591.94502,Fuel used price (total),0.46,$
+41591.94502,Instant engine power (based on fuel consumption),10.03237599,hp
+41591.94502,Vehicle acceleration,0,m/s²
+41591.94502,Vehicle Fuel Rate,0.52,g/sec
+41591.94502,Vehicle speed,67.10808876,mph
+41592.03602,Average fuel consumption,56.01684939,MPG
+41592.03602,Average fuel consumption (total),20.95624411,MPG
+41592.03602,Average fuel consumption 10 sec,49.88345428,MPG
+41592.03602,Average speed,69.48795284,mph
+41592.03602,Calculated instant fuel consumption,99.06170192,MPG
+41592.03602,Calculated instant fuel rate,0.677438466,gal./h
+41592.03602,Distance travelled,0.23529269,miles
+41592.03602,Distance travelled (total),2.848727187,miles
+41592.03602,Engine Fuel Rate,0.52,g/sec
+41592.03602,Fuel used,0.004200398,gallon
+41592.03602,Fuel used (total),0.135937129,gallon
+41592.03602,Fuel used price,0.014617385,$
+41592.03602,Fuel used price (total),0.46,$
+41592.03602,Instant engine power (based on fuel consumption),10.03237599,hp
+41592.03602,Vehicle acceleration,0,m/s²
+41592.03602,Vehicle Fuel Rate,0.52,g/sec
+41592.03602,Vehicle speed,67.10808876,mph
+41592.11902,Average fuel consumption,56.17613758,MPG
+41592.11902,Average fuel consumption (total),20.96521155,MPG
+41592.11902,Average fuel consumption 10 sec,49.91466829,MPG
+41592.11902,Average speed,69.47185423,mph
+41592.11902,Calculated instant fuel consumption,99.06170192,MPG
+41592.11902,Calculated instant fuel rate,0.677438466,gal./h
+41592.11902,Distance travelled,0.236839136,miles
+41592.11902,Distance travelled (total),2.850273633,miles
+41592.11902,Engine Fuel Rate,0.52,g/sec
+41592.11902,Fuel used,0.004216016,gallon
+41592.11902,Fuel used (total),0.135952748,gallon
+41592.11902,Fuel used price,0.014671737,$
+41592.11902,Fuel used price (total),0.46,$
+41592.11902,Instant engine power (based on fuel consumption),10.03237599,hp
+41592.11902,Vehicle acceleration,0,m/s²
+41592.11902,Vehicle Fuel Rate,0.52,g/sec
+41592.11902,Vehicle speed,67.10808876,mph
+41592.16102,Average speed (GPS),50.77272859,mph
+41592.16102,Speed (GPS),67.32059771,mph
+41592.21602,Average fuel consumption,56.36000598,MPG
+41592.21602,Average fuel consumption (total),20.97563671,MPG
+41592.21602,Average fuel consumption 10 sec,49.94530832,MPG
+41592.21602,Average speed,69.45342064,mph
+41592.21602,Calculated instant fuel consumption,99.06170192,MPG
+41592.21602,Calculated instant fuel rate,0.677438466,gal./h
+41592.21602,Distance travelled,0.238637117,miles
+41592.21602,Distance travelled (total),2.852071613,miles
+41592.21602,Engine Fuel Rate,0.52,g/sec
+41592.21602,Fuel used,0.004234164,gallon
+41592.21602,Fuel used (total),0.135970895,gallon
+41592.21602,Fuel used price,0.01473489,$
+41592.21602,Fuel used price (total),0.46,$
+41592.21602,Instant engine power (based on fuel consumption),10.03237599,hp
+41592.21602,Vehicle acceleration,0,m/s²
+41592.21602,Vehicle Fuel Rate,0.52,g/sec
+41592.21602,Vehicle speed,67.10808876,mph
+41592.29902,Average fuel consumption,56.516749,MPG
+41592.29902,Average fuel consumption (total),20.98460104,MPG
+41592.29902,Average fuel consumption 10 sec,49.97543092,MPG
+41592.29902,Average speed,69.43780352,mph
+41592.29902,Calculated instant fuel consumption,99.06170192,MPG
+41592.29902,Calculated instant fuel rate,0.677438466,gal./h
+41592.29902,Distance travelled,0.2401839,miles
+41592.29902,Distance travelled (total),2.853618397,miles
+41592.29902,Engine Fuel Rate,0.52,g/sec
+41592.29902,Fuel used,0.004249789,gallon
+41592.29902,Fuel used (total),0.135986521,gallon
+41592.29902,Fuel used price,0.014789267,$
+41592.29902,Fuel used price (total),0.46,$
+41592.29902,Instant engine power (based on fuel consumption),10.03237599,hp
+41592.29902,Vehicle acceleration,0,m/s²
+41592.29902,Vehicle Fuel Rate,0.52,g/sec
+41592.29902,Vehicle speed,67.10808876,mph
+41593.13102,Altitude (GPS),615.485584,feet
+41594.21302,Average speed (GPS),50.9507657,mph
+41594.21302,Speed (GPS),67.43567565,mph
+41595.15002,Altitude (GPS),614.829416,feet
+41596.17102,Altitude (GPS),614.501332,feet
+41597.23802,Average speed (GPS),51.20112001,mph
+41597.23802,Speed (GPS),67.09044182,mph
+41598.16802,Altitude (GPS),614.173248,feet
+41598.16802,Average speed (GPS),51.27593436,mph
+41598.16802,Speed (GPS),66.97536387,mph
+41599.14102,Altitude (GPS),614.501332,feet
+41599.14102,Average speed (GPS),51.35299897,mph
+41599.14102,Speed (GPS),66.86028593,mph
+41600.19402,Average speed (GPS),51.43605117,mph
+41600.19402,Speed (GPS),66.97536387,mph
+41601.13302,Altitude (GPS),614.173248,feet
+41601.13302,Average speed (GPS),51.51047135,mph
+41601.13302,Speed (GPS),67.20551976,mph
+41602.19902,Altitude (GPS),614.501332,feet
+41602.19902,Average speed (GPS),51.59473198,mph
+41602.19902,Speed (GPS),67.32059771,mph
+41603.13502,Average speed (GPS),51.66905145,mph
+41603.13502,Speed (GPS),67.5507536,mph
+41604.23102,Altitude (GPS),614.173248,feet
+41604.23102,Average speed (GPS),51.75711564,mph
+41604.23102,Speed (GPS),67.89598743,mph
+41605.18002,Altitude (GPS),613.845164,feet
+41605.18002,Average speed (GPS),51.83468319,mph
+41605.18002,Speed (GPS),68.35629921,mph
+41606.16002,Average speed (GPS),51.91519951,mph
+41606.16002,Speed (GPS),68.5864551,mph
+41608.15502,Altitude (GPS),613.51708,feet
+41609.12002,Altitude (GPS),613.188996,feet
+41609.12002,Average speed (GPS),52.15529935,mph
+41609.12002,Speed (GPS),68.70153305,mph
+41610.20302,Altitude (GPS),612.532828,feet
+41610.20302,Average speed (GPS),52.24211884,mph
+41610.20302,Speed (GPS),68.81661099,mph
+41611.17002,Altitude (GPS),612.204744,feet
+41612.12402,Average speed (GPS),52.39582552,mph
+41612.12402,Speed (GPS),69.04676688,mph
+41613.17602,Altitude (GPS),611.548576,feet
+41613.17602,Average speed (GPS),52.48063127,mph
+41613.17602,Speed (GPS),69.39200072,mph
+41614.28202,Altitude (GPS),611.220492,feet
+41614.28202,Average speed (GPS),52.56996776,mph
+41614.28202,Speed (GPS),69.62215661,mph
+41615.22802,Average speed (GPS),52.64671104,mph
+41615.22802,Speed (GPS),69.8523125,mph
+41616.18902,Average speed (GPS),52.72298069,mph
+41616.18902,Speed (GPS),69.62215661,mph
+41617.27302,Average speed (GPS),52.8070368,mph
+41617.27302,Speed (GPS),69.39200072,mph
+41618.20902,Altitude (GPS),610.892408,feet
+41618.20902,Average speed (GPS),52.87788299,mph
+41618.20902,Speed (GPS),69.16184483,mph
+41619.16002,Altitude (GPS),610.564324,feet
+41619.16002,Average speed (GPS),52.94873548,mph
+41619.16002,Speed (GPS),69.04676688,mph
+41620.11902,Altitude (GPS),609.908156,feet
+41621.21202,Altitude (GPS),608.923904,feet
+41621.21202,Average speed (GPS),53.10063813,mph
+41621.21202,Speed (GPS),69.16184483,mph
+41622.17502,Altitude (GPS),608.59582,feet
+41623.11502,Altitude (GPS),608.923904,feet
+41623.11502,Average speed (GPS),53.23998589,mph
+41623.11502,Speed (GPS),69.27692277,mph
+41624.17902,Altitude (GPS),608.59582,feet
+41624.17902,Average speed (GPS),53.31738763,mph
+41624.17902,Speed (GPS),69.39200072,mph
+41625.14402,Average speed (GPS),53.38750134,mph
+41625.14402,Speed (GPS),69.50707866,mph
+41626.23602,Altitude (GPS),608.923904,feet
+41626.23602,Average speed (GPS),53.46660211,mph
+41626.23602,Speed (GPS),69.62215661,mph
+41627.20102,Altitude (GPS),608.59582,feet
+41627.20102,Average speed (GPS),53.53638109,mph
+41627.20102,Speed (GPS),69.73723455,mph
+41628.13702,Altitude (GPS),608.267736,feet
+41628.13702,Average speed (GPS),53.60396601,mph
+41628.13702,Speed (GPS),69.8523125,mph
+41629.19702,Altitude (GPS),607.611568,feet
+41629.19702,Average speed (GPS),53.68146341,mph
+41629.19702,Speed (GPS),70.19754633,mph
+41630.29602,Altitude (GPS),606.9554,feet
+41630.29602,Average speed (GPS),53.76220044,mph
+41630.29602,Speed (GPS),70.42770222,mph
+41631.26002,Altitude (GPS),606.627316,feet
+41631.26002,Average speed (GPS),53.83327177,mph
+41631.26002,Speed (GPS),70.65785811,mph
+41632.21802,Average speed (GPS),53.90382858,mph
+41632.21802,Speed (GPS),70.77293605,mph
+41633.15102,Altitude (GPS),606.299232,feet
+41634.21902,Altitude (GPS),605.643064,feet
+41635.18002,Altitude (GPS),605.971148,feet
+41635.18002,Average speed (GPS),54.11535065,mph
+41635.18002,Speed (GPS),70.54278016,mph
+41636.15102,Altitude (GPS),605.643064,feet
+41636.15102,Average speed (GPS),54.18308906,mph
+41636.15102,Speed (GPS),70.42770222,mph
+41637.23702,Altitude (GPS),605.971148,feet
+41637.23702,Average speed (GPS),54.25760408,mph
+41637.23702,Speed (GPS),70.31262427,mph
+41638.18702,Average speed (GPS),54.32177922,mph
+41638.18702,Speed (GPS),70.19754633,mph
+41639.11202,Altitude (GPS),606.627316,feet
+41640.20602,Altitude (GPS),607.283484,feet
+41640.20602,Average speed (GPS),54.45545377,mph
+41640.20602,Speed (GPS),70.08246838,mph
+41641.17802,Altitude (GPS),607.611568,feet
+41642.15702,Altitude (GPS),608.267736,feet
+41642.15702,Average speed (GPS),54.58344431,mph
+41642.15702,Speed (GPS),70.19754633,mph
+41643.18902,Altitude (GPS),607.939652,feet
+41644.26402,Average speed (GPS),54.71837422,mph
+41644.26402,Speed (GPS),70.08246838,mph
+41646.19102,Altitude (GPS),608.267736,feet
+41647.15002,Average speed (GPS),54.89802775,mph
+41647.15002,Speed (GPS),69.96739044,mph
+41648.20802,Average speed (GPS),54.9633062,mph
+41648.20802,Speed (GPS),70.08246838,mph
+41649.15202,Altitude (GPS),608.59582,feet
+41649.15202,Average speed (GPS),55.02244231,mph
+41649.15202,Speed (GPS),70.42770222,mph
+41650.25202,Average speed (GPS),55.09228409,mph
+41650.25202,Speed (GPS),70.77293605,mph
+41651.21402,Altitude (GPS),608.923904,feet
+41652.17202,Altitude (GPS),609.251988,feet
+41652.17202,Average speed (GPS),55.21364279,mph
+41652.17202,Speed (GPS),70.888014,mph
+41653.23202,Altitude (GPS),609.908156,feet
+41653.23202,Average speed (GPS),55.28077569,mph
+41653.23202,Speed (GPS),71.11816989,mph
+41654.16602,Altitude (GPS),610.564324,feet
+41654.16602,Average speed (GPS),55.33904558,mph
+41654.16602,Speed (GPS),71.00309194,mph
+41655.14402,Altitude (GPS),611.220492,feet
+41655.14402,Average speed (GPS),55.39874764,mph
+41655.14402,Speed (GPS),70.77293605,mph
+41656.24002,Altitude (GPS),611.548576,feet
+41656.24002,Average speed (GPS),55.46454703,mph
+41656.24002,Speed (GPS),70.65785811,mph
+41657.18202,Altitude (GPS),612.204744,feet
+41657.18202,Average speed (GPS),55.51983695,mph
+41657.18202,Speed (GPS),70.42770222,mph
+41658.13502,Altitude (GPS),612.532828,feet
+41659.18002,Altitude (GPS),613.188996,feet
+41660.16802,Altitude (GPS),613.51708,feet
+41660.16802,Average speed (GPS),55.69106118,mph
+41660.16802,Speed (GPS),70.31262427,mph
+41661.24902,Altitude (GPS),614.173248,feet
+41662.20502,Altitude (GPS),614.829416,feet
+41662.20502,Average speed (GPS),55.80471188,mph
+41662.20502,Speed (GPS),70.19754633,mph
+41663.14802,Altitude (GPS),615.485584,feet
+41663.14802,Average speed (GPS),55.85588583,mph
+41663.14802,Speed (GPS),69.96739044,mph
+41664.20202,Altitude (GPS),616.141752,feet
+41664.20202,Average speed (GPS),55.91313972,mph
+41664.20202,Speed (GPS),70.08246838,mph
+41665.17502,Altitude (GPS),616.469836,feet
+41665.17502,Average speed (GPS),55.96600735,mph
+41665.17502,Speed (GPS),70.19754633,mph
+41666.13402,Altitude (GPS),616.79792,feet
+41666.13402,Average speed (GPS),56.01854352,mph
+41666.13402,Speed (GPS),70.42770222,mph
+41667.22602,Altitude (GPS),617.782172,feet
+41668.17802,Altitude (GPS),618.43834,feet
+41669.22002,Altitude (GPS),620.07876,feet
+41669.22002,Average speed (GPS),56.18242088,mph
+41669.22002,Speed (GPS),70.19754633,mph
+41670.18902,Altitude (GPS),621.391096,feet
+41670.18902,Average speed (GPS),56.23141611,mph
+41670.18902,Speed (GPS),69.73723455,mph
+41671.15102,Altitude (GPS),621.71918,feet
+41671.15102,Average speed (GPS),56.27848968,mph
+41671.15102,Speed (GPS),69.39200072,mph
+41672.11802,Average speed (GPS),56.32423863,mph
+41672.11802,Speed (GPS),69.04676688,mph
+41673.18902,Altitude (GPS),621.391096,feet
+41673.18902,Average speed (GPS),56.37404025,mph
+41673.18902,Speed (GPS),68.93168894,mph
+41674.24002,Altitude (GPS),621.063012,feet
+41675.20902,Average speed (GPS),56.46867496,mph
+41675.20902,Speed (GPS),69.16184483,mph
+41676.17402,Altitude (GPS),620.734928,feet
+41676.17402,Average speed (GPS),56.51418344,mph
+41676.17402,Speed (GPS),69.39200072,mph
+41677.26702,Altitude (GPS),620.406844,feet
+41677.26702,Average speed (GPS),56.56627293,mph
+41677.26702,Speed (GPS),69.62215661,mph
+41678.21502,Altitude (GPS),619.750676,feet
+41678.21502,Average speed (GPS),56.61149834,mph
+41678.21502,Speed (GPS),69.73723455,mph
+41679.14102,Altitude (GPS),618.766424,feet
+41679.14102,Average speed (GPS),56.65578556,mph
+41679.14102,Speed (GPS),69.8523125,mph
+41680.22802,Altitude (GPS),618.110256,feet
+41680.22802,Average speed (GPS),56.70691841,mph
+41680.22802,Speed (GPS),69.73723455,mph
+41681.18602,Altitude (GPS),616.141752,feet
+41681.18602,Average speed (GPS),56.75405427,mph
+41681.18602,Speed (GPS),70.42770222,mph
+41682.16002,Altitude (GPS),615.485584,feet
+41682.16002,Average speed (GPS),56.80200758,mph
+41682.16002,Speed (GPS),70.54278016,mph
+41683.23202,Altitude (GPS),614.173248,feet
+41683.23202,Average speed (GPS),56.85354574,mph
+41683.23202,Speed (GPS),70.31262427,mph
+41684.15302,Altitude (GPS),613.188996,feet
+41684.15302,Average speed (GPS),56.89639456,mph
+41684.15302,Speed (GPS),69.96739044,mph
+41685.24902,Altitude (GPS),611.548576,feet
+41685.24902,Average speed (GPS),56.94568674,mph
+41685.24902,Speed (GPS),69.62215661,mph
+41686.20402,Altitude (GPS),610.564324,feet
+41686.20402,Average speed (GPS),56.98750999,mph
+41686.20402,Speed (GPS),69.39200072,mph
+41692.85802,Altitude (GPS),609.580072,feet
+41692.85802,Average speed (GPS),57.24513442,mph
+41692.85802,Speed (GPS),68.24122127,mph
+41692.98502,Altitude (GPS),611.220492,feet
+41692.98502,Average speed (GPS),57.24889694,mph
+41692.98502,Speed (GPS),65.82458443,mph
+41693.11302,Altitude (GPS),611.87666,feet
+41693.11302,Average speed (GPS),57.25244923,mph
+41693.11302,Speed (GPS),65.36427265,mph
+41694.17402,Altitude (GPS),612.860912,feet
+41694.17402,Average speed (GPS),57.28150833,mph
+41694.17402,Speed (GPS),65.2491947,mph
+41695.22402,Altitude (GPS),613.51708,feet
+41695.22402,Average speed (GPS),57.309651,mph
+41695.22402,Speed (GPS),65.13411676,mph
+41696.17702,Altitude (GPS),613.188996,feet
+41698.19502,Average speed (GPS),57.38704111,mph
+41698.19502,Speed (GPS),65.01903881,mph
+41699.15002,Average speed (GPS),57.41195452,mph
+41699.15002,Speed (GPS),65.13411676,mph
+41700.22302,Altitude (GPS),612.860912,feet
+41700.22302,Average speed (GPS),57.44182922,mph
+41700.22302,Speed (GPS),65.70950648,mph
+41701.17802,Altitude (GPS),612.532828,feet
+41701.17802,Average speed (GPS),57.4689804,mph
+41701.17802,Speed (GPS),65.93966237,mph
+41702.13802,Average speed (GPS),57.4964512,mph
+41702.13802,Speed (GPS),66.05474032,mph
+41703.21602,Altitude (GPS),612.204744,feet
+41703.21602,Average speed (GPS),57.52669598,mph
+41703.21602,Speed (GPS),65.93966237,mph
+41704.16002,Altitude (GPS),612.532828,feet
+41704.16002,Average speed (GPS),57.55190573,mph
+41704.16002,Speed (GPS),65.59442854,mph
+41705.24502,Average speed (GPS),57.5798896,mph
+41705.24502,Speed (GPS),65.36427265,mph
+41706.19002,Average speed (GPS),57.60587877,mph
+41706.19002,Speed (GPS),65.93966237,mph
+41707.14202,Altitude (GPS),612.204744,feet
+41707.14202,Average speed (GPS),57.63367558,mph
+41707.14202,Speed (GPS),66.5150521,mph
+41708.23302,Altitude (GPS),611.87666,feet
+41708.23302,Average speed (GPS),57.66657085,mph
+41708.23302,Speed (GPS),66.86028593,mph
+41709.17802,Altitude (GPS),611.548576,feet
+41709.17802,Average speed (GPS),57.69557637,mph
+41709.17802,Speed (GPS),67.09044182,mph
+41710.13902,Average speed (GPS),57.7256264,mph
+41710.13902,Speed (GPS),67.32059771,mph
+41711.20802,Altitude (GPS),611.220492,feet
+41712.14902,Altitude (GPS),610.564324,feet
+41713.23702,Altitude (GPS),610.23624,feet
+41715.15602,Altitude (GPS),610.564324,feet
+41716.10502,Altitude (GPS),610.892408,feet
+41716.10502,Average speed (GPS),57.90579123,mph
+41716.10502,Speed (GPS),67.20551976,mph
+41718.24802,Altitude (GPS),611.220492,feet
+41718.24802,Average speed (GPS),57.96807891,mph
+41718.24802,Speed (GPS),67.09044182,mph
+41719.19202,Altitude (GPS),611.548576,feet
+41720.15302,Altitude (GPS),611.87666,feet
+41721.12002,Altitude (GPS),611.548576,feet
+41721.12002,Average speed (GPS),58.04919335,mph
+41721.12002,Speed (GPS),66.97536387,mph
+41725.17302,Altitude (GPS),611.87666,feet
+41726.13302,Altitude (GPS),612.204744,feet
+41726.13302,Average speed (GPS),58.18909847,mph
+41726.13302,Speed (GPS),67.09044182,mph
+41727.22502,Altitude (GPS),612.532828,feet
+41728.29502,Average speed (GPS),58.24889116,mph
+41728.29502,Speed (GPS),67.20551976,mph
+41729.22202,Altitude (GPS),612.860912,feet
+41730.16202,Altitude (GPS),613.188996,feet
+41732.24702,Altitude (GPS),612.860912,feet
+41733.19902,Average speed (GPS),58.37987166,mph
+41733.19902,Speed (GPS),67.09044182,mph
+41735.20502,Altitude (GPS),613.188996,feet
+41736.29102,Altitude (GPS),612.860912,feet
+41736.29102,Average speed (GPS),58.46263357,mph
+41736.29102,Speed (GPS),67.32059771,mph
+41737.12102,Average speed (GPS),58.48486379,mph
+41737.12102,Speed (GPS),67.43567565,mph
+41738.18902,Altitude (GPS),613.188996,feet
+41738.18902,Average speed (GPS),58.51367153,mph
+41738.18902,Speed (GPS),67.5507536,mph
+41739.16302,Altitude (GPS),613.51708,feet
+41739.16302,Average speed (GPS),58.54014378,mph
+41739.16302,Speed (GPS),67.66583154,mph
+41740.24402,Altitude (GPS),613.845164,feet
+41740.24402,Average speed (GPS),58.56967353,mph
+41740.24402,Speed (GPS),67.78090949,mph
+41741.17802,Altitude (GPS),614.173248,feet
+41741.17802,Average speed (GPS),58.59537961,mph
+41741.17802,Speed (GPS),67.89598743,mph
+41742.13002,Altitude (GPS),614.501332,feet
+41742.13002,Average speed (GPS),58.62208522,mph
+41742.13002,Speed (GPS),68.12614332,mph
+41743.20502,Altitude (GPS),614.829416,feet
+41743.20502,Average speed (GPS),58.65349271,mph
+41743.20502,Speed (GPS),68.5864551,mph
+41744.13102,Altitude (GPS),615.1575,feet
+41744.13102,Average speed (GPS),58.68101505,mph
+41744.13102,Speed (GPS),68.81661099,mph
+41745.14302,Altitude (GPS),615.485584,feet
+41745.14302,Average speed (GPS),58.71159568,mph
+41745.14302,Speed (GPS),69.04676688,mph
+41749.52502,Altitude (GPS),615.813668,feet
+41749.52502,Average speed (GPS),58.83181487,mph
+41749.52502,Speed (GPS),68.24122127,mph
+41750.20102,Altitude (GPS),616.141752,feet
+41750.20102,Average speed (GPS),58.84944252,mph
+41750.20102,Speed (GPS),67.89598743,mph
+41751.13002,Altitude (GPS),616.469836,feet
+41751.13002,Average speed (GPS),58.87321281,mph
+41751.13002,Speed (GPS),67.78090949,mph
+41753.14502,Average speed (GPS),58.92501101,mph
+41753.14502,Speed (GPS),67.89598743,mph
+41754.21202,Altitude (GPS),616.141752,feet
+41754.21202,Average speed (GPS),58.95257012,mph
+41754.21202,Speed (GPS),68.01106538,mph
+41755.13102,Altitude (GPS),615.485584,feet
+41755.13102,Average speed (GPS),58.97675738,mph
+41755.13102,Speed (GPS),68.24122127,mph
+41756.20202,Altitude (GPS),615.1575,feet
+41757.13802,Average speed (GPS),59.03044212,mph
+41757.13802,Speed (GPS),68.47137716,mph
+41758.22102,Altitude (GPS),614.501332,feet
+41758.22102,Average speed (GPS),59.0594959,mph
+41758.22102,Speed (GPS),68.5864551,mph
+41758.98902,OBD Module Voltage,12.5,V
+41759.17002,OBD Module Voltage,12.5,V
+41759.35002,OBD Module Voltage,12.5,V
+41759.56102,OBD Module Voltage,12.5,V
+41759.74002,OBD Module Voltage,12.5,V
+41759.91902,OBD Module Voltage,12.5,V
+41760.10202,OBD Module Voltage,12.5,V
+41760.16402,Altitude (GPS),614.173248,feet
+41760.16402,Average speed (GPS),59.11246383,mph
+41760.16402,Speed (GPS),68.81661099,mph
+41760.28002,OBD Module Voltage,12.5,V
+41760.46102,OBD Module Voltage,12.5,V
+41760.64102,OBD Module Voltage,12.5,V
+41760.82002,OBD Module Voltage,12.5,V
+41761.02102,OBD Module Voltage,12.5,V
+41761.21002,OBD Module Voltage,12.5,V
+41761.22502,Average speed (GPS),59.14181641,mph
+41761.22502,Speed (GPS),69.04676688,mph
+41761.39002,OBD Module Voltage,12.5,V
+41761.57002,OBD Module Voltage,12.5,V
+41761.75002,OBD Module Voltage,12.5,V
+41761.93002,OBD Module Voltage,12.5,V
+41762.11102,OBD Module Voltage,12.5,V
+41762.16002,Altitude (GPS),614.501332,feet
+41762.16002,Average speed (GPS),59.16992831,mph
+41762.16002,Speed (GPS),69.96739044,mph
+41762.28902,OBD Module Voltage,12.5,V
+41762.47002,OBD Module Voltage,12.5,V
+41762.65002,OBD Module Voltage,12.5,V
+41762.83002,OBD Module Voltage,12.5,V
+41763.01002,OBD Module Voltage,12.5,V
+41763.23002,Altitude (GPS),614.829416,feet
+41763.23002,Average speed (GPS),59.20636705,mph
+41763.23002,Speed (GPS),71.46340372,mph
+41764.16302,Altitude (GPS),615.1575,feet
+41764.16302,Average speed (GPS),59.24004801,mph
+41764.16302,Speed (GPS),72.26894934,mph
+41765.20002,Altitude (GPS),615.813668,feet
+41765.20002,Average speed (GPS),59.27760944,mph
+41765.20002,Speed (GPS),72.38402728,mph
+41766.12402,Altitude (GPS),616.141752,feet
+41767.21302,Average speed (GPS),59.3505076,mph
+41767.21302,Speed (GPS),72.49910523,mph
+41768.15702,Average speed (GPS),59.38414678,mph
+41768.15702,Speed (GPS),72.38402728,mph
+41769.22102,Altitude (GPS),616.79792,feet
+41770.39702,Altitude (GPS),617.126004,feet
+41771.20302,Altitude (GPS),617.782172,feet
+41772.18002,Altitude (GPS),618.110256,feet
+41772.18002,Average speed (GPS),59.52425119,mph
+41772.18002,Speed (GPS),72.26894934,mph
+41773.23002,Altitude (GPS),618.43834,feet
+41773.23002,Average speed (GPS),59.55963706,mph
+41773.23002,Speed (GPS),72.03879345,mph
+41774.17302,Altitude (GPS),619.094508,feet
+41775.14602,Altitude (GPS),619.750676,feet
+41776.23502,Altitude (GPS),620.406844,feet
+41776.23502,Average speed (GPS),59.66176627,mph
+41776.23502,Speed (GPS),72.26894934,mph
+41777.19802,Altitude (GPS),620.734928,feet
+41777.19802,Average speed (GPS),59.69444205,mph
+41777.19802,Speed (GPS),72.38402728,mph
+41778.14302,Altitude (GPS),621.391096,feet
+41778.14302,Average speed (GPS),59.72692004,mph
+41778.14302,Speed (GPS),72.61418317,mph
+41779.21302,Altitude (GPS),622.047264,feet
+41779.21302,Average speed (GPS),59.76380668,mph
+41779.21302,Speed (GPS),72.72926112,mph
+41780.15902,Altitude (GPS),622.703432,feet
+41780.15902,Average speed (GPS),59.79597647,mph
+41780.15902,Speed (GPS),72.61418317,mph
+41781.24402,Altitude (GPS),623.3596,feet
+41782.20802,Altitude (GPS),623.687684,feet
+41782.20802,Average speed (GPS),59.86382954,mph
+41782.20802,Speed (GPS),72.38402728,mph
+41783.18202,Altitude (GPS),624.015768,feet
+41783.18202,Average speed (GPS),59.8952716,mph
+41783.18202,Speed (GPS),72.15387139,mph
+41784.24902,Altitude (GPS),624.671936,feet
+41784.24902,Average speed (GPS),59.92855226,mph
+41784.24902,Speed (GPS),71.80863756,mph
+41785.20302,Altitude (GPS),625.328104,feet
+41785.20302,Average speed (GPS),59.95727193,mph
+41785.20302,Speed (GPS),71.46340372,mph
+41786.14702,Altitude (GPS),625.656188,feet
+41786.14702,Average speed (GPS),59.98526873,mph
+41786.14702,Speed (GPS),71.34832578,mph
+41787.23702,Altitude (GPS),625.984272,feet
+41787.23702,Average speed (GPS),60.017119,mph
+41787.23702,Speed (GPS),71.23324783,mph
+41788.19702,Altitude (GPS),626.312356,feet
+41788.19702,Average speed (GPS),60.04473813,mph
+41788.19702,Speed (GPS),71.11816989,mph
+41789.15202,Altitude (GPS),626.968524,feet
+41789.15202,Average speed (GPS),60.07178352,mph
+41789.15202,Speed (GPS),71.00309194,mph
+41790.22502,Altitude (GPS),627.296608,feet
+41791.16602,Altitude (GPS),627.624692,feet
+41791.16602,Average speed (GPS),60.12777871,mph
+41791.16602,Speed (GPS),70.888014,mph
+41792.12602,Altitude (GPS),627.952776,feet
+41792.12602,Average speed (GPS),60.15399827,mph
+41792.12602,Speed (GPS),70.77293605,mph
+41793.21702,Altitude (GPS),628.608944,feet
+41793.21702,Average speed (GPS),60.18330619,mph
+41793.21702,Speed (GPS),70.65785811,mph
+41794.16102,Altitude (GPS),628.937028,feet
+41794.16102,Average speed (GPS),60.20797487,mph
+41794.16102,Speed (GPS),70.42770222,mph
+41795.12602,Average speed (GPS),60.23278621,mph
+41795.12602,Speed (GPS),70.31262427,mph
+41796.18402,Average speed (GPS),60.25922295,mph
+41796.18402,Speed (GPS),70.08246838,mph
+41797.15502,Altitude (GPS),629.265112,feet
+41797.15502,Average speed (GPS),60.28282156,mph
+41797.15502,Speed (GPS),69.8523125,mph
+41798.10802,Altitude (GPS),629.92128,feet
+41798.10802,Average speed (GPS),60.3055683,mph
+41798.10802,Speed (GPS),69.73723455,mph
+41799.19302,Average speed (GPS),60.3307166,mph
+41799.19302,Speed (GPS),69.50707866,mph
+41800.14602,Altitude (GPS),631.233616,feet
+41800.14602,Average speed (GPS),60.35214302,mph
+41800.14602,Speed (GPS),69.27692277,mph
+41801.21902,Altitude (GPS),631.5617,feet
+41801.21902,Average speed (GPS),60.37459394,mph
+41801.21902,Speed (GPS),68.70153305,mph
+41802.17202,Altitude (GPS),632.217868,feet
+41802.17202,Average speed (GPS),60.39389083,mph
+41802.17202,Speed (GPS),68.47137716,mph
+41803.23402,Altitude (GPS),632.545952,feet
+41803.23402,Average speed (GPS),60.41467688,mph
+41803.23402,Speed (GPS),68.24122127,mph
+41805.16702,Altitude (GPS),632.874036,feet
+41805.16702,Average speed (GPS),60.45276757,mph
+41805.16702,Speed (GPS),68.35629921,mph
+41806.24602,Altitude (GPS),633.20212,feet
+41806.24602,Average speed (GPS),60.47449738,mph
+41806.24602,Speed (GPS),68.5864551,mph
+41807.18802,Average speed (GPS),60.4938944,mph
+41807.18802,Speed (GPS),68.81661099,mph
+41809.22002,Altitude (GPS),632.874036,feet
+41810.18702,Altitude (GPS),632.545952,feet
+41810.18702,Average speed (GPS),60.5559249,mph
+41810.18702,Speed (GPS),68.93168894,mph
+41811.14502,Average speed (GPS),60.57580741,mph
+41811.14502,Speed (GPS),69.04676688,mph
+41812.21202,Altitude (GPS),632.217868,feet
+41813.15102,Altitude (GPS),631.889784,feet
+41813.15102,Average speed (GPS),60.61658607,mph
+41813.15102,Speed (GPS),68.93168894,mph
+41814.11602,Altitude (GPS),631.5617,feet
+41814.11602,Average speed (GPS),60.63634934,mph
+41814.11602,Speed (GPS),69.04676688,mph
+41815.21302,Altitude (GPS),631.233616,feet
+41815.21302,Average speed (GPS),60.65960183,mph
+41815.21302,Speed (GPS),69.39200072,mph
+41816.16302,Average speed (GPS),60.68043719,mph
+41816.16302,Speed (GPS),69.73723455,mph
+41817.23902,Altitude (GPS),630.577448,feet
+41817.23902,Average speed (GPS),60.70479785,mph
+41817.23902,Speed (GPS),70.08246838,mph
+41818.17602,Altitude (GPS),629.92128,feet
+41818.17602,Average speed (GPS),60.72645721,mph
+41818.17602,Speed (GPS),70.31262427,mph
+41820.11702,Average speed (GPS),60.77044477,mph
+41820.11702,Speed (GPS),70.19754633,mph
+41821.19002,Altitude (GPS),629.593196,feet
+41821.19002,Average speed (GPS),60.79428305,mph
+41821.19002,Speed (GPS),70.08246838,mph
+41822.26502,Altitude (GPS),629.92128,feet
+41822.26502,Average speed (GPS),60.81864843,mph
+41822.26502,Speed (GPS),70.31262427,mph
+41823.20202,Altitude (GPS),630.249364,feet
+41823.20202,Average speed (GPS),60.84155513,mph
+41823.20202,Speed (GPS),71.11816989,mph
+41824.15602,Altitude (GPS),630.577448,feet
+41824.15602,Average speed (GPS),60.86817124,mph
+41824.15602,Speed (GPS),72.61418317,mph
+41825.26002,Altitude (GPS),630.905532,feet
+41825.26002,Average speed (GPS),60.90273252,mph
+41825.26002,Speed (GPS),74.11019645,mph
+41826.21402,Altitude (GPS),631.5617,feet
+41826.21402,Average speed (GPS),60.93427408,mph
+41826.21402,Speed (GPS),74.91574207,mph
+41827.17402,Average speed (GPS),60.9668787,mph
+41827.17402,Speed (GPS),75.37605385,mph
+41828.22902,Altitude (GPS),631.889784,feet
+41829.17902,Altitude (GPS),632.217868,feet
+41829.17902,Average speed (GPS),61.03509491,mph
+41829.17902,Speed (GPS),75.49113179,mph
+41830.14602,Average speed (GPS),61.06802432,mph
+41830.14602,Speed (GPS),75.60620974,mph
+41831.11702,Altitude (GPS),631.889784,feet
+41832.18802,Altitude (GPS),631.5617,feet
+41832.18802,Average speed (GPS),61.13815924,mph
+41832.18802,Speed (GPS),75.83636562,mph
+41833.12902,Average speed (GPS),61.17150204,mph
+41833.12902,Speed (GPS),76.41175535,mph
+41834.20802,Altitude (GPS),631.233616,feet
+41834.20802,Average speed (GPS),61.21101385,mph
+41834.20802,Speed (GPS),76.98714507,mph
+41835.17102,Altitude (GPS),630.577448,feet
+41835.17102,Average speed (GPS),61.24739057,mph
+41835.17102,Speed (GPS),77.5625348,mph
+41836.13502,Altitude (GPS),630.249364,feet
+41836.13502,Average speed (GPS),61.28462748,mph
+41836.13502,Speed (GPS),78.02284658,mph
+41837.21002,Average speed (GPS),61.32629445,mph
+41837.21002,Speed (GPS),78.13792452,mph
+41838.15802,Altitude (GPS),630.577448,feet
+41838.15802,Average speed (GPS),61.36311327,mph
+41838.15802,Speed (GPS),78.25300247,mph
+41840.19502,Altitude (GPS),631.233616,feet
+41840.19502,Average speed (GPS),61.44273914,mph
+41840.19502,Speed (GPS),78.48315836,mph
+41841.15702,Average speed (GPS),61.48082203,mph
+41841.15702,Speed (GPS),78.82839219,mph
+41842.23402,Altitude (GPS),632.545952,feet
+41842.23402,Average speed (GPS),61.52386123,mph
+41842.23402,Speed (GPS),79.05854808,mph
+41843.17902,Altitude (GPS),632.874036,feet
+41844.12702,Altitude (GPS),633.20212,feet
+41845.22002,Altitude (GPS),633.858288,feet
+41845.22002,Average speed (GPS),61.64279405,mph
+41845.22002,Speed (GPS),79.17362602,mph
+41846.18202,Altitude (GPS),634.186372,feet
+41846.18202,Average speed (GPS),61.68128663,mph
+41846.18202,Speed (GPS),79.40378191,mph
+41847.13302,Altitude (GPS),634.514456,feet
+41847.13302,Average speed (GPS),61.71965964,mph
+41847.13302,Speed (GPS),79.6339378,mph
+41848.19802,Average speed (GPS),61.76270054,mph
+41848.19802,Speed (GPS),79.74901575,mph
+41849.13302,Average speed (GPS),61.80011372,mph
+41849.13302,Speed (GPS),79.6339378,mph
+41850.65202,Altitude (GPS),634.186372,feet
+41850.65202,Average speed (GPS),61.86013029,mph
+41850.65202,Speed (GPS),79.51885986,mph
+41851.19902,Average speed (GPS),61.88136451,mph
+41851.19902,Speed (GPS),79.28870397,mph
+41852.15302,Altitude (GPS),634.514456,feet
+41852.15302,Average speed (GPS),61.91803019,mph
+41852.15302,Speed (GPS),79.17362602,mph
+41853.22202,Altitude (GPS),634.84254,feet
+41853.22202,Average speed (GPS),61.95862573,mph
+41853.22202,Speed (GPS),79.05854808,mph
+41854.16202,Altitude (GPS),635.498708,feet
+41854.16202,Average speed (GPS),61.99492816,mph
+41854.16202,Speed (GPS),79.40378191,mph
+41855.12102,Altitude (GPS),635.826792,feet
+41855.12102,Average speed (GPS),62.03301614,mph
+41855.12102,Speed (GPS),79.97917164,mph
+41856.24002,Altitude (GPS),636.154876,feet
+41856.24002,Average speed (GPS),62.07864814,mph
+41856.24002,Speed (GPS),80.55456136,mph
+41857.18202,Altitude (GPS),635.826792,feet
+41857.18202,Average speed (GPS),62.11834939,mph
+41857.18202,Speed (GPS),81.24502903,mph
+41858.11902,Average speed (GPS),62.15883,mph
+41858.11902,Speed (GPS),81.82041875,mph
+41859.18702,Altitude (GPS),634.84254,feet
+41859.18702,Average speed (GPS),62.20559214,mph
+41859.18702,Speed (GPS),82.16565259,mph
+41860.15002,Altitude (GPS),634.514456,feet
+41860.15002,Average speed (GPS),62.24731473,mph
+41860.15002,Speed (GPS),82.05057464,mph
+41861.11802,Altitude (GPS),634.186372,feet
+41861.11802,Average speed (GPS),62.28859274,mph
+41861.11802,Speed (GPS),81.82041875,mph
+41862.20302,Average speed (GPS),62.33439738,mph
+41862.20302,Speed (GPS),81.70534081,mph
+41863.16702,Altitude (GPS),633.858288,feet
+41863.16702,Average speed (GPS),62.3744138,mph
+41863.16702,Speed (GPS),81.47518492,mph
+41864.20802,Altitude (GPS),633.20212,feet
+41864.20802,Average speed (GPS),62.41692964,mph
+41864.20802,Speed (GPS),81.24502903,mph
+41865.16202,Average speed (GPS),62.45528567,mph
+41865.16202,Speed (GPS),81.01487314,mph
+41866.15402,Average speed (GPS),62.49469763,mph
+41866.15402,Speed (GPS),80.8997952,mph
+41867.22502,Altitude (GPS),632.874036,feet
+41867.22502,Average speed (GPS),62.53576199,mph
+41867.22502,Speed (GPS),80.32440547,mph
+41868.18602,Altitude (GPS),633.530204,feet
+41868.18602,Average speed (GPS),62.57150857,mph
+41868.18602,Speed (GPS),79.86409369,mph
+41869.10402,Altitude (GPS),633.20212,feet
+41869.10402,Average speed (GPS),62.60480682,mph
+41869.10402,Speed (GPS),79.51885986,mph
+41870.18802,Altitude (GPS),632.545952,feet
+41870.18802,Average speed (GPS),62.64452392,mph
+41870.18802,Speed (GPS),79.74901575,mph
+41871.16302,Altitude (GPS),631.889784,feet
+41871.16302,Average speed (GPS),62.68081412,mph
+41871.16302,Speed (GPS),80.09424958,mph
+41872.10902,Average speed (GPS),62.71632801,mph
+41872.10902,Speed (GPS),80.32440547,mph
+41873.21002,Altitude (GPS),632.217868,feet
+41873.21002,Average speed (GPS),62.7583158,mph
+41873.21002,Speed (GPS),80.66963931,mph
+41874.13802,Altitude (GPS),632.545952,feet
+41874.13802,Average speed (GPS),62.79396019,mph
+41874.13802,Speed (GPS),80.8997952,mph
+41875.21302,Altitude (GPS),631.889784,feet
+41875.21302,Average speed (GPS),62.83562489,mph
+41875.21302,Speed (GPS),81.12995109,mph
+41876.18102,Average speed (GPS),62.8734956,mph
+41876.18102,Speed (GPS),81.36010698,mph
+41876.18202,Altitude (GPS),631.233616,feet
+41877.27402,Average speed (GPS),62.9165198,mph
+41877.27402,Speed (GPS),81.59026286,mph
+41878.23802,Altitude (GPS),631.5617,feet
+41878.23802,Average speed (GPS),62.95457255,mph
+41878.23802,Speed (GPS),81.70534081,mph
+41879.29102,Altitude (GPS),631.889784,feet
+41879.29102,Average speed (GPS),62.99572922,mph
+41879.29102,Speed (GPS),81.59026286,mph
+41880.23402,Altitude (GPS),632.545952,feet
+41880.23402,Average speed (GPS),63.03217166,mph
+41880.23402,Speed (GPS),81.47518492,mph
+41881.78202,Altitude (GPS),632.874036,feet
+41881.78202,Average speed (GPS),63.09059517,mph
+41881.78202,Speed (GPS),81.12995109,mph
+41883.52502,Altitude (GPS),633.20212,feet
+41883.52502,Average speed (GPS),63.15381662,mph
+41883.52502,Speed (GPS),80.55456136,mph
+41884.97402,Altitude (GPS),634.514456,feet
+41884.97402,Average speed (GPS),63.20465835,mph
+41884.97402,Speed (GPS),80.09424958,mph
+41886.37402,Altitude (GPS),635.498708,feet
+41886.37402,Average speed (GPS),63.25249978,mph
+41886.37402,Speed (GPS),79.74901575,mph
+41887.20902,Altitude (GPS),636.48296,feet
+41887.20902,Average speed (GPS),63.28032437,mph
+41887.20902,Speed (GPS),79.40378191,mph
+41887.72802,Altitude (GPS),637.139128,feet
+41887.72802,Average speed (GPS),63.29717807,mph
+41887.72802,Speed (GPS),79.05854808,mph
+41888.41902,Altitude (GPS),637.795296,feet
+41888.41902,Average speed (GPS),63.31924571,mph
+41888.41902,Speed (GPS),78.82839219,mph
+41889.46702,Altitude (GPS),638.451464,feet
+41889.46702,Average speed (GPS),63.35235889,mph
+41889.46702,Speed (GPS),78.71331424,mph
+41890.16102,Altitude (GPS),639.107632,feet
+41890.16102,Average speed (GPS),63.37388128,mph
+41890.16102,Speed (GPS),78.48315836,mph
+41891.25302,Altitude (GPS),639.7638,feet
+41891.25302,Average speed (GPS),63.40737558,mph
+41891.25302,Speed (GPS),78.36808041,mph
+41892.23302,Altitude (GPS),640.091884,feet
+41892.23302,Average speed (GPS),63.43706635,mph
+41892.23302,Speed (GPS),78.25300247,mph
+41894.23102,Altitude (GPS),640.419968,feet
+41894.23102,Average speed (GPS),63.49814198,mph
+41894.23102,Speed (GPS),78.48315836,mph
+41895.15702,Altitude (GPS),641.076136,feet
+41895.15702,Average speed (GPS),63.52672755,mph
+41895.15702,Speed (GPS),78.71331424,mph
+41896.14202,Altitude (GPS),641.40422,feet
+41896.14202,Average speed (GPS),63.55725292,mph
+41896.14202,Speed (GPS),78.82839219,mph
+41897.26802,Altitude (GPS),642.388472,feet
+41897.26802,Average speed (GPS),63.59225536,mph
+41897.26802,Speed (GPS),78.94347013,mph
+41898.19102,Altitude (GPS),642.716556,feet
+41898.19102,Average speed (GPS),63.62100958,mph
+41898.19102,Speed (GPS),79.05854808,mph
+41900.18102,Average speed (GPS),63.68224228,mph
+41900.18102,Speed (GPS),78.94347013,mph
+41901.16202,Altitude (GPS),642.388472,feet
+41902.14802,Altitude (GPS),642.060388,feet
+41902.14802,Average speed (GPS),63.74275214,mph
+41902.14802,Speed (GPS),79.05854808,mph
+41903.21602,Altitude (GPS),641.732304,feet
+41904.16402,Altitude (GPS),641.40422,feet
+41905.16702,Altitude (GPS),640.748052,feet
+41905.16702,Average speed (GPS),63.83400419,mph
+41905.16702,Speed (GPS),78.94347013,mph
+41906.20002,Altitude (GPS),640.419968,feet
+41906.20002,Average speed (GPS),63.86425527,mph
+41906.20002,Speed (GPS),78.5982363,mph
+41907.18502,Average speed (GPS),63.89231371,mph
+41907.18502,Speed (GPS),78.25300247,mph
