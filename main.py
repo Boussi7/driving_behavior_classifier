@@ -1,12 +1,101 @@
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
+import os
 
-# Loading data and creating 3s intervals
-normal_data = pd.read_csv('clean_normal_data.csv')
+# Compress time to ensure no gaps larger than max_diff
+def compress_time(df, max_diff=2):
+    for i in range(1, len(df)):
+        time_diff = df.loc[i, 'SECONDS'] - df.loc[i-1, 'SECONDS']
+        if time_diff > max_diff:
+            df.loc[i, 'SECONDS'] = df.loc[i-1, 'SECONDS'] + max_diff
+    
+    return df
+
+def process_driving_data(input_csv_file, output_csv_file):
+    # Load the CSV file
+    df = pd.read_csv(input_csv_file)
+
+    # Filter the dataframe to keep only specified parameters
+    parameters_to_keep = ["Vehicle speed", "Instant engine power (based on fuel consumption)", "Vehicle acceleration", "Engine RPM"]
+    df = df[df['PID'].isin(parameters_to_keep)]
+
+    # Remove moments where the engine is idle or stopped
+    df = df[~((df['PID'] == "Vehicle acceleration") & (df['VALUE'] == 0))]
+    df = df[~((df['PID'] == "Engine RPM") & (df['VALUE'] < 800))]
+    df = df[~((df['PID'] == "Vehicle speed") & (df['VALUE'] == 0))]
+    df = df[~((df['PID'] == "Instant engine power (based on fuel consumption)") & (df['VALUE'] < 100))]
+
+    # Reset index to ensure sequential indexing
+    df.reset_index(drop=True, inplace=True)
+
+    # Reset SECONDS to start at 0 and increment by the change from row to row
+    start_seconds = df['SECONDS'].iloc[0]
+    df['SECONDS'] = df['SECONDS'] - start_seconds
+
+    compressed_df = compress_time(df)
+
+    # Save cleaned data to a new CSV
+    compressed_df.to_csv(output_csv_file, index=False)
+
+    return compressed_df
+
+# Accept user inupt for file
+def is_valid_filename(filename):
+    # Check if the filename is not empty
+    if not filename:
+        print("Filename cannot be empty.")
+        return False
+
+    # Check for invalid characters in the filename
+    invalid_chars = '<>:"/\\|?*'
+
+    for char in invalid_chars:
+        if char in filename:
+            print(f"Filename contains an invalid character: {char}")
+            return False
+    
+    # Make sure the filename ends in a csv
+    if not filename.endswith(".csv"):
+        print("Filename must end with '.csv'.")
+        return False
+    
+    return True
+
+class FileEmptyError(Exception):
+    """Exception raised when a file is empty."""
+    pass
+
+def open_file_safely(filepath):
+    try:
+        with open(filepath, 'r') as file:
+            content = file.read()
+            if not content:
+                raise FileEmptyError(f"The file '{filepath}' is empty.")
+        return True
+            
+    except FileNotFoundError:
+        print("Error: File not found. Please check the file path and try again.")
+    except IOError:
+        print("Error: Unable to open the file. Please check the file and try again.")
+    return False  # File did not open
+
+# Ask user for file path
+filepath = input("Please enter the path to a csv file with driving data: ")
+
+# Creating the new CSV files and dataframes for cleaned data
+normal_data = process_driving_data('normal_data.csv', 'clean_normal_data.csv')
+
+# Validates the user-entered file
+if open_file_safely(filepath):
+    driving_data = process_driving_data(filepath, 'clean_driving_data.csv')
+else:
+    exit(1)
+
+# Creates a column representing what interval a specific row of data is
+# Intervals are 3s long
+# [0,3)s is interval 1, [3,6)s is interval 2, and so on
 normal_data['interval'] = (normal_data['SECONDS'] // 3).astype(int)
-
-driving_data = pd.read_csv('clean_driving_data.csv')
 driving_data['interval'] = (driving_data['SECONDS'] // 3).astype(int)
 
 # Makes each PID a column, makes calculations easier down the line
