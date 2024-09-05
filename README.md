@@ -59,9 +59,11 @@ Logistic Regression was easier to implement and interpret but lacked the same pr
 ![normalDataPlot](https://github.com/user-attachments/assets/c5ae42bc-39c0-43f1-ac62-7431b5edaf38)
 ![drivingDataPlot](https://github.com/user-attachments/assets/0611d5c2-43ad-4e0c-8e78-a888ab9d6d22)
 
-### Neural Network Results (top) & Logisitc Regression Results (bottom)
+### Neural Network Results
 ![neuralNetworkConfMatrix](https://github.com/user-attachments/assets/7db5b57b-4ebf-4f07-b679-cf72925b772a)
 ![neuralNetworkClassifications](https://github.com/user-attachments/assets/7bdff138-095c-479e-a3c3-dc96fe93448b)
+
+### Logisitc Regression Results
 ![logRegConfMatrix](https://github.com/user-attachments/assets/41dc715a-1f43-4cb7-9aa4-e2ba4d8dc770)
 ![logRegClassifications](https://github.com/user-attachments/assets/e3bb34db-79c1-40fa-957d-5a552e439c3a)
 
